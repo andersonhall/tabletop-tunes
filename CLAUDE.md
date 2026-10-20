@@ -38,6 +38,7 @@ Hosted on **GitHub Pages** at https://andersonhall.github.io/tabletop-tunes/ (pu
 - **Watch / verify:** `gh run watch` (or the repo's Actions tab). When it's done, reload the site. A new game in `data/games/` shows up in search.
 - **Manual redeploy:** `gh workflow run deploy.yml`.
 - **One-time setup (already done):** repo visibility public; Settings → Pages → Source = "GitHub Actions".
+- **Firebase (sign-in + saved user data):** separate from Pages. Merging doesn't deploy `firestore.rules`. That's `npx firebase deploy --only firestore:rules`, run manually after a rules change is merged, with Andy's go-ahead each time. Setup, data model, and rules tests (`npm run test:rules`, needs Java 21+) are in `docs/backend.md`.
 - **Routing:** the app uses hash routes (`#/game/<slug>`), so Pages needs no 404/SPA fallback. Vite's `base` is `/tabletop-tunes/` for builds.
 
 ## Playlist generation
