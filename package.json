@@ -11,7 +11,8 @@
     "typecheck": "tsc -b",
     "bgg": "tsx tools/bgg.ts",
     "yt": "tsx tools/youtube.ts",
-    "save-playlist": "tsx tools/save-playlist.ts"
+    "save-playlist": "tsx tools/save-playlist.ts",
+    "check-playlists": "tsx tools/check-playlists.ts"
   },
   "dependencies": {
     "react": "^19.3.1",

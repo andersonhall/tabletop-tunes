@@ -13,6 +13,8 @@ Builds one game's playlist from its BoardGameGeek info, checks every track again
 
 ## Steps
 
+0. **Check existing playlists, once per session.** At the start of a playlist-generation session (not before every game in a batch), run `npm run check-playlists`. If it reports failed tracks, show Andy the report and add every listed game to this session's batch. For each one, replace the dead tracks with new picks (steps 3–6, starting from the saved track list minus the failures, re-saved with `--force`). For a game flagged as below 60 minutes, add tracks until it's back to 1–2 hours. A clean report (exit 0) means there's nothing to fix.
+
 1. **Check setup.** `.env` must have `BGG_API_TOKEN` and `YOUTUBE_API_KEY`. The tools print a clear error if one is missing. If so, point Andy to the setup section of `docs/generating-playlists.md` and stop.
 
 2. **Identify the game.** Run `npm run bgg -- search "<GAME>"`.
