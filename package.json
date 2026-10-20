@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "test": "vitest run",
+    "test:rules": "firebase emulators:exec --only firestore --project demo-tabletop-tunes \"vitest run -c vitest.rules.config.ts\"",
     "typecheck": "tsc -b",
     "bgg": "tsx tools/bgg.ts",
     "yt": "tsx tools/youtube.ts",
@@ -15,17 +16,20 @@
     "check-playlists": "tsx tools/check-playlists.ts"
   },
   "dependencies": {
+    "firebase": "^12.19.0",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
     "react-router-dom": "^7.18.4"
   },
   "devDependencies": {
+    "@firebase/rules-unit-testing": "^5.0.2",
     "@tailwindcss/vite": "^4.3.3",
     "@types/node": "^22.14.0",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.4",
     "@vitejs/plugin-react": "^6.1.0",
     "fast-xml-parser": "^5.0.0",
+    "firebase-tools": "^15.32.1",
     "tailwindcss": "^4.3.3",
     "tsx": "^4.19.0",
     "typescript": "^7.0.2",
