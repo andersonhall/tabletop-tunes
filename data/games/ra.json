@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 12,
+    "name": "Ra",
+    "year": 1999,
+    "slug": "ra"
+  },
+  "playlist": {
+    "id": "ra-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "wiqsS3L7oHk",
+        "title": "Pharaoh - Intro Underscore (1999)",
+        "channel": "Keith Zizza",
+        "durationSec": 138
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OnOtSEYulbE",
+        "title": "Assassin's Creed Origins Main Theme",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "FG03axa3uJQ",
+        "title": "Bayek of Siwa",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 156
+      },
+      {
+        "source": "youtube",
+        "sourceId": "J5wfcS5P9HQ",
+        "title": "Pharaoh -  Middle Kingdom Underscore (1999)",
+        "channel": "Keith Zizza",
+        "durationSec": 73
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sijC9skdHu8",
+        "title": "I Walk on Your Water",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "pM6LzWuoJes",
+        "title": "Pharaoh OST Lost Tracks",
+        "channel": "Petra S",
+        "durationSec": 541
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PI-KW1Btn0E",
+        "title": "The Tongueless Land",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 209
+      },
+      {
+        "source": "youtube",
+        "sourceId": "S19AkpDOdSE",
+        "title": "Nubia (The Ancient Era)",
+        "channel": "Geoff Knorr - Topic",
+        "durationSec": 165
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ACrZjfOg9A0",
+        "title": "Peaceful Egyptian Night Ambience 🌴 Assassin's Creed Origins (Sleep & Study)",
+        "channel": "Relaxing Sounds",
+        "durationSec": 3631
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0YsNaJsupwg",
+        "title": "The Order of Ancients",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 114
+      },
+      {
+        "source": "youtube",
+        "sourceId": "cTYSc5wBFEU",
+        "title": "Pharaoh OST - Mission 1 - Unused Tracks",
+        "channel": "oto999",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "efj9MRXPxA4",
+        "title": "Legions of Blood",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 159
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ki7vDol8JGA",
+        "title": "Pharaoh OST - Egypt - Unused Tracks",
+        "channel": "oto999",
+        "durationSec": 61
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fcUDwxhtYwQ",
+        "title": "Pharaoh - Credits (aka \"Egypt\") Underscore (1999)",
+        "channel": "Keith Zizza",
+        "durationSec": 61
+      }
+    ]
+  }
+}

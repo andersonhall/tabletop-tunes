@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 25613,
+    "name": "Through the Ages: A Story of Civilization",
+    "year": 2006,
+    "slug": "through-the-ages-a-story-of-civilization"
+  },
+  "playlist": {
+    "id": "through-the-ages-a-story-of-civilization-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "l8qH10FmT1I",
+        "title": "Byzantium (The Ancient Era)",
+        "channel": "Geoff Knorr - Topic",
+        "durationSec": 428
+      },
+      {
+        "source": "youtube",
+        "sourceId": "UBU_1sapmsQ",
+        "title": "England (The Ancient Era)",
+        "channel": "Geoff Knorr - Topic",
+        "durationSec": 120
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ENZM3TDh1Zo",
+        "title": "Germany (The Ancient Era)",
+        "channel": "Geoff Knorr - Topic",
+        "durationSec": 97
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-rDWQu_a6zc",
+        "title": "Stephen Rippy and Kevin McMullan - Age of Empires II: The Age of Kings Soundtrack",
+        "channel": "bananamonkey",
+        "durationSec": 1814
+      },
+      {
+        "source": "youtube",
+        "sourceId": "cl6GbqEZlUU",
+        "title": "Brazil (The Medieval Era)",
+        "channel": "Geoff Knorr - Topic",
+        "durationSec": 246
+      },
+      {
+        "source": "youtube",
+        "sourceId": "afFlanVTs08",
+        "title": "Arabia (The Medieval Era)",
+        "channel": "Geoff Knorr - Topic",
+        "durationSec": 207
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TxoBEglTdxY",
+        "title": "Civilization V OST | Enrico Dandolo Peace Theme | Rotta Ò Sonata",
+        "channel": "skummelhustler",
+        "durationSec": 261
+      },
+      {
+        "source": "youtube",
+        "sourceId": "30r_1NoKldo",
+        "title": "Civilization V OST | Elizabeth I Peace Theme | I Vow to Thee, My Country",
+        "channel": "skummelhustler",
+        "durationSec": 323
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Z_TGejOW8VE",
+        "title": "Gustavus Adolphus Peace (Civilization V OST)",
+        "channel": "peef",
+        "durationSec": 182
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2NlLmNJA-ng",
+        "title": "Nubia (The Atomic Era)",
+        "channel": "Geoff Knorr - Topic",
+        "durationSec": 258
+      },
+      {
+        "source": "youtube",
+        "sourceId": "FxfvDfYLZDw",
+        "title": "Ottoman (The Atomic Era)",
+        "channel": "Geoff Knorr - Topic",
+        "durationSec": 265
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WQYN2P3E06s",
+        "title": "Christopher Tin - Sogno di Volare (\"The Dream of Flight\") (Civilization VI Main Theme)",
+        "channel": "Christopher Tin",
+        "durationSec": 239
+      }
+    ]
+  }
+}

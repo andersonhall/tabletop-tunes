@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 43443,
+    "name": "Castle Panic",
+    "year": 2009,
+    "slug": "castle-panic"
+  },
+  "playlist": {
+    "id": "castle-panic-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "6AQZf54HrsE",
+        "title": "Kingdom Rush OST - Map Theme",
+        "channel": "Noah",
+        "durationSec": 200
+      },
+      {
+        "source": "youtube",
+        "sourceId": "p7KMf5e1z58",
+        "title": "Castle Jam",
+        "channel": "Robert L. Euvino - Topic",
+        "durationSec": 260
+      },
+      {
+        "source": "youtube",
+        "sourceId": "v85QO_RDFWA",
+        "title": "Sandal Maker",
+        "channel": "Robert L. Euvino - Topic",
+        "durationSec": 377
+      },
+      {
+        "source": "youtube",
+        "sourceId": "f8fe-SB_qx0",
+        "title": "CASTLE PANIC Board Game Background Mix | MUSIC & AMBIENCE for playing",
+        "channel": "BoardGames Ost",
+        "durationSec": 2539
+      },
+      {
+        "source": "youtube",
+        "sourceId": "F-7AgkhLvVw",
+        "title": "Stix & Stones Medley",
+        "channel": "Robert L. Euvino - Topic",
+        "durationSec": 606
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VrSCIXwQLgQ",
+        "title": "Kingdom Rush Trilogy Full OST to Get Nostalgic",
+        "channel": "Ironhide Game Studio",
+        "durationSec": 1020
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lANqUSLrjuY",
+        "title": "Dar Meshq",
+        "channel": "Robert L. Euvino - Topic",
+        "durationSec": 142
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bpIkqBSkcdI",
+        "title": "Kingdom Rush 6: Genesis | World Map Music",
+        "channel": "Ivailo Tanev",
+        "durationSec": 145
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_Bt52d8wihM",
+        "title": "Kingdom Rush 6: Genesis | Linirea Battle 1 Music",
+        "channel": "Ivailo Tanev",
+        "durationSec": 124
+      }
+    ]
+  }
+}

@@ -14,38 +14,108 @@
     "tracks": [
       {
         "source": "youtube",
-        "sourceId": "bIit9uKqA3c",
-        "title": "Home to Dragons",
-        "channel": "Jacob Shea - Topic",
-        "durationSec": 301
+        "sourceId": "MA-umEJLj3M",
+        "title": "Spirit Island Theme",
+        "channel": "Jean-Marc Giffin - Topic",
+        "durationSec": 388
       },
       {
         "source": "youtube",
-        "sourceId": "Wv3G8V4KE_o",
-        "title": "Into The Woodlands",
-        "channel": "Steven Price - Topic",
-        "durationSec": 276
-      },
-      {
-        "source": "youtube",
-        "sourceId": "Ad_9Iz_5x0c",
-        "title": "Sanctuary in the Glades",
+        "sourceId": "mwrIvHe6Yvo",
+        "title": "Ori, Embracing the Light",
         "channel": "Gareth Coker - Topic",
-        "durationSec": 166
+        "durationSec": 232
       },
       {
         "source": "youtube",
-        "sourceId": "qjlRJfFsJTg",
-        "title": "Spirit Island Soundtrack // Dark Fantasy // Ambient // Board Game Night // Background Music",
-        "channel": "Board Gems Music",
-        "durationSec": 4883
+        "sourceId": "LuQ1-VbvDWk",
+        "title": "River Surges in Sunlight",
+        "channel": "Jean-Marc Giffin - Topic",
+        "durationSec": 388
       },
       {
         "source": "youtube",
-        "sourceId": "Q2ROZKZ8u_0",
-        "title": "In the Reeds",
-        "channel": "Phoenix Glendinning - Topic",
-        "durationSec": 240
+        "sourceId": "adyJUwHQYMY",
+        "title": "A Spread of Rampant Green",
+        "channel": "Jean-Marc Giffin - Topic",
+        "durationSec": 388
+      },
+      {
+        "source": "youtube",
+        "sourceId": "uQmujfxEGi8",
+        "title": "Insula Primalis",
+        "channel": "Jean-Marc Giffin - Topic",
+        "durationSec": 322
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0W7jR-Z14Ek",
+        "title": "Serpent Slumbering Beneath the Island",
+        "channel": "Jean-Marc Giffin - Topic",
+        "durationSec": 388
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ECbhlkXAEVI",
+        "title": "Shadows of Mouldwood",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 311
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bgrxw-DRnBc",
+        "title": "Sharp Fangs Behind the Leaves",
+        "channel": "Jean-Marc Giffin - Topic",
+        "durationSec": 388
+      },
+      {
+        "source": "youtube",
+        "sourceId": "l60xYnQM4SM",
+        "title": "Vital Strength of the Earth",
+        "channel": "Jean-Marc Giffin - Topic",
+        "durationSec": 388
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jW14wHZS36U",
+        "title": "Ruins of Atlantis",
+        "channel": "Jean-Marc Giffin - Topic",
+        "durationSec": 315
+      },
+      {
+        "source": "youtube",
+        "sourceId": "eTu7t2wVXrw",
+        "title": "Ocean's Hungry Grasp",
+        "channel": "Jean-Marc Giffin - Topic",
+        "durationSec": 388
+      },
+      {
+        "source": "youtube",
+        "sourceId": "GsyhwnZ1XtI",
+        "title": "Baur's Reach",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 308
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zUOTywujymY",
+        "title": "Lightning's Swift Strike",
+        "channel": "Jean-Marc Giffin - Topic",
+        "durationSec": 388
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qmWCv0685wI",
+        "title": "Shadow Flicker Like Flame",
+        "channel": "Jean-Marc Giffin - Topic",
+        "durationSec": 388
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1v-zRggrwwo",
+        "title": "Spirit Island Victory",
+        "channel": "Jean-Marc Giffin - Topic",
+        "durationSec": 178
       }
     ]
   }

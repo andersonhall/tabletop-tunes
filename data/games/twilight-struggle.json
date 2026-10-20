@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 12333,
+    "name": "Twilight Struggle",
+    "year": 2005,
+    "slug": "twilight-struggle"
+  },
+  "playlist": {
+    "id": "twilight-struggle-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "NCDtYR-kZZs",
+        "title": "The Will Of Good Men",
+        "channel": "Trevor Jones - Topic",
+        "durationSec": 297
+      },
+      {
+        "source": "youtube",
+        "sourceId": "UXbhhG0BTac",
+        "title": "Glienicke Bridge (From \"Bridge of Spies\"/Score)",
+        "channel": "Thomas Newman - Topic",
+        "durationSec": 652
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0wB84gf5e2k",
+        "title": "There Can Be No Deals",
+        "channel": "Trevor Jones - Topic",
+        "durationSec": 433
+      },
+      {
+        "source": "youtube",
+        "sourceId": "COnVbYExh1s",
+        "title": "West Berlin (From \"Bridge of Spies\"/Score)",
+        "channel": "Thomas Newman - Topic",
+        "durationSec": 73
+      },
+      {
+        "source": "youtube",
+        "sourceId": "d5y2z7Wc7Qg",
+        "title": "The Sun Came Up Today",
+        "channel": "Trevor Jones - Topic",
+        "durationSec": 339
+      },
+      {
+        "source": "youtube",
+        "sourceId": "S6Ico-B359g",
+        "title": "Sunlit Silence (From \"Bridge of Spies\"/Score)",
+        "channel": "Thomas Newman - Topic",
+        "durationSec": 245
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mAlKU4ID2f8",
+        "title": "Lessons Of History",
+        "channel": "Trevor Jones - Topic",
+        "durationSec": 474
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8zM31mOxHVY",
+        "title": "Standing Man (From \"Bridge of Spies\"/Score)",
+        "channel": "Thomas Newman - Topic",
+        "durationSec": 132
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HZOY9qG2Jow",
+        "title": "Eve Of Eternity",
+        "channel": "Trevor Jones - Topic",
+        "durationSec": 295
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4FgFeYwoe5I",
+        "title": "Homecoming (From \"Bridge of Spies\"/Score)",
+        "channel": "Thomas Newman - Topic",
+        "durationSec": 467
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Q1-rNEw-oHk",
+        "title": "The Knot Of War",
+        "channel": "Trevor Jones - Topic",
+        "durationSec": 442
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EAm03slkbQQ",
+        "title": "Bridge of Spies (End Title)",
+        "channel": "Thomas Newman - Topic",
+        "durationSec": 418
+      }
+    ]
+  }
+}

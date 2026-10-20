@@ -21,6 +21,20 @@
       },
       {
         "source": "youtube",
+        "sourceId": "4RpNDg4PCYc",
+        "title": "Aeon's End Soundtrack - Prince of Gluttons Theme",
+        "channel": "Handelabra Games",
+        "durationSec": 202
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2BvxYwq8778",
+        "title": "Aeon's End Soundtrack - Rageborne Theme",
+        "channel": "Handelabra Games",
+        "durationSec": 278
+      },
+      {
+        "source": "youtube",
         "sourceId": "9Z9n4B_R81E",
         "title": "Aeon’s End – Epic Soundtrack & Art Tribute | Dark Fantasy Board Game Music",
         "channel": "Board Game Background Music",
@@ -28,10 +42,24 @@
       },
       {
         "source": "youtube",
-        "sourceId": "baecVMPkIWA",
-        "title": "Aeon's End - Board Game Music (Theme Music)",
-        "channel": "Telcontar",
-        "durationSec": 3600
+        "sourceId": "MfYKMCn98XQ",
+        "title": "Aeon's End Soundtrack - Crooked Mask Theme",
+        "channel": "Handelabra Games",
+        "durationSec": 230
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AlNKnaVEj6E",
+        "title": "Aeon's End Soundtrack - Carapace Queen Theme",
+        "channel": "Handelabra Games",
+        "durationSec": 214
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gLoMBmC-4VM",
+        "title": "Aeon's End Soundtrack - Victory Theme",
+        "channel": "Handelabra Games",
+        "durationSec": 110
       }
     ]
   }

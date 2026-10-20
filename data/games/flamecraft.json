@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 336986,
+    "name": "Flamecraft",
+    "year": 2022,
+    "slug": "flamecraft"
+  },
+  "playlist": {
+    "id": "flamecraft-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "i579bpR5Ukc",
+        "title": "Flamecraft (Flamecraft Original Video Game Soundtrack)",
+        "channel": "Paweł Górniak - Topic",
+        "durationSec": 125
+      },
+      {
+        "source": "youtube",
+        "sourceId": "50wLYogSdWU",
+        "title": "Paweł Górniak - Morning in the Magic Alley (Flamecraft Original Video Game Soundtrack)",
+        "channel": "Monster Couch",
+        "durationSec": 239
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XaBx0L0DC20",
+        "title": "Spiritfarer (Main Theme) -  Max LL",
+        "channel": "Max LL",
+        "durationSec": 198
+      },
+      {
+        "source": "youtube",
+        "sourceId": "xiXeOk_suP8",
+        "title": "Paweł Górniak - Secrets of Market Square (Flamecraft Original Video Game Soundtrack)",
+        "channel": "Monster Couch",
+        "durationSec": 272
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8ILrVJ5wE2M",
+        "title": "The Dragons Parade (Flamecraft Original Video Game Soundtrack)",
+        "channel": "Paweł Górniak - Topic",
+        "durationSec": 224
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LCFqkPmjQfg",
+        "title": "Song of Growth",
+        "channel": "Max LL - Topic",
+        "durationSec": 94
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HkGgxV68GMg",
+        "title": "Spiritfarer (Slowed Down Ambient Mix) - Max LL",
+        "channel": "Max LL",
+        "durationSec": 3105
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LpeKuPRJygo",
+        "title": "Paweł Górniak - A Dragon in Every Shop (Flamecraft Original Video Game Soundtrack)",
+        "channel": "Monster Couch",
+        "durationSec": 244
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wZrvSMq3kiA",
+        "title": "At Sea - Max LL",
+        "channel": "Max LL",
+        "durationSec": 187
+      },
+      {
+        "source": "youtube",
+        "sourceId": "N0gjzXYFhP0",
+        "title": "The Flamekeeper’s Waltz (Flamecraft Original Video Game Soundtrack)",
+        "channel": "Paweł Górniak - Topic",
+        "durationSec": 224
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jMwQcl7uIRc",
+        "title": "Last Voyage - Max LL",
+        "channel": "Max LL",
+        "durationSec": 164
+      }
+    ]
+  }
+}

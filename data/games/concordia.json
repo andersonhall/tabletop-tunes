@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 124361,
+    "name": "Concordia",
+    "year": 2013,
+    "slug": "concordia"
+  },
+  "playlist": {
+    "id": "concordia-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "AdeFsXaECGg",
+        "title": "Pax Romana",
+        "channel": "Dynamedion - Topic",
+        "durationSec": 356
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IuSORkPkp90",
+        "title": "Rome (Main Title Theme)",
+        "channel": "Jeff Beal - Topic",
+        "durationSec": 97
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8QkfhEzIa5w",
+        "title": "Imperator: Rome (OST/Soundtrack) - \"Hegemony\" (Main Theme)",
+        "channel": "ISellGrapeSoda",
+        "durationSec": 305
+      },
+      {
+        "source": "youtube",
+        "sourceId": "iy07xi_eMHI",
+        "title": "Lavender And Laurels",
+        "channel": "Dynamedion - Topic",
+        "durationSec": 148
+      },
+      {
+        "source": "youtube",
+        "sourceId": "di_3MjEKINg",
+        "title": "Caesar Returns to Rome",
+        "channel": "Jeff Beal - Topic",
+        "durationSec": 158
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YEKRE2uamyg",
+        "title": "Civilization V OST | Alexander Peace Theme | Epitaph of Seikilos",
+        "channel": "skummelhustler",
+        "durationSec": 407
+      },
+      {
+        "source": "youtube",
+        "sourceId": "djNIDo_cpBY",
+        "title": "Karthago",
+        "channel": "Jonatan Järpehag - Topic",
+        "durationSec": 245
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HZ6HRwhqHuY",
+        "title": "Vorenus Holds Niobe",
+        "channel": "Jeff Beal - Topic",
+        "durationSec": 232
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lxPcigqWxrg",
+        "title": "Anno 117: Pax Romana - The Soundtrack & Atmosphere of Latium",
+        "channel": "Grummo 1305",
+        "durationSec": 1832
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sdHTnp89isA",
+        "title": "The Way Of The Spear",
+        "channel": "Dynamedion - Topic",
+        "durationSec": 102
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LlSTlud_PeI",
+        "title": "Imperator: Rome Soundtrack - We the People",
+        "channel": "Marcos Cazulo",
+        "durationSec": 234
+      },
+      {
+        "source": "youtube",
+        "sourceId": "26e18inXWPs",
+        "title": "Crossing the Rubicon",
+        "channel": "Jeff Beal - Topic",
+        "durationSec": 212
+      },
+      {
+        "source": "youtube",
+        "sourceId": "h9HwrbHZEc8",
+        "title": "Imperator: Rome Soundtrack - Hero",
+        "channel": "Marcos Cazulo",
+        "durationSec": 261
+      },
+      {
+        "source": "youtube",
+        "sourceId": "CPuvv3Q6poY",
+        "title": "Triumph",
+        "channel": "Jeff Beal - Topic",
+        "durationSec": 238
+      },
+      {
+        "source": "youtube",
+        "sourceId": "86SFUuEHxvM",
+        "title": "Greece (The Ancient Era)",
+        "channel": "Geoff Knorr - Topic",
+        "durationSec": 82
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DzpmNGftrL4",
+        "title": "Imperator: Rome - Heirs of Alexander Soundtrack - The Dawn Of Destiny",
+        "channel": "Marcos Cazulo",
+        "durationSec": 231
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6WrA8sOpaWg",
+        "title": "Vorenus Saves Pullo",
+        "channel": "Jeff Beal - Topic",
+        "durationSec": 230
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0d4fe-MLtUw",
+        "title": "Imperator: Rome - Heirs of Alexander Soundtrack - Unsung Heroes",
+        "channel": "Marcos Cazulo",
+        "durationSec": 258
+      },
+      {
+        "source": "youtube",
+        "sourceId": "7DtjzdinrHU",
+        "title": "Martial Law",
+        "channel": "Jeff Beal - Topic",
+        "durationSec": 184
+      }
+    ]
+  }
+}

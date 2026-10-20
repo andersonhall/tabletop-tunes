@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 304783,
+    "name": "Hadrian's Wall",
+    "year": 2021,
+    "slug": "hadrians-wall"
+  },
+  "playlist": {
+    "id": "hadrians-wall-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "h4Nu2Xo1dys",
+        "title": "Centurion",
+        "channel": "Ilan Eshkeri - Topic",
+        "durationSec": 186
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AwERzoDiRe4",
+        "title": "The Eagle Soundtrack HD - #2 Highlands (Atli Orvarsson)",
+        "channel": "MovieZoneET",
+        "durationSec": 135
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hCeJ7LEJUDA",
+        "title": "Contemplation - Rome Total War Original Soundtrack - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 228
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TLvJZz4Hmaw",
+        "title": "The Return Of The Eagle",
+        "channel": "Atli Örvarsson - Topic",
+        "durationSec": 179
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5c8wxrmg2vY",
+        "title": "The Eagle Soundtrack HD - #4 The Ninth Legion (Atli Orvarsson)",
+        "channel": "MovieZoneET",
+        "durationSec": 139
+      },
+      {
+        "source": "youtube",
+        "sourceId": "d3-7wjri_QE",
+        "title": "Soldier's Chant - Rome Total War Original Soundtrack - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 162
+      },
+      {
+        "source": "youtube",
+        "sourceId": "3WEQeNIR0PU",
+        "title": "The Eagle Soundtrack HD - #6 Honourable Discharge (Atli Orvarsson)",
+        "channel": "MovieZoneET",
+        "durationSec": 157
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jg4LNCP0u5E",
+        "title": "Anno 117: Pax Romana - The Soundtrack & Atmosphere of Albion",
+        "channel": "Grummo 1305",
+        "durationSec": 2039
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PAkDKjlruOk",
+        "title": "The Eagle Soundtrack HD - #10 Searching (Atli Orvarsson)",
+        "channel": "MovieZoneET",
+        "durationSec": 232
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Vpv8vaq583w",
+        "title": "Rome Total War - Rome Total War Original Soundtrack - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 182
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6qgIM9Dtky4",
+        "title": "The Eagle Soundtrack HD - #11 Barbarians (Atli Orvarsson)",
+        "channel": "MovieZoneET",
+        "durationSec": 166
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KrwrQInzKYo",
+        "title": "Gaul (The Ancient Era)",
+        "channel": "Geoff Knorr - Topic",
+        "durationSec": 201
+      },
+      {
+        "source": "youtube",
+        "sourceId": "uYzH1CBlH2I",
+        "title": "The Enemy is Near - Rome Total War Original Soundtrack - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 158
+      },
+      {
+        "source": "youtube",
+        "sourceId": "nEFm1KTcr14",
+        "title": "The Eagle Soundtrack HD - #14 Eagle Lost, Honour Lost (Atli Orvarsson)",
+        "channel": "MovieZoneET",
+        "durationSec": 94
+      },
+      {
+        "source": "youtube",
+        "sourceId": "yymF30irk4k",
+        "title": "Mobilize",
+        "channel": "Jeff van Dyck - Topic",
+        "durationSec": 114
+      },
+      {
+        "source": "youtube",
+        "sourceId": "weBXAJ4SkGY",
+        "title": "The Eagle Soundtrack HD - #16 Edge of the World (Atli Orvarsson)",
+        "channel": "MovieZoneET",
+        "durationSec": 103
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-eJWAmlKatU",
+        "title": "The Eagle Soundtrack HD - #18 The Territories (Atli Orvarsson)",
+        "channel": "MovieZoneET",
+        "durationSec": 274
+      }
+    ]
+  }
+}

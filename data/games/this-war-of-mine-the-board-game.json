@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 188920,
+    "name": "This War of Mine: The Board Game",
+    "year": 2017,
+    "slug": "this-war-of-mine-the-board-game"
+  },
+  "playlist": {
+    "id": "this-war-of-mine-the-board-game-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "sY57q1xruHY",
+        "title": "This War of Mine",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 52
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-EQlwB_4ffk",
+        "title": "These Cold Days",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 232
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6xQ0QnbpTi4",
+        "title": "Nocturne, B. 49: Lento con gran espressione in C-Sharp Minor",
+        "channel": "Janusz Olejniczak - Topic",
+        "durationSec": 245
+      },
+      {
+        "source": "youtube",
+        "sourceId": "kQFaMAAdDSE",
+        "title": "Frostpunk Theme",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 187
+      },
+      {
+        "source": "youtube",
+        "sourceId": "syzX1oCa_1Q",
+        "title": "Things Right and Wrong",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 103
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BGvwD-9kvSg",
+        "title": "\"Some Place We Called Home\" by Piotr Musiał – This War of Mine (OST)",
+        "channel": "Black Screen Records",
+        "durationSec": 228
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DYc2-Oxi5F4",
+        "title": "The Inevitable",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 247
+      },
+      {
+        "source": "youtube",
+        "sourceId": "G_uLCAZVh5Y",
+        "title": "Ballade No. 1 in G Minor, Op. 23",
+        "channel": "Janusz Olejniczak - Topic",
+        "durationSec": 533
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_kz7Jj8CcnA",
+        "title": "Still Alive Inside",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 180
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XBlTuiU4cYQ",
+        "title": "On the Edge Theme",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 170
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MkftRe3lt-k",
+        "title": "05 - No Good Choice - This War of Mine OST by Piotr Musial",
+        "channel": "j2k5",
+        "durationSec": 181
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5hCbiYOYERQ",
+        "title": "Nocturne in E minor, Op. 72, No. 1",
+        "channel": "Janusz Olejniczak - Topic",
+        "durationSec": 263
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WAsFGJAmVHY",
+        "title": "Are We Alone?",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 234
+      },
+      {
+        "source": "youtube",
+        "sourceId": "rnCToj1BhLM",
+        "title": "This War of Mine  - Alone",
+        "channel": "Video Game Music",
+        "durationSec": 188
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0Ut9CmqJrc4",
+        "title": "The Great Old Enemy",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 281
+      },
+      {
+        "source": "youtube",
+        "sourceId": "oMjfTQhoXbw",
+        "title": "Nocturne in C minor, Op. 48, No. 1",
+        "channel": "Janusz Olejniczak - Topic",
+        "durationSec": 350
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ESROy5l_3tA",
+        "title": "Piotr Musial - We Keep Going",
+        "channel": "This War Of Mine Thailand Franchise",
+        "durationSec": 188
+      },
+      {
+        "source": "youtube",
+        "sourceId": "oVZ9nRAFR8s",
+        "title": "The City Must Survive",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 251
+      }
+    ]
+  }
+}

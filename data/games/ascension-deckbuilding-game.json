@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 69789,
+    "name": "Ascension: Deckbuilding Game",
+    "year": 2010,
+    "slug": "ascension-deckbuilding-game"
+  },
+  "playlist": {
+    "id": "ascension-deckbuilding-game-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "itjTAg_TjpI",
+        "title": "Endless Legend: Auriga's Song (Main Title) - By FlybyNo",
+        "channel": "MobiusKnight",
+        "durationSec": 201
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TJsrHofwyW8",
+        "title": "[EPIC] - FlybyNo - Endless Legend Soundtrack - 26 The Forest Spirit (Wild Walkers)",
+        "channel": "Free Licence music for Youtube",
+        "durationSec": 191
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5stpZhw1mPo",
+        "title": "Endless Legend OST - Nomadic Cities",
+        "channel": "G4F Records",
+        "durationSec": 243
+      },
+      {
+        "source": "youtube",
+        "sourceId": "W4WAoC42qw0",
+        "title": "Ascension Board Game Music",
+        "channel": "Telcontar",
+        "durationSec": 4207
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ULsiDgyNmkY",
+        "title": "Endless Legend: Geology - By FlybyNo",
+        "channel": "MobiusKnight",
+        "durationSec": 288
+      },
+      {
+        "source": "youtube",
+        "sourceId": "7HBI4aSzw0E",
+        "title": "Endless Legend OST | 5 - Skylark",
+        "channel": "Emil B",
+        "durationSec": 255
+      },
+      {
+        "source": "youtube",
+        "sourceId": "y8Xce_s5WIM",
+        "title": "Endless Legend: Shadows OST | 36 - Glassteel",
+        "channel": "Emil B",
+        "durationSec": 239
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qR0EjcfFFe8",
+        "title": "Endless Legend: Shadows OST | 38 - Skyglade",
+        "channel": "Emil B",
+        "durationSec": 218
+      }
+    ]
+  }
+}

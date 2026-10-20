@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 10630,
+    "name": "Memoir '44",
+    "year": 2004,
+    "slug": "memoir-44"
+  },
+  "playlist": {
+    "id": "memoir-44-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "9NoXcbXCNKM",
+        "title": "Medal Of Honor (Main Theme)",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 248
+      },
+      {
+        "source": "youtube",
+        "sourceId": "aTn4ioTCyL8",
+        "title": "Bring Forth the Tanks",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 185
+      },
+      {
+        "source": "youtube",
+        "sourceId": "7_C47XTuNQE",
+        "title": "Operation Market Garden",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 333
+      },
+      {
+        "source": "youtube",
+        "sourceId": "23j-HWur-qU",
+        "title": "Company of Heroes. Soundtrack by Jeremy Soule.",
+        "channel": "Roger Daniels",
+        "durationSec": 180
+      },
+      {
+        "source": "youtube",
+        "sourceId": "W25SojiWHgI",
+        "title": "Krakow",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 263
+      },
+      {
+        "source": "youtube",
+        "sourceId": "U_3V2zl_3go",
+        "title": "The Battle Of Monte Cassino",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XFcXtPnSNcs",
+        "title": "Company of Heroes best theme (Jeremy Soule)",
+        "channel": "MM",
+        "durationSec": 171
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YNYtJvr5NLo",
+        "title": "Operation Barbarossa",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 185
+      },
+      {
+        "source": "youtube",
+        "sourceId": "waNvlWTdUXo",
+        "title": "Border Town",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 217
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0X-nsjKzZmA",
+        "title": "Company of Heroes - Songs from the Front: Sunrise on the Battlefield",
+        "channel": "Kaito Haibara",
+        "durationSec": 142
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4aAN-62R6T8",
+        "title": "Empire Of The Sun",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 324
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MxmXSy9DafI",
+        "title": "Sturmgeist's Armored Train",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 234
+      },
+      {
+        "source": "youtube",
+        "sourceId": "44RoK_4qAcQ",
+        "title": "Hearts of Iron IV Soundtrack: Battle of Wuhan",
+        "channel": "Deutscher Kaiser",
+        "durationSec": 211
+      },
+      {
+        "source": "youtube",
+        "sourceId": "W1CknvQwRwc",
+        "title": "Retribution",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 188
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Vb8mOHXqGd8",
+        "title": "Company of Heroes - Songs from the Front: Tales of the Front",
+        "channel": "Kaito Haibara",
+        "durationSec": 72
+      },
+      {
+        "source": "youtube",
+        "sourceId": "7nr_5UNC3Vo",
+        "title": "Escaping Gotha",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 439
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Qg6teU2Q2bg",
+        "title": "Hearts of Iron IV - OST - Rise of The Axis Powers, Orchestra recording",
+        "channel": "Paradox Interactive",
+        "durationSec": 141
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fvpQMTY8H9Y",
+        "title": "Hymn To The Fallen (From \"Saving Private Ryan\" Soundtrack)",
+        "channel": "John Williams - Topic",
+        "durationSec": 371
+      }
+    ]
+  }
+}

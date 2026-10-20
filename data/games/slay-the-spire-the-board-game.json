@@ -42,6 +42,20 @@
       },
       {
         "source": "youtube",
+        "sourceId": "MNkuYkPqNsk",
+        "title": "Initial Ascent",
+        "channel": "Jordan Chin - Topic",
+        "durationSec": 189
+      },
+      {
+        "source": "youtube",
+        "sourceId": "umVu_HOe8so",
+        "title": "Arkion, Scion of Savagery",
+        "channel": "Jordan Chin - Topic",
+        "durationSec": 221
+      },
+      {
+        "source": "youtube",
         "sourceId": "Xt3oMIfqqxk",
         "title": "The City",
         "channel": "Clark Aboud - Topic",
@@ -49,10 +63,45 @@
       },
       {
         "source": "youtube",
+        "sourceId": "p4BF3CReYBg",
+        "title": "Battle With the Champ",
+        "channel": "Clark Aboud - Topic",
+        "durationSec": 138
+      },
+      {
+        "source": "youtube",
+        "sourceId": "7mjFguk8zlI",
+        "title": "Stryx & Hallow",
+        "channel": "Jordan Chin - Topic",
+        "durationSec": 185
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tdJ_iwFL6R8",
+        "title": "Seraph, the Traitor",
+        "channel": "Jordan Chin - Topic",
+        "durationSec": 326
+      },
+      {
+        "source": "youtube",
         "sourceId": "s0OjpnWv46w",
         "title": "The Unknown",
         "channel": "Clark Aboud - Topic",
         "durationSec": 68
+      },
+      {
+        "source": "youtube",
+        "sourceId": "E7YXw42UDoE",
+        "title": "Slay The Spire 2 UnderDocks Battle Music \"ACT 1\"",
+        "channel": "Purehollow",
+        "durationSec": 531
+      },
+      {
+        "source": "youtube",
+        "sourceId": "eMWcPC16hR8",
+        "title": "Lifemother",
+        "channel": "Jordan Chin - Topic",
+        "durationSec": 216
       },
       {
         "source": "youtube",
@@ -70,6 +119,20 @@
       },
       {
         "source": "youtube",
+        "sourceId": "yrrjBX4Wdjg",
+        "title": "Slay The Spire 2 Battle Music ",
+        "channel": "Purehollow",
+        "durationSec": 235
+      },
+      {
+        "source": "youtube",
+        "sourceId": "nBkpmmHGKYg",
+        "title": "Daedalus, the Professor",
+        "channel": "Jordan Chin - Topic",
+        "durationSec": 243
+      },
+      {
+        "source": "youtube",
         "sourceId": "FMQIEYT6fbg",
         "title": "The Awakened One",
         "channel": "Clark Aboud - Topic",
@@ -84,6 +147,27 @@
       },
       {
         "source": "youtube",
+        "sourceId": "XL_VLBLbDtU",
+        "title": "Test Subject Boss Theme Slay The spire 2 OST",
+        "channel": "Purehollow",
+        "durationSec": 256
+      },
+      {
+        "source": "youtube",
+        "sourceId": "48-gflWLeBw",
+        "title": "Monster Train OST: The Last Divinity",
+        "channel": "Jordan Chin",
+        "durationSec": 214
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KlS3jkEhi7o",
+        "title": "Seraph Aeternus",
+        "channel": "Jordan Chin - Topic",
+        "durationSec": 214
+      },
+      {
+        "source": "youtube",
         "sourceId": "0nikQR7rZig",
         "title": "The Heart",
         "channel": "Clark Aboud - Topic",
@@ -95,13 +179,6 @@
         "title": "The Ending",
         "channel": "Clark Aboud - Topic",
         "durationSec": 224
-      },
-      {
-        "source": "youtube",
-        "sourceId": "Q5a7lh1zkPY",
-        "title": "Slay the Spire OST (Original Soundtrack) - Clark Aboud [Full]",
-        "channel": "Kami Gawa",
-        "durationSec": 3230
       }
     ]
   }

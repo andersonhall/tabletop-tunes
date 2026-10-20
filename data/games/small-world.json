@@ -21,13 +21,6 @@
       },
       {
         "source": "youtube",
-        "sourceId": "q43G9FTaomg",
-        "title": "Heroes 3 of Might and Magic Soundtrack (ost) [complete / HD]",
-        "channel": "Nero",
-        "durationSec": 4205
-      },
-      {
-        "source": "youtube",
         "sourceId": "10pfxaWQsHA",
         "title": "Heroes of Might and Magic III: Rampart theme by Paul Romero",
         "channel": "fikujez",
@@ -35,10 +28,59 @@
       },
       {
         "source": "youtube",
+        "sourceId": "RSNthjJ5jtE",
+        "title": "FableOakvale",
+        "channel": "Russell Shaw Music",
+        "durationSec": 224
+      },
+      {
+        "source": "youtube",
         "sourceId": "GSwATqPUsv0",
         "title": "Heroes of Might and Magic 3 Music: Combat 2",
         "channel": "kattemallo",
         "durationSec": 161
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QMzzOSwNBxg",
+        "title": "Heroes Of Might And Magic III Soundtrack-Neutral Theme",
+        "channel": "Swaino",
+        "durationSec": 101
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gP1XNzSEYnc",
+        "title": "Fable - (Original Full Soundtrack) - (2004) - Russell Shaw - OST -",
+        "channel": "♫Dark♫Phoenix♫",
+        "durationSec": 2991
+      },
+      {
+        "source": "youtube",
+        "sourceId": "pQeLs9TX2JA",
+        "title": "Heroes of Might and Magic III: Stronghold theme by Paul Romero",
+        "channel": "fikujez",
+        "durationSec": 140
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OCbqDPQqzCY",
+        "title": "Heroes of Might and Magic III: Inferno theme by Paul Romero",
+        "channel": "fikujez",
+        "durationSec": 136
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hFtF1oWBXuA",
+        "title": "Heroes Orchestra - Fortress (with Paul Anthony Romero)",
+        "channel": "Heroes Orchestra",
+        "durationSec": 182
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZixWDlSn_Cs",
+        "title": "CAGMO - Heroes of Might and Magic Symphony - Battle Theme (feat. Paul Romero)",
+        "channel": "CAGMO",
+        "durationSec": 145
       }
     ]
   }

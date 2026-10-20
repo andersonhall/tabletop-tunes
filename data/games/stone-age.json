@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 34635,
+    "name": "Stone Age",
+    "year": 2008,
+    "slug": "stone-age"
+  },
+  "playlist": {
+    "id": "stone-age-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "S7uB9wddG0c",
+        "title": "Prologue",
+        "channel": "Alan Silvestri - Topic",
+        "durationSec": 130
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YF9IuXQ3o40",
+        "title": "Opening Travel Music",
+        "channel": "David Newman - Topic",
+        "durationSec": 78
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Lg9vO_UZY6E",
+        "title": "Far Cry Primal (OST) / Jason Graves - Sarta Wenja",
+        "channel": "Ubisoft Music",
+        "durationSec": 184
+      },
+      {
+        "source": "youtube",
+        "sourceId": "W1QUomKJ7rI",
+        "title": "Big Idea",
+        "channel": "Alan Silvestri - Topic",
+        "durationSec": 156
+      },
+      {
+        "source": "youtube",
+        "sourceId": "eszkiL3VOYU",
+        "title": "Checking Out The Cave",
+        "channel": "David Newman - Topic",
+        "durationSec": 224
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_rmzs-vwVsI",
+        "title": "Smash And Grab",
+        "channel": "Alan Silvestri - Topic",
+        "durationSec": 251
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BR9-jpzgTDU",
+        "title": "Fighting Over The Melons",
+        "channel": "David Newman - Topic",
+        "durationSec": 122
+      },
+      {
+        "source": "youtube",
+        "sourceId": "X6ByCNM1KMA",
+        "title": "Far Cry Primal (OST) / Jason Graves - The Search for Lost Wenja",
+        "channel": "Ubisoft Music",
+        "durationSec": 160
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1jeNMTvY5yc",
+        "title": "Star Canopy",
+        "channel": "Alan Silvestri - Topic",
+        "durationSec": 129
+      },
+      {
+        "source": "youtube",
+        "sourceId": "3AfU4xXE2zs",
+        "title": "Baby Walks",
+        "channel": "David Newman - Topic",
+        "durationSec": 95
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DXb7uPMxhWY",
+        "title": "Angered Rhinos",
+        "channel": "David Newman - Topic",
+        "durationSec": 135
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ihC5P3IgWd0",
+        "title": "43. Going Guy's Way (The Croods Complete Score)",
+        "channel": "OfficialMovieSoundtrack",
+        "durationSec": 197
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0NG_jgnLh6E",
+        "title": "Far Cry Primal (OST) / Jason Graves - Vision of Ice",
+        "channel": "Ubisoft Music",
+        "durationSec": 184
+      },
+      {
+        "source": "youtube",
+        "sourceId": "02-tw_qKkaY",
+        "title": "Giving Back The Baby",
+        "channel": "David Newman - Topic",
+        "durationSec": 387
+      },
+      {
+        "source": "youtube",
+        "sourceId": "e2wBY3MhKmk",
+        "title": "Cantina Croods",
+        "channel": "Alan Silvestri - Topic",
+        "durationSec": 73
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QD6bp1ud67U",
+        "title": "24. Wild Ride (Ice Age Complete Score)",
+        "channel": "OfficialMovieSoundtrack",
+        "durationSec": 122
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AYF279CciCw",
+        "title": "Far Cry Primal (OST) / Jason Graves - Save the Wenja",
+        "channel": "Ubisoft Music",
+        "durationSec": 194
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jHCwGhByAVo",
+        "title": "Tigers Try To Get Baby",
+        "channel": "David Newman - Topic",
+        "durationSec": 342
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KEW90PoZf08",
+        "title": "Far Cry Primal (OST) / Jason Graves - Udam Wantari",
+        "channel": "Ubisoft Music",
+        "durationSec": 227
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KwWuV1NnxZ0",
+        "title": "Baby's Wild Ride",
+        "channel": "David Newman - Topic",
+        "durationSec": 117
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QX4UCc4BXz4",
+        "title": "The Croods Movie Score Suite -  Alan Silvestri (2013)",
+        "channel": "Lost Movie Music",
+        "durationSec": 293
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0HEj3rg3TjM",
+        "title": "Sid Theme Suite | Ice Age (2002) (Original Soundtrack) By David Newman ",
+        "channel": "The World of Multiverse",
+        "durationSec": 565
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 63628,
+    "name": "The Manhattan Project",
+    "year": 2012,
+    "slug": "the-manhattan-project"
+  },
+  "playlist": {
+    "id": "the-manhattan-project-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "j11Nm4i4XbI",
+        "title": "Oppenheimer",
+        "channel": "Ludwig Göransson - Topic",
+        "durationSec": 137
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Y62in_MbJx4",
+        "title": "Big Band Swing Music - Relaxing Retro 1940s Jazz Instrumental – Swing Era Vibes & Big Band Groove",
+        "channel": "Jazz Through The Ages",
+        "durationSec": 152
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8TLR-TTXDY8",
+        "title": "Quantum Mechanics",
+        "channel": "Ludwig Göransson - Topic",
+        "durationSec": 181
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ALU66mO-39o",
+        "title": "1 Hour of Glenn Miller’s Greatest Hits – Classic 1940s Recordings",
+        "channel": "Uncollective Music Records",
+        "durationSec": 3846
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YqfbDisiAQo",
+        "title": "Groves",
+        "channel": "Ludwig Göransson - Topic",
+        "durationSec": 184
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Pswx6OQp1Ks",
+        "title": "Destroyer Of Worlds",
+        "channel": "Ludwig Göransson - Topic",
+        "durationSec": 175
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4JZ-o3iAJv4",
+        "title": "Can You Hear The Music",
+        "channel": "Ludwig Göransson - Topic",
+        "durationSec": 111
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ja_ldPbvUN0",
+        "title": "Oppenheimer (2023) | Soundtrack - Can You Hear The Music (Extended)",
+        "channel": "Eredus",
+        "durationSec": 448
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 15062,
+    "name": "Shadows over Camelot",
+    "year": 2005,
+    "slug": "shadows-over-camelot"
+  },
+  "playlist": {
+    "id": "shadows-over-camelot-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "xJxKL6L0Los",
+        "title": "Camelot (From \"First Knight\" Soundtrack)",
+        "channel": "Jerry Goldsmith - Topic",
+        "durationSec": 139
+      },
+      {
+        "source": "youtube",
+        "sourceId": "u3D_6o8txuc",
+        "title": "The World Of The Heart - Main Title (Dragonheart/Soundtrack Version)",
+        "channel": "Randy Edelman - Topic",
+        "durationSec": 200
+      },
+      {
+        "source": "youtube",
+        "sourceId": "or3VlxFYHcE",
+        "title": "Tristan's Harp - Arthurian Medieval Music",
+        "channel": "klassiekshop",
+        "durationSec": 121
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1BtPoFcDS14",
+        "title": "First Knight | Soundtrack Suite (Jerry Goldsmith)",
+        "channel": "Soundtrack Fred",
+        "durationSec": 898
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZWYsgFSXGG8",
+        "title": "Celtic Medieval Music - In the name of the King",
+        "channel": "Filip Lackovic",
+        "durationSec": 182
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LdiRmA3HmDw",
+        "title": "King Arthur: The Legend of Excalibur - Epic Instrumental Music",
+        "channel": "ASG Relax & Epic",
+        "durationSec": 807
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VMeQ6nbE4-Y",
+        "title": "Promise Me (From \"First Knight\" Soundtrack) (Album Version)",
+        "channel": "Jerry Goldsmith - Topic",
+        "durationSec": 245
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8ZtbwQN6ado",
+        "title": "Draco (Dragonheart/Soundtrack Version)",
+        "channel": "Randy Edelman - Topic",
+        "durationSec": 76
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wL31Ouu10xE",
+        "title": "Dragonheart | Soundtrack Suite (Randy Edelman)",
+        "channel": "Soundtrack Fred",
+        "durationSec": 901
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BuK3-KjPAbI",
+        "title": "Arthurian Battle Songs – Medieval Celtic Music",
+        "channel": "Etrusco Music - Topic",
+        "durationSec": 290
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2oUal4fiEAM",
+        "title": "To The Stars (Dragonheart/Soundtrack Version)",
+        "channel": "Randy Edelman - Topic",
+        "durationSec": 195
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KRQpkE7nNqU",
+        "title": "Arthur's Farewell (From \"First Knight\" Soundtrack) (Album Version)",
+        "channel": "Jerry Goldsmith - Topic",
+        "durationSec": 324
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1s7utJSd5ao",
+        "title": "Finale (Dragonheart/Soundtrack Version)",
+        "channel": "Randy Edelman - Topic",
+        "durationSec": 331
+      }
+    ]
+  }
+}

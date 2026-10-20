@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 94362,
+    "name": "Rune Age",
+    "year": 2011,
+    "slug": "rune-age"
+  },
+  "playlist": {
+    "id": "rune-age-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "RBWsm-6w83Q",
+        "title": "Descent: Legends of the Dark Soundtrack - A Journey Begins",
+        "channel": "Fantasy Flight Games",
+        "durationSec": 75
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZarbRbkV4ak",
+        "title": "Far Horizons",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 332
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9fFIIIeeRlM",
+        "title": "Descent: Legends of the Dark Soundtrack - Kehli Theme",
+        "channel": "Fantasy Flight Games",
+        "durationSec": 212
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ys21nMW2oyc",
+        "title": "Ancient Stones",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 286
+      },
+      {
+        "source": "youtube",
+        "sourceId": "R4zwA3ak-xM",
+        "title": "Descent: Legends of the Dark Soundtrack - Brynn Theme",
+        "channel": "Fantasy Flight Games",
+        "durationSec": 214
+      },
+      {
+        "source": "youtube",
+        "sourceId": "j7GGMjCDtyg",
+        "title": "The Streets of Whiterun",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 245
+      },
+      {
+        "source": "youtube",
+        "sourceId": "X3l9v0ilOUA",
+        "title": "Descent: Legends of the Dark Soundtrack - Syrus Theme",
+        "channel": "Fantasy Flight Games",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mNwz8f3oYKU",
+        "title": "Wind Guide You",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 546
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MLRBfMDWRSI",
+        "title": "Descent: Legends of the Dark Soundtrack - Darkness Reigns",
+        "channel": "Fantasy Flight Games",
+        "durationSec": 226
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VPgZFgOvJDE",
+        "title": "Secunda",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 124
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BpXstjrDYRY",
+        "title": "Descent: Legends of the Dark Soundtrack - Vaerix Theme",
+        "channel": "Fantasy Flight Games",
+        "durationSec": 198
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hOxOJ1Zp9Yg",
+        "title": "From Past to Present",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 305
+      },
+      {
+        "source": "youtube",
+        "sourceId": "O2OqAkqnkMc",
+        "title": "Descent: Legends of the Dark Soundtrack - You Break It, You Buy It",
+        "channel": "Fantasy Flight Games",
+        "durationSec": 153
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sx3aFAfQrZA",
+        "title": "Tundra",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 230
+      },
+      {
+        "source": "youtube",
+        "sourceId": "pi6ruFhb138",
+        "title": "Descent: Legends of the Dark Soundtrack - Iron and Smoke",
+        "channel": "Fantasy Flight Games",
+        "durationSec": 139
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ez6jJHk3X4A",
+        "title": "One They Fear",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 195
+      },
+      {
+        "source": "youtube",
+        "sourceId": "c6q2t2GSJb8",
+        "title": "Sovngarde",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 217
+      },
+      {
+        "source": "youtube",
+        "sourceId": "edlKgVQC-8c",
+        "title": "Descent: Legends of the Dark Soundtrack - Legends of the Dark",
+        "channel": "Fantasy Flight Games",
+        "durationSec": 134
+      }
+    ]
+  }
+}

@@ -14,6 +14,20 @@
     "tracks": [
       {
         "source": "youtube",
+        "sourceId": "y-jNCOn4-SA",
+        "title": "Reign of the Septims",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 111
+      },
+      {
+        "source": "youtube",
+        "sourceId": "N3Q-dpgT9nI",
+        "title": "Glory of Cyrodiil",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 149
+      },
+      {
+        "source": "youtube",
         "sourceId": "E3MR4wAQn6g",
         "title": "Heroes of Might and Magic 3 ALL Town Themes",
         "channel": "Heroes of Might and Magic Music",
@@ -21,10 +35,17 @@
       },
       {
         "source": "youtube",
-        "sourceId": "O8bLz32UIkA",
-        "title": "KINGDOM | Majestic Fantasy Orchestral Music | Adventure Fantasy Music - Epic Music Mix | TONAL CHAOS",
-        "channel": "Pandora Journey",
-        "durationSec": 3388
+        "sourceId": "_zclZQK3yn0",
+        "title": "Peace of Akatosh",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 252
+      },
+      {
+        "source": "youtube",
+        "sourceId": "X2Y39ffjvkw",
+        "title": "Wings of Kynareth",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 211
       },
       {
         "source": "youtube",
@@ -32,6 +53,20 @@
         "title": "CREATION - Cinematic Fantasy Orchestral Music Mix | Epic Emotive Orchestral Music Journey",
         "channel": "Premium Music HQ",
         "durationSec": 1935
+      },
+      {
+        "source": "youtube",
+        "sourceId": "cLI4tCjWdKY",
+        "title": "Auriel's Ascension",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 186
+      },
+      {
+        "source": "youtube",
+        "sourceId": "p0nznHr4gsg",
+        "title": "Minstrel's Lament",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 282
       }
     ]
   }

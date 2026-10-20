@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 314040,
+    "name": "Pandemic Legacy: Season 0",
+    "year": 2020,
+    "slug": "pandemic-legacy-season-0"
+  },
+  "playlist": {
+    "id": "pandemic-legacy-season-0-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "kJbu6D_i9QY",
+        "title": "Tinker Tailor Soldier Spy",
+        "channel": "Alberto Iglesias - Topic",
+        "durationSec": 358
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4D5r_8FBhmk",
+        "title": "Escape From East Berlin",
+        "channel": "Daniel Pemberton - Topic",
+        "durationSec": 266
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SIv-Z1Y8zbI",
+        "title": "George Smiley",
+        "channel": "Alberto Iglesias - Topic",
+        "durationSec": 319
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MamyIhOu-mY",
+        "title": "Thursgood",
+        "channel": "Alberto Iglesias - Topic",
+        "durationSec": 166
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Wysp4IqrCLI",
+        "title": "Take You Down",
+        "channel": "Daniel Pemberton - Topic",
+        "durationSec": 207
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WyjyMBMTYjg",
+        "title": "Control",
+        "channel": "Alberto Iglesias - Topic",
+        "durationSec": 131
+      },
+      {
+        "source": "youtube",
+        "sourceId": "kifQhP59qpE",
+        "title": "Guillam",
+        "channel": "Alberto Iglesias - Topic",
+        "durationSec": 87
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2CkbPEA9bAg",
+        "title": "Bridge of Spies Movie Score Suite - Thomas Newman (2015)",
+        "channel": "Lost Movie Music",
+        "durationSec": 417
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Pw6YF3_wOrw",
+        "title": "Karla",
+        "channel": "Alberto Iglesias - Topic",
+        "durationSec": 174
+      },
+      {
+        "source": "youtube",
+        "sourceId": "H6Y0uT0-5pA",
+        "title": "Breaking Out (The Cowboy Escapes)",
+        "channel": "Daniel Pemberton - Topic",
+        "durationSec": 125
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SdtGtvYG7fo",
+        "title": "Treasure",
+        "channel": "Alberto Iglesias - Topic",
+        "durationSec": 107
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YLprUKAZPxE",
+        "title": "THE MAN FROM U.N.C.L.E. super soundtrack suite - Daniel Pemberton",
+        "channel": "Soundtrack Of The Mind",
+        "durationSec": 657
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tq_sCqYvr8Y",
+        "title": "Alleline and Bland on the Roof",
+        "channel": "Alberto Iglesias - Topic",
+        "durationSec": 146
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5wfMzbB60hs",
+        "title": "Private Citizen (From \"Bridge of Spies\"/Score)",
+        "channel": "Thomas Newman - Topic",
+        "durationSec": 96
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ca8a_EEpP5M",
+        "title": "The Unfinished Kiss",
+        "channel": "Daniel Pemberton - Topic",
+        "durationSec": 174
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sk-TjQ2DF4M",
+        "title": "The Man from UNCLE (2015) Soundtrack - Out Of The Garage",
+        "channel": "CineTracks",
+        "durationSec": 228
+      },
+      {
+        "source": "youtube",
+        "sourceId": "oy-UAOF-HfE",
+        "title": "Anything else?",
+        "channel": "Alberto Iglesias - Topic",
+        "durationSec": 209
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MX4o3tF5Lko",
+        "title": "Daniel Pemberton: The Man from U.N.C.L.E.",
+        "channel": "Loki1982axala",
+        "durationSec": 291
+      }
+    ]
+  }
+}

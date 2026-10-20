@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 355483,
+    "name": "Wandering Towers",
+    "year": 2022,
+    "slug": "wandering-towers"
+  },
+  "playlist": {
+    "id": "wandering-towers-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "Rrh8SlirtpY",
+        "title": "Ni no Kuni - Wrath of the White Witch - Main",
+        "channel": "Joe Hisaishi - Topic",
+        "durationSec": 219
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6QJC0l-W-FU",
+        "title": "Wizard101 OST: Wizard City - Commons Classic",
+        "channel": "Ambiance 101",
+        "durationSec": 124
+      },
+      {
+        "source": "youtube",
+        "sourceId": "yxvh3kv90mI",
+        "title": "Wandering Towers 🎵 Original Soundtrack — Mystic Paths & Towering Echoes | Fantasy Board Game Music",
+        "channel": "Board Game Background Music",
+        "durationSec": 2062
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wVJQLDQbekg",
+        "title": "An Unknown Land (From Ni No Kuni The Movie Soundtrack)",
+        "channel": "Joe Hisaishi - Topic",
+        "durationSec": 81
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PVP9wAyyfVE",
+        "title": "Musical Tour of the Spiral 1: Khrysalis",
+        "channel": "Nelson Everhart",
+        "durationSec": 547
+      },
+      {
+        "source": "youtube",
+        "sourceId": "cQVinUIXWlA",
+        "title": "Miracle ~ Reunion ~",
+        "channel": "Joe Hisaishi - Topic",
+        "durationSec": 171
+      },
+      {
+        "source": "youtube",
+        "sourceId": "f-Tr8BG1KU4",
+        "title": "World Map - Ni No Kuni: Wrath of the White Witch Music Extended",
+        "channel": "Silver Espeon",
+        "durationSec": 1801
+      }
+    ]
+  }
+}

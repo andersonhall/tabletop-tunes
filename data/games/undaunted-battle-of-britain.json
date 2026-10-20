@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 366495,
+    "name": "Undaunted: Battle of Britain",
+    "year": 2023,
+    "slug": "undaunted-battle-of-britain"
+  },
+  "playlist": {
+    "id": "undaunted-battle-of-britain-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "3An6ndqQPFU",
+        "title": "Theme from \"Battle of Britain\"",
+        "channel": "Geoff Love And His Orchestra - Topic",
+        "durationSec": 207
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Cj8nsH0OUSc",
+        "title": "We Shall Fight",
+        "channel": "Dario Marianelli - Topic",
+        "durationSec": 447
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Z6DUroYNI4s",
+        "title": "Hearts of Iron IV - The Royal Airforce",
+        "channel": "MasStream",
+        "durationSec": 201
+      },
+      {
+        "source": "youtube",
+        "sourceId": "N8e_4_Q63ys",
+        "title": "Winston And George",
+        "channel": "Dario Marianelli - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "kr6WTOCbDTw",
+        "title": "The Imitation Game (Main Theme) | The Imitation Game (Original Motion Picture Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 161
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-sjO1JYZfUw",
+        "title": "Battle of Britain (1969) - Complete Soundtrack | Ron Goodwin & Sir William Walton",
+        "channel": "GFY Underground",
+        "durationSec": 2281
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jBOtwhS-wg8",
+        "title": "Dynamo",
+        "channel": "Dario Marianelli - Topic",
+        "durationSec": 158
+      },
+      {
+        "source": "youtube",
+        "sourceId": "kbBEtlal2RU",
+        "title": "Running (From \"The Imitation Game\" Soundtrack)",
+        "channel": "Alexandre Desplat - Topic",
+        "durationSec": 182
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SadHXI25pzM",
+        "title": "Where Is Winston?",
+        "channel": "Dario Marianelli - Topic",
+        "durationSec": 164
+      },
+      {
+        "source": "youtube",
+        "sourceId": "xfcYhJb2l3U",
+        "title": "Alan (From \"The Imitation Game\" Soundtrack)",
+        "channel": "Alexandre Desplat - Topic",
+        "durationSec": 178
+      },
+      {
+        "source": "youtube",
+        "sourceId": "GDI5AhtArtA",
+        "title": "District Line, East, One Stop",
+        "channel": "Dario Marianelli - Topic",
+        "durationSec": 233
+      },
+      {
+        "source": "youtube",
+        "sourceId": "owSoB4s9el8",
+        "title": "Alan Turing's Legacy (From \"The Imitation Game\" Soundtrack)",
+        "channel": "Alexandre Desplat - Topic",
+        "durationSec": 117
+      }
+    ]
+  }
+}

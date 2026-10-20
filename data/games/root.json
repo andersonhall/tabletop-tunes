@@ -14,6 +14,20 @@
     "tracks": [
       {
         "source": "youtube",
+        "sourceId": "91ZOWL7MLqk",
+        "title": "ROOT OST - Menu Theme",
+        "channel": "HexZyle",
+        "durationSec": 327
+      },
+      {
+        "source": "youtube",
+        "sourceId": "12pIvk_vhCE",
+        "title": "Armello Soundtrack - A Realm Reborn",
+        "channel": "Game Music & Soundtracks",
+        "durationSec": 43
+      },
+      {
+        "source": "youtube",
         "sourceId": "T7hRsSmQ0A0",
         "title": "ROOT OST - Overworld Theme",
         "channel": "HexZyle",
@@ -21,10 +35,80 @@
       },
       {
         "source": "youtube",
-        "sourceId": "mgz0BWUhQTU",
-        "title": "ROOT Board Game Background Mix | MUSIC & AMBIENCE for playing",
-        "channel": "BoardGames Ost",
-        "durationSec": 5779
+        "sourceId": "GxGtlge9gb0",
+        "title": "Armello Soundtrack - O' King, O' Liege",
+        "channel": "Game Music & Soundtracks",
+        "durationSec": 109
+      },
+      {
+        "source": "youtube",
+        "sourceId": "d8RMl61CMNY",
+        "title": "Armello Soundtrack - Beyond Burrow",
+        "channel": "Game Music & Soundtracks",
+        "durationSec": 135
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qsgU-7yuQZo",
+        "title": "Root OST - Lake Theme",
+        "channel": "Least Lebster",
+        "durationSec": 546
+      },
+      {
+        "source": "youtube",
+        "sourceId": "27JJFcBC4QM",
+        "title": "Russell Shaw - summer fields, Autumn, Bower lake",
+        "channel": "adrianvdb",
+        "durationSec": 793
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AygbTJEj270",
+        "title": "Armello Soundtrack - The Trial of the Chosen",
+        "channel": "Game Music & Soundtracks",
+        "durationSec": 75
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XB28OJsu_rc",
+        "title": "Root OST - Mountain Theme",
+        "channel": "Least Lebster",
+        "durationSec": 546
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9WNaO3rrn6c",
+        "title": "Armello Soundtrack - Fire & Fang",
+        "channel": "Game Music & Soundtracks",
+        "durationSec": 131
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fNopIpX7oSg",
+        "title": "Root OST - Battle Theme",
+        "channel": "Least Lebster",
+        "durationSec": 340
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zzHFzSClxf0",
+        "title": "Armello Soundtrack - In Darkness",
+        "channel": "Game Music & Soundtracks",
+        "durationSec": 165
+      },
+      {
+        "source": "youtube",
+        "sourceId": "yqF-OogL2Ro",
+        "title": "Root OST - Riverfolk Main Menu Theme",
+        "channel": "Least Lebster",
+        "durationSec": 125
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YHLhKAdiJeU",
+        "title": "Armello Soundtrack - Dagger & Rose",
+        "channel": "Game Music & Soundtracks",
+        "durationSec": 118
       },
       {
         "source": "youtube",

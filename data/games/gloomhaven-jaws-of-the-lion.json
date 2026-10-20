@@ -21,10 +21,38 @@
       },
       {
         "source": "youtube",
-        "sourceId": "bjR6PNzo6fE",
-        "title": "Gloomhaven Ambient Music & Atmosphere | Relaxing Background for Board Game Play",
-        "channel": "TableTopTunes",
-        "durationSec": 4860
+        "sourceId": "CzBYx2XyG5o",
+        "title": "Pillars of Eternity Soundtrack 01 - Title Theme (Justin Bell)",
+        "channel": "THE_BOLSHEVIK",
+        "durationSec": 150
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8-17RDfGNJU",
+        "title": "Prologue",
+        "channel": "Justin E. Bell - Topic",
+        "durationSec": 150
+      },
+      {
+        "source": "youtube",
+        "sourceId": "iwtm0G-qPNk",
+        "title": "Woedica",
+        "channel": "Justin E. Bell - Topic",
+        "durationSec": 120
+      },
+      {
+        "source": "youtube",
+        "sourceId": "V6JROyzSffs",
+        "title": "Pillars of Eternity Soundtrack - Engwith",
+        "channel": "Rithelgo",
+        "durationSec": 326
+      },
+      {
+        "source": "youtube",
+        "sourceId": "spqA462wMhA",
+        "title": "Deadfire",
+        "channel": "Justin E. Bell - Topic",
+        "durationSec": 233
       },
       {
         "source": "youtube",
@@ -32,6 +60,62 @@
         "title": "Thief's Passage | Fantasy Ambiance and Music for Tabletop RPGs",
         "channel": "Kalenova",
         "durationSec": 1502
+      },
+      {
+        "source": "youtube",
+        "sourceId": "UP1KLu_ExJA",
+        "title": "Eothas",
+        "channel": "Justin E. Bell - Topic",
+        "durationSec": 235
+      },
+      {
+        "source": "youtube",
+        "sourceId": "i1bSwlu2mbY",
+        "title": "Pillars of Eternity Soundtrack - Shadow of the Sun",
+        "channel": "Rithelgo",
+        "durationSec": 109
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6IOtdmrUCN4",
+        "title": "Dyrwood",
+        "channel": "Justin E. Bell - Topic",
+        "durationSec": 267
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Bkmi0o1ZRuI",
+        "title": "Twin Elms",
+        "channel": "Justin E. Bell - Topic",
+        "durationSec": 281
+      },
+      {
+        "source": "youtube",
+        "sourceId": "H2iUcfCjXns",
+        "title": "The Gullet",
+        "channel": "Justin E. Bell - Topic",
+        "durationSec": 325
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fThfrLECI1I",
+        "title": "Pillars of Eternity Soundtrack 17 - Inn A (Justin Bell)",
+        "channel": "THE_BOLSHEVIK",
+        "durationSec": 142
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6Q4BJELaT98",
+        "title": "Periki's Overlook",
+        "channel": "Justin E. Bell - Topic",
+        "durationSec": 335
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LmDAQUfesEc",
+        "title": "Pillars of Eternity II: Deadfire Soundtrack 19 - Serpent's Crown (Justin Bell)",
+        "channel": "THE_BOLSHEVIK",
+        "durationSec": 399
       }
     ]
   }

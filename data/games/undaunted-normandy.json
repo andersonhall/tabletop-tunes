@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 268864,
+    "name": "Undaunted: Normandy",
+    "year": 2019,
+    "slug": "undaunted-normandy"
+  },
+  "playlist": {
+    "id": "undaunted-normandy-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "AB96CvvLZKc",
+        "title": "Main Titles from the HBO Miniseries | Band of Brothers (Original Motion Picture Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 149
+      },
+      {
+        "source": "youtube",
+        "sourceId": "pnDor3PjFqs",
+        "title": "Arnhem",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 352
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4b6L2Izm5yY",
+        "title": "Band of Brothers (2001) Soundtrack - Michael Kamen (Full Vinyl Rip)",
+        "channel": "DIRECT SOUND VINYL",
+        "durationSec": 4194
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bynhEw-GutM",
+        "title": "After The Drop",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 338
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hdyiWLZ8E9o",
+        "title": "Hymn To The Fallen (Reprise / From \"Saving Private Ryan\" Soundtrack)",
+        "channel": "John Williams - Topic",
+        "durationSec": 371
+      }
+    ]
+  }
+}

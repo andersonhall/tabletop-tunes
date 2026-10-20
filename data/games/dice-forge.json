@@ -14,10 +14,31 @@
     "tracks": [
       {
         "source": "youtube",
-        "sourceId": "V-MBIImJ9NU",
-        "title": "Age of Mythology - Original Game Soundtrack (OST)",
-        "channel": "Sound GhOST",
-        "durationSec": 2761
+        "sourceId": "1KoeQytTLXo",
+        "title": "Heart of the Hero | Immortals Fenyx Rising (OST) | Gareth Coker",
+        "channel": "Ubisoft Music",
+        "durationSec": 262
+      },
+      {
+        "source": "youtube",
+        "sourceId": "7qf2uNG_hRc",
+        "title": "Stephen Rippy - Age of Empire Mythologie - Gary's Reserve [End Credits]",
+        "channel": "Nerdstuff",
+        "durationSec": 203
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-OJ1lDqK7pA",
+        "title": "Stephen Rippy - Age of Empire Mythologie - Adult Swim",
+        "channel": "Nerdstuff",
+        "durationSec": 176
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XZuDjcTwLYg",
+        "title": "Fenyx's Dawn - Immortals Fenyx Rising (OST) - Gareth Coker",
+        "channel": "Ubisoft Music",
+        "durationSec": 206
       },
       {
         "source": "youtube",
@@ -25,6 +46,48 @@
         "title": "Fountain Of Eternity | Majestic Fantasy Orchestral | Epic Fantasy Adventure Mix - Eternal Eclipse",
         "channel": "Pandora Journey",
         "durationSec": 2570
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8HDi6A3_XQg",
+        "title": "Stephen Rippy - Age of Empire Mythologie - Never Mind the Slacks and Basher",
+        "channel": "Nerdstuff",
+        "durationSec": 204
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wwSirnMSUo4",
+        "title": "Age of Mythology Soundtrack - 17 Eat Your Potatoes (Quit Mix)",
+        "channel": "DucklasMacDuck",
+        "durationSec": 242
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bkRaNv8ZTRs",
+        "title": "The Corrupted Heroes | Immortals Fenyx Rising (OST) | Gareth Coker",
+        "channel": "Ubisoft Music",
+        "durationSec": 102
+      },
+      {
+        "source": "youtube",
+        "sourceId": "O_neV5ulo-Y",
+        "title": "Stephen Rippy - Age of Empire Mythologie - Chocolate Outline",
+        "channel": "Nerdstuff",
+        "durationSec": 205
+      },
+      {
+        "source": "youtube",
+        "sourceId": "GtlVQEBIBnk",
+        "title": "Age of Mythology Soundtrack - 12 Behold the Great Science Fi",
+        "channel": "DucklasMacDuck",
+        "durationSec": 181
+      },
+      {
+        "source": "youtube",
+        "sourceId": "o0_YeQ50bI4",
+        "title": "Age of Mythology Retold OST - Main Theme",
+        "channel": "SoundLess",
+        "durationSec": 53
       }
     ]
   }

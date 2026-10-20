@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 126042,
+    "name": "Nations",
+    "year": 2013,
+    "slug": "nations"
+  },
+  "playlist": {
+    "id": "nations-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "Zg7Lhoax28o",
+        "title": "Sweden (The Ancient Era)",
+        "channel": "Geoff Knorr - Topic",
+        "durationSec": 114
+      },
+      {
+        "source": "youtube",
+        "sourceId": "kh39AXVCGQk",
+        "title": "Age of Empires II Soundtrack - Track #10 - Tazer",
+        "channel": "WarhaWk183",
+        "durationSec": 179
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zHMK7OgDJjM",
+        "title": "Civilization V OST | Nebuchadnezzar II Peace Theme | Hurrian Hymn",
+        "channel": "skummelhustler",
+        "durationSec": 224
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ihzAoa67llg",
+        "title": "Indonesia (The Ancient Era)",
+        "channel": "Geoff Knorr - Topic",
+        "durationSec": 214
+      },
+      {
+        "source": "youtube",
+        "sourceId": "GWWVxuBXOMA",
+        "title": "Civilization V OST | Atilla Peace Theme | Li Ling Si Han",
+        "channel": "skummelhustler",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gtQ6dzqeIZk",
+        "title": "Age of Empires II Soundtrack - Track #3 - Drizzle (Firelight Smoove Mix)",
+        "channel": "WarhaWk183",
+        "durationSec": 154
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jrrr7w4wz18",
+        "title": "Age of Empires 2 - Soundtrack",
+        "channel": "1 hour for yourself",
+        "durationSec": 3708
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1ff6jtppLU4",
+        "title": "Babylon (The Ancient Era)",
+        "channel": "Geoff Knorr - Topic",
+        "durationSec": 165
+      },
+      {
+        "source": "youtube",
+        "sourceId": "C_ODTjkXdtk",
+        "title": "Civilization V OST | Wu Zetian Peace Theme | Gao Shan Liu Shui",
+        "channel": "skummelhustler",
+        "durationSec": 281
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BTeC4k7EuqQ",
+        "title": "Age of Empires Soundtrack - Track #4 - The Wind Gods",
+        "channel": "WarhaWk183",
+        "durationSec": 213
+      },
+      {
+        "source": "youtube",
+        "sourceId": "C0pANYJqrCE",
+        "title": "Civilization V OST Gajah Mada Peace \"Udan Mas\" - Geoff Knorr & Michael Curran",
+        "channel": "Non Copyright Claim Music Footage Contents  ",
+        "durationSec": 217
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Uu7LZB3mqaM",
+        "title": "Australia (The Ancient Era)",
+        "channel": "Geoff Knorr - Topic",
+        "durationSec": 171
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2gzN4y6XAOs",
+        "title": "Age of Empires II: The Conquerors Soundtrack 4 - Voodoodoodoo",
+        "channel": "Akhil Tandon",
+        "durationSec": 181
+      }
+    ]
+  }
+}
