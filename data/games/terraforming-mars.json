@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 167791,
+    "name": "Terraforming Mars",
+    "year": 2016,
+    "slug": "terraforming-mars"
+  },
+  "playlist": {
+    "id": "terraforming-mars-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "OlaTeXX3uH8",
+        "title": "Brian Eno - An Ending (Ascent) (Remastered 2019)",
+        "channel": "BrianEnoVEVO",
+        "durationSec": 262
+      },
+      {
+        "source": "youtube",
+        "sourceId": "28kfz4tJoy4",
+        "title": "Mars (Bonus)",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 157
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TfPPukSGX-A",
+        "title": "Mars",
+        "channel": "Harry Gregson-Williams - Topic",
+        "durationSec": 146
+      },
+      {
+        "source": "youtube",
+        "sourceId": "b6fOioWZlV0",
+        "title": "Under Stars (Remastered 2019)",
+        "channel": "Brian Eno - Topic",
+        "durationSec": 270
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hQiB5dFhmSw",
+        "title": "Red Giant",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6g7GqvuY2Iw",
+        "title": "BaCl2",
+        "channel": "George Strezov - Topic",
+        "durationSec": 380
+      },
+      {
+        "source": "youtube",
+        "sourceId": "c7IlxIxMyMQ",
+        "title": "Crossing Mars",
+        "channel": "Harry Gregson-Williams - Topic",
+        "durationSec": 217
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HXCTlsccoo8",
+        "title": "Steps",
+        "channel": "Jeff Russo - Topic",
+        "durationSec": 129
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fxzplz0Qf0k",
+        "title": "Between the Rings",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 308
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wlFQIgjUlvg",
+        "title": "AG",
+        "channel": "George Strezov - Topic",
+        "durationSec": 229
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MtnOQEWdXFU",
+        "title": "Surviving Mars: A Symphonic Exploration",
+        "channel": "Surviving Mars",
+        "durationSec": 316
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2-MmM8JER3g",
+        "title": "Making Water",
+        "channel": "Harry Gregson-Williams - Topic",
+        "durationSec": 159
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZqsQDExZPhs",
+        "title": "Cepheid",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 273
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WxMozB3OQ7k",
+        "title": "What We Can Build",
+        "channel": "Jeff Russo - Topic",
+        "durationSec": 198
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OMPE4pO1i_Y",
+        "title": "Light Years",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 365
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_YqyR3HvpX0",
+        "title": "Main Theme (Alternative Version)",
+        "channel": "George Strezov - Topic",
+        "durationSec": 149
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EKYto0XOxCc",
+        "title": "Heading for the Landing",
+        "channel": "Jeff Russo - Topic",
+        "durationSec": 160
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KNkvloKdsZk",
+        "title": "To the Great Beyond",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 335
+      },
+      {
+        "source": "youtube",
+        "sourceId": "B1Yp405H6ps",
+        "title": "The Martian Score Suite",
+        "channel": "Harry Gregson-Williams - Topic",
+        "durationSec": 260
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vVtg8_2z9dY",
+        "title": "Cosmic Sunrise",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 310
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tw_Cg74bndc",
+        "title": "Billions And Billions",
+        "channel": "Stellardrone",
+        "durationSec": 315
+      },
+      {
+        "source": "youtube",
+        "sourceId": "FJmAGSTchtM",
+        "title": "Eternity",
+        "channel": "Stellardrone",
+        "durationSec": 362
+      },
+      {
+        "source": "youtube",
+        "sourceId": "04zPNiYMbpQ",
+        "title": "Eternity (Reprise)",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 214
+      }
+    ]
+  }
+}
