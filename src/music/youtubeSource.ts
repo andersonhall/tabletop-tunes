@@ -1,4 +1,4 @@
-import type { MusicSource, MusicSourceFactory } from "./MusicSource";
+import type { MusicSource, MusicSourceFactory, ResolveResult, TrackResolver } from "./MusicSource";
 
 // Minimal typings for the parts of the YouTube IFrame Player API we use.
 // https://developers.google.com/youtube/iframe_api_reference
@@ -6,6 +6,10 @@ interface YTPlayer {
   loadVideoById(videoId: string): void;
   playVideo(): void;
   pauseVideo(): void;
+  mute(): void;
+  getDuration(): number;
+  /** Undocumented but long-standing; title/author of the loaded video. */
+  getVideoData(): { title?: string; author?: string };
   destroy(): void;
 }
 
@@ -35,6 +39,34 @@ declare global {
 const STATE_ENDED = 0;
 const STATE_PLAYING = 1;
 const STATE_PAUSED = 2;
+
+const VIDEO_ID_RE = /^[A-Za-z0-9_-]{11}$/;
+
+/**
+ * Pulls the video id out of what a user pasted: a bare id, or a youtube.com /
+ * youtu.be / music.youtube.com link (watch, shorts, embed, live). Extra
+ * parameters like a start time or playlist are ignored. Undefined if it isn't one.
+ */
+export function parseYouTubeInput(input: string): string | undefined {
+  const text = input.trim();
+  if (VIDEO_ID_RE.test(text)) return text;
+  let url: URL;
+  try {
+    url = new URL(/^https?:\/\//i.test(text) ? text : `https://${text}`);
+  } catch {
+    return undefined;
+  }
+  const host = url.hostname.toLowerCase().replace(/^(www\.|m\.)/, "");
+  let id: string | null | undefined;
+  if (host === "youtu.be") {
+    id = url.pathname.split("/")[1];
+  } else if (host === "youtube.com" || host === "music.youtube.com" || host === "youtube-nocookie.com") {
+    const [first, second] = url.pathname.split("/").filter(Boolean);
+    if (first === "watch") id = url.searchParams.get("v");
+    else if (first && ["shorts", "embed", "live", "v"].includes(first)) id = second;
+  }
+  return id && VIDEO_ID_RE.test(id) ? id : undefined;
+}
 
 /** YouTube onError codes, all of which mean "this video can't play here". */
 export function describeYouTubeError(code: number): string {
@@ -103,3 +135,87 @@ export const createYouTubeSource: MusicSourceFactory = async (container, events)
     });
   });
 };
+
+/** How long to wait for YouTube to start a pasted video before giving up. */
+const RESOLVE_TIMEOUT_MS = 15_000;
+
+export const youtubeTrackResolver: TrackResolver = {
+  identify(input) {
+    const sourceId = parseYouTubeInput(input);
+    return sourceId ? { source: "youtube", sourceId } : undefined;
+  },
+  resolve: (ref) => probeVideo(ref.sourceId),
+};
+
+/**
+ * Tests a video in a hidden, muted player: if it starts playing, it's playable
+ * here, and its title and length come from the player. No YouTube API key
+ * needed in the browser.
+ */
+async function probeVideo(id: string): Promise<ResolveResult> {
+  let YT: YTNamespace;
+  try {
+    YT = await loadIframeApi();
+  } catch (e) {
+    return { ok: false, reason: (e as Error).message };
+  }
+
+  const host = document.createElement("div");
+  // Off-screen rather than display:none, which can stop the player loading.
+  host.style.cssText = "position:fixed;left:-10000px;top:0;width:400px;height:300px;";
+  const mount = document.createElement("div");
+  host.appendChild(mount);
+  document.body.appendChild(host);
+
+  return new Promise((resolve) => {
+    let done = false;
+    let player: YTPlayer | undefined;
+    const finish = (result: ResolveResult) => {
+      if (done) return;
+      done = true;
+      clearTimeout(timer);
+      try {
+        player?.destroy();
+      } catch {
+        // Already gone.
+      }
+      host.remove();
+      resolve(result);
+    };
+    const timer = setTimeout(
+      () => finish({ ok: false, reason: "YouTube didn't respond. Try again in a moment." }),
+      RESOLVE_TIMEOUT_MS,
+    );
+
+    player = new YT.Player(mount, {
+      height: "100%",
+      width: "100%",
+      playerVars: { playsinline: 1, rel: 0, mute: 1 },
+      events: {
+        onReady: () => {
+          player!.mute();
+          player!.loadVideoById(id);
+        },
+        onStateChange: (e) => {
+          if (e.data !== STATE_PLAYING) return;
+          const durationSec = Math.round(player!.getDuration());
+          if (durationSec <= 0) {
+            return finish({ ok: false, reason: "Live streams can't be added." });
+          }
+          const data = player!.getVideoData();
+          finish({
+            ok: true,
+            track: {
+              source: "youtube",
+              sourceId: id,
+              title: data.title?.trim() || id,
+              channel: data.author?.trim() ?? "",
+              durationSec,
+            },
+          });
+        },
+        onError: (e) => finish({ ok: false, reason: `It can't be played here: ${describeYouTubeError(e.data)}.` }),
+      },
+    });
+  });
+}

@@ -56,9 +56,21 @@ npx firebase deploy --only firestore:rules
 6. **Point the CLI at the project.** Put the project id in [`.firebaserc`](../.firebaserc), then deploy the rules (see [Deploying the rules](#deploying-the-rules)).
 7. **Allowlist yourself.** Sign in on the site once. Then in *Authentication → Users*, copy your **User UID**. In *Firestore → Start collection*, create collection `writers` with document id = that UID and no fields. Reload the site. The header's "Editing isn't available for this account" note goes away.
 
+## How editing uses it
+
+The game page's editing controls ([`useGamePlaylist.ts`](../src/components/useGamePlaylist.ts), with the pure rules in [`src/data/curation.ts`](../src/data/curation.ts)) show only for an allowlisted, signed-in account.
+
+- **Remove, reorder, add** save the whole visible list as the user's copy (`savePlaylist`). The first edit to a game creates the copy.
+- **Hide everywhere** only updates `hiddenTracks`. Hidden tracks are filtered out whenever a playlist is displayed, so a hide covers every game, edited or not, without rewriting any copies. A copy is saved without hidden tracks, so un-hiding a track later (by pasting it in again) doesn't bring it back into other games' copies.
+- **Reset to generated playlist** deletes the copy (`deletePlaylist`).
+- **Undo** writes the previous state back: the previous copy (or deletes it, if the remove created it), or the previous hidden list.
+- If the copy or hidden list can't be loaded, the page shows the generated playlist with editing off, so a fallback list can never overwrite a saved copy.
+
+Adding a track tests the pasted video in a hidden, muted YouTube player (`youtubeTrackResolver` in [`youtubeSource.ts`](../src/music/youtubeSource.ts)). The title and length come from the player, so the browser needs no YouTube API key.
+
 ## Checking saved data by hand
 
-Until the editing UI (#6) exists, signed-in data can be checked from the browser's devtools console:
+Signed-in data can also be checked from the browser's devtools console:
 
 ```js
 await tabletopTunes.userData.setHiddenTracks(["youtube:test-value"]);

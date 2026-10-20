@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { allUnavailable, createQueue, jumpTo, next, prev, skipUnavailable } from "./queue";
+import { allUnavailable, createQueue, jumpTo, next, prev, reconcile, skipUnavailable } from "./queue";
 
 describe("queue", () => {
   it("advances track after track", () => {
@@ -63,5 +63,40 @@ describe("queue", () => {
   it("jumpTo ignores out-of-range indexes", () => {
     const q = createQueue(3);
     expect(jumpTo(q, 5)).toBe(q);
+  });
+});
+
+describe("reconcile", () => {
+  const keys = ["a", "b", "c", "d"];
+
+  it("keeps playing the same track when the list is reordered", () => {
+    const { queue, currentRemoved } = reconcile(createQueue(4, 1), keys, ["b", "a", "c", "d"]);
+    expect(queue.index).toBe(0);
+    expect(currentRemoved).toBe(false);
+  });
+
+  it("keeps the current track when another one is removed before it", () => {
+    const { queue } = reconcile(createQueue(4, 2), keys, ["a", "c", "d"]);
+    expect(queue).toMatchObject({ length: 3, index: 1 });
+  });
+
+  it("moves on to the next track when the current one is removed", () => {
+    const { queue, currentRemoved } = reconcile(createQueue(4, 1), keys, ["a", "c", "d"]);
+    expect(queue.index).toBe(1);
+    expect(currentRemoved).toBe(true);
+  });
+
+  it("wraps to the first track when the last one is removed while current", () => {
+    const { queue, currentRemoved } = reconcile(createQueue(4, 3), keys, ["a", "b", "c"]);
+    expect(queue.index).toBe(0);
+    expect(currentRemoved).toBe(true);
+  });
+
+  it("keeps unavailable marks on the tracks they belong to", () => {
+    const q = skipUnavailable(createQueue(4, 2)); // c unavailable, now on d
+    const { queue } = reconcile(q, keys, ["c", "a", "b", "d", "e"]);
+    expect([...queue.unavailable]).toEqual([0]);
+    expect(queue.index).toBe(3);
+    expect(queue.length).toBe(5);
   });
 });

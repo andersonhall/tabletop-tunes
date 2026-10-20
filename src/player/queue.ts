@@ -57,3 +57,31 @@ export function skipUnavailable(q: QueueState): QueueState {
   unavailable.add(q.index);
   return step({ ...q, unavailable }, 1);
 }
+
+/**
+ * Follows the track list after an edit (remove, reorder, add). Tracks are
+ * matched by key, so the current track and unavailable marks move with their
+ * tracks. If the current track was removed, the queue lands on whatever took
+ * its place (the next track), and `currentRemoved` is set.
+ */
+export function reconcile(
+  q: QueueState,
+  oldKeys: readonly string[],
+  newKeys: readonly string[],
+): { queue: QueueState; currentRemoved: boolean } {
+  const indexOf = new Map(newKeys.map((k, i) => [k, i]));
+  const unavailable = new Set<number>();
+  for (const i of q.unavailable) {
+    const moved = indexOf.get(oldKeys[i] ?? "");
+    if (moved !== undefined) unavailable.add(moved);
+  }
+  const currentKey = oldKeys[q.index];
+  const found = currentKey === undefined ? undefined : indexOf.get(currentKey);
+  if (found !== undefined) {
+    return { queue: { length: newKeys.length, index: found, unavailable }, currentRemoved: false };
+  }
+  // Tracks before the removed one keep their place, so its old position now
+  // holds the track that followed it (wrapping to the start after the last).
+  const index = newKeys.length === 0 ? 0 : q.index >= newKeys.length ? 0 : q.index;
+  return { queue: { length: newKeys.length, index, unavailable }, currentRemoved: currentKey !== undefined };
+}

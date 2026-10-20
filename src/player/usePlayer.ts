@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useRef, useState, type RefObject } from "react";
+import { trackKey } from "../backend/Backend";
 import type { Track } from "../data/schema";
 import type { MusicSource, MusicSourceFactory } from "../music/MusicSource";
 import * as Q from "./queue";
@@ -18,7 +19,11 @@ export interface PlayerApi {
   playAt(index: number): void;
 }
 
-/** Connects the pure queue to a music source rendered into `containerRef`. */
+/**
+ * Connects the pure queue to a music source rendered into `containerRef`.
+ * `tracks` may change while playing (the user edits the playlist): the queue
+ * follows the current track by key, and moves on if it was removed.
+ */
 export function usePlayer(
   tracks: readonly Track[],
   createSource: MusicSourceFactory,
@@ -34,6 +39,21 @@ export function usePlayer(
   // looping) still reloads the track.
   const [playCount, setPlayCount] = useState(0);
   const sourceRef = useRef<MusicSource | null>(null);
+
+  // An edit changed the list: re-point the queue during render, so the list
+  // and the queue never disagree for even one frame.
+  const [prevTracks, setPrevTracks] = useState(tracks);
+  if (tracks !== prevTracks) {
+    const { queue: q, currentRemoved } = Q.reconcile(queue, prevTracks.map(trackKey), tracks.map(trackKey));
+    setPrevTracks(tracks);
+    setQueue(q);
+    if (currentRemoved && started) {
+      // Playing: go straight on to the next track. Paused: don't let Resume
+      // bring back the removed track; Play will start the new current one.
+      if (playing) setPlayCount((n) => n + 1);
+      else setStarted(false);
+    }
+  }
 
   // Latest values for the source's event callbacks, which are bound once.
   const queueRef = useRef(queue);
@@ -78,15 +98,16 @@ export function usePlayer(
   useEffect(() => {
     const source = sourceRef.current;
     if (!started || !source) return;
-    if (Q.allUnavailable(queue)) {
+    if (queue.length === 0 || Q.allUnavailable(queue)) {
       source.pause();
       setPlaying(false);
       return;
     }
-    const track = tracks[queue.index];
+    const track = tracksRef.current[queue.index];
     if (track) source.play(track.sourceId);
-    // playCount (not queue) is the trigger; queue is read at the moment it fires.
-  }, [started, ready, playCount, tracks]);
+    // playCount (not queue or tracks) is the trigger, so reordering or adding
+    // tracks never restarts the current one; both are read when it fires.
+  }, [started, ready, playCount]);
 
   const togglePlay = useCallback(() => {
     const source = sourceRef.current;
