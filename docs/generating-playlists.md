@@ -22,6 +22,7 @@ The keys only ever live in `.env` on your machine. The web app doesn't use them.
 
 | Step | Command | Notes |
 |---|---|---|
+| 0. Check saved playlists | `npm run check-playlists` | Once at the start of a session. Lists dead tracks so they get fixed in the same batch. See [below](#checking-saved-playlists). |
 | 1. Find the game | `npm run bgg -- search "<name>"` | If there's more than one plausible match, Claude asks which one you mean before going further. |
 | 2. Read its theme | `npm run bgg -- thing <bggId>` | Description, categories, mechanics, families (e.g. "Theme: Cold War"). |
 | 3. Find tracks | `npm run yt -- search "<query>"` | Leans heavily instrumental/ambient. Vocal tracks only when they really fit the theme (e.g. 1940s music for Manhattan Project). Long mixes and soundtracks work well. |
@@ -36,6 +37,19 @@ A draft (step 5) is a scratch file, not committed:
 { "bggId": 12333, "name": "Twilight Struggle", "year": 2005,
   "tracks": ["<videoId or YouTube URL>", "..."] }
 ```
+
+## Checking saved playlists
+
+Videos can be taken down, made private, or have embedding turned off after a playlist is saved. To find those tracks:
+
+```
+npm run check-playlists                    # every game in data/games/
+npm run check-playlists -- cascadia seti   # just these slugs
+```
+
+It re-verifies every saved track with the same checks as `save-playlist` (exists, public, embeddable, playable in the US, fixed duration). For each game with failures, it prints the failed tracks (id, saved title, and reason) and the playlist's length without them. A game that drops below 60 minutes is flagged as needing replacement tracks. It costs 1 quota unit per 50 tracks, so checking everything takes only a few units.
+
+It exits with code 1 if any track fails, and 0 if everything plays. It only reports and never changes data files. To fix a game, regenerate or edit it through the generate-playlist skill and re-save with `--force`.
 
 ## Changing a playlist
 
