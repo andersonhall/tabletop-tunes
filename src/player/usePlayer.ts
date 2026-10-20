@@ -28,13 +28,15 @@ export interface PlayerApi {
  * Connects the pure queue to a music source rendered into `containerRef`.
  * `tracks` may change while playing (the user edits the playlist): the queue
  * follows the current track by key, and moves on if it was removed.
+ * `shuffle` may change while playing too; the current track keeps playing.
  */
 export function usePlayer(
   tracks: readonly Track[],
   createSource: MusicSourceFactory,
   containerRef: RefObject<HTMLElement | null>,
+  shuffle = false,
 ): PlayerApi {
-  const [queue, setQueue] = useState(() => Q.createQueue(tracks.length));
+  const [queue, setQueue] = useState(() => Q.setShuffle(Q.createQueue(tracks.length), shuffle));
   const [started, setStarted] = useState(false);
   const [playing, setPlaying] = useState(false);
   const [ready, setReady] = useState(false);
@@ -61,6 +63,22 @@ export function usePlayer(
       else setStarted(false);
     }
   }
+
+  // After the reconcile above, so it applies on top of it.
+  const [prevShuffle, setPrevShuffle] = useState(shuffle);
+  if (shuffle !== prevShuffle) {
+    setPrevShuffle(shuffle);
+    setQueue((q) => Q.setShuffle(q, shuffle));
+  }
+  // Set by the first play of this playlist. Until then, a shuffled start picks
+  // a fresh random order rather than walking on from track 1.
+  const begunRef = useRef(false);
+  const begin = (fresh: (q: Q.QueueState) => Q.QueueState) => {
+    const first = !begunRef.current;
+    begunRef.current = true;
+    if (first && shuffle) setQueue(fresh);
+    return first;
+  };
 
   // Latest values for the source's event callbacks, which are bound once.
   const queueRef = useRef(queue);
@@ -133,6 +151,7 @@ export function usePlayer(
 
   const autoStart = useCallback(() => {
     if (!sourceRef.current || started) return;
+    begin((q) => Q.shuffleStart(q));
     setStarted(true);
     setPlayCount((n) => n + 1);
     watchRef.current?.cancel();
@@ -140,26 +159,31 @@ export function usePlayer(
       watchRef.current = undefined;
       setBlocked(true);
     });
-  }, [started]);
+  }, [started, shuffle]);
 
   const togglePlay = useCallback(() => {
     const source = sourceRef.current;
     if (!source) return;
     cancelWatch();
     if (!started) {
+      begin((q) => Q.shuffleStart(q));
       setStarted(true);
       setPlayCount((n) => n + 1);
     } else if (playing) source.pause();
     else source.resume();
-  }, [started, playing]);
+  }, [started, playing, shuffle]);
 
-  const go = useCallback((fn: (q: Q.QueueState) => Q.QueueState) => {
+  // `fresh` replaces `fn` for the very first play when shuffled.
+  const go = (
+    fn: (q: Q.QueueState) => Q.QueueState,
+    fresh: (q: Q.QueueState) => Q.QueueState = (q) => Q.shuffleStart(q),
+  ) => {
     cancelWatch();
     setStarted(true);
     setSkipped(null);
-    setQueue(fn);
+    if (!(begin(fresh) && shuffle)) setQueue(fn);
     setPlayCount((n) => n + 1);
-  }, []);
+  };
 
   return {
     queue,
@@ -171,8 +195,12 @@ export function usePlayer(
     blocked,
     autoStart,
     togglePlay,
-    next: () => go(Q.next),
+    next: () => go((q) => Q.next(q)),
     prev: () => go(Q.prev),
-    playAt: (index) => go((q) => Q.jumpTo(q, index)),
+    playAt: (index) =>
+      go(
+        (q) => Q.jumpTo(q, index),
+        (q) => Q.shuffleStart(Q.jumpTo(q, index), Math.random, index),
+      ),
   };
 }

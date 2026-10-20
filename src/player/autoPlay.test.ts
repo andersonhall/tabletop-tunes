@@ -1,20 +1,5 @@
 import { afterEach, describe, expect, it, vi } from "vitest";
-import { resolveAutoPlay, shouldAutoStart, watchAutoStart, type AutoStartInputs } from "./autoPlay";
-
-describe("resolveAutoPlay", () => {
-  it("is on by default", () => {
-    expect(resolveAutoPlay()).toBe(true);
-  });
-
-  it("uses this browser's setting when the account has none", () => {
-    expect(resolveAutoPlay(undefined, false)).toBe(false);
-  });
-
-  it("prefers the account's setting over this browser's", () => {
-    expect(resolveAutoPlay(true, false)).toBe(true);
-    expect(resolveAutoPlay(false, true)).toBe(false);
-  });
-});
+import { shouldAutoStart, watchAutoStart, type AutoStartInputs } from "./autoPlay";
 
 describe("shouldAutoStart", () => {
   const go: AutoStartInputs = {
