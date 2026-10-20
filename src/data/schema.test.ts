@@ -58,4 +58,19 @@ describe("slugify", () => {
     expect(slugify("Agrícola")).toBe("agricola");
     expect(slugify("Robinson Crusoe & Friends")).toBe("robinson-crusoe-and-friends");
   });
+
+  it("drops apostrophes instead of splitting the word", () => {
+    expect(slugify("Andromeda's Edge")).toBe("andromedas-edge");
+    expect(slugify("Andromeda’s Edge")).toBe("andromedas-edge");
+    expect(slugify("Hey, That's My Fish!")).toBe("hey-thats-my-fish");
+    expect(slugify("Memoir '44")).toBe("memoir-44");
+  });
+
+  it("drops abbreviation periods", () => {
+    expect(slugify("Rush M.D.")).toBe("rush-md");
+    expect(slugify("Marvel Dice Masters: Avengers vs. X-Men")).toBe(
+      "marvel-dice-masters-avengers-vs-x-men",
+    );
+    expect(slugify("Version 1.5")).toBe("version-1-5");
+  });
 });
