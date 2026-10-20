@@ -42,9 +42,12 @@ export interface UserDataStore {
   getHiddenTracks(): Promise<string[]>;
   setHiddenTracks(keys: readonly string[]): Promise<void>;
   /** Undefined if the user has never changed it. */
-  getAutoPlay(): Promise<boolean | undefined>;
-  setAutoPlay(on: boolean): Promise<void>;
+  getSetting(name: SettingName): Promise<boolean | undefined>;
+  setSetting(name: SettingName, on: boolean): Promise<void>;
 }
+
+/** On/off settings kept on `users/{uid}` (the header toggles). */
+export type SettingName = "autoPlay" | "shuffle";
 
 export interface Backend {
   /** Calls `cb` now with the current state and on every change. Returns an unsubscribe. */

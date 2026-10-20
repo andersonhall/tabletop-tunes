@@ -2,7 +2,7 @@ import { useState, type ReactNode } from "react";
 import { Link } from "react-router-dom";
 import { useBackend } from "../backend/BackendProvider";
 import { isFirebaseConfigured } from "../backend/firebaseConfig";
-import { useAutoPlay } from "../settings/AutoPlayProvider";
+import { useAutoPlay, useShuffle, type BooleanSetting } from "../settings/SettingsProvider";
 
 export function Layout({ children }: { children: ReactNode }) {
   return (
@@ -15,7 +15,16 @@ export function Layout({ children }: { children: ReactNode }) {
           <p className="text-sm text-stone-400">Background music for game night.</p>
         </div>
         <div className="flex flex-wrap items-start justify-end gap-3">
-          <AutoPlayToggle />
+          <SettingToggle
+            label="Shuffle"
+            title="Play a game's playlist in a random order"
+            setting={useShuffle()}
+          />
+          <SettingToggle
+            label="Auto-play"
+            title="Start a game's playlist as soon as you open it"
+            setting={useAutoPlay()}
+          />
           <AccountControls />
         </div>
       </header>
@@ -24,26 +33,25 @@ export function Layout({ children }: { children: ReactNode }) {
   );
 }
 
-/** Whether a game's playlist starts by itself when its page opens. */
-function AutoPlayToggle() {
-  const autoPlay = useAutoPlay();
+/** An on/off setting in the header, e.g. Auto-play. */
+function SettingToggle({ label, title, setting }: { label: string; title: string; setting: BooleanSetting }) {
   return (
     <div className="text-right text-sm">
       <button
         type="button"
-        aria-pressed={autoPlay.enabled}
-        title="Start a game's playlist as soon as you open it"
-        disabled={!autoPlay.ready || autoPlay.saving}
-        onClick={() => void autoPlay.set(!autoPlay.enabled)}
+        aria-pressed={setting.enabled}
+        title={title}
+        disabled={!setting.ready || setting.saving}
+        onClick={() => void setting.set(!setting.enabled)}
         className={`rounded-full border px-4 py-1.5 hover:bg-stone-800 disabled:opacity-40 ${
-          autoPlay.enabled
+          setting.enabled
             ? "border-amber-500/60 text-amber-400 hover:border-amber-400 hover:text-amber-300"
             : "border-stone-700 text-stone-400 hover:border-stone-500 hover:text-stone-100"
         }`}
       >
-        Auto-play: {autoPlay.enabled ? "On" : "Off"}
+        {label}: {setting.enabled ? "On" : "Off"}
       </button>
-      {autoPlay.error && <p className="mt-1 text-red-400">{autoPlay.error}</p>}
+      {setting.error && <p className="mt-1 text-red-400">{setting.error}</p>}
     </div>
   );
 }

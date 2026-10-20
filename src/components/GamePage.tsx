@@ -6,7 +6,7 @@ import { createYouTubeSource, youtubeTrackResolver } from "../music/youtubeSourc
 import { usePlayer } from "../player/usePlayer";
 import { allUnavailable } from "../player/queue";
 import { shouldAutoStart } from "../player/autoPlay";
-import { useAutoPlay } from "../settings/AutoPlayProvider";
+import { useAutoPlay, useShuffle } from "../settings/SettingsProvider";
 import { formatDuration } from "../format";
 import { AddTrackForm } from "./AddTrackForm";
 import { Layout, NoPlaylist } from "./Layout";
@@ -35,7 +35,8 @@ function PlaylistPlayer({ file }: { file: GameFile }) {
   const playlist = useGamePlaylist(file);
   const { tracks } = playlist;
   const containerRef = useRef<HTMLDivElement>(null);
-  const player = usePlayer(tracks, createYouTubeSource, containerRef);
+  const shuffle = useShuffle();
+  const player = usePlayer(tracks, createYouTubeSource, containerRef, shuffle.enabled);
   const current = tracks[player.queue.index];
   const deadEnd = allUnavailable(player.queue);
   // While a signed-in user's copy loads, don't start the generated playlist.
@@ -52,7 +53,8 @@ function PlaylistPlayer({ file }: { file: GameFile }) {
     if (
       shouldAutoStart({
         enabled: autoPlay.enabled,
-        settingReady: autoPlay.ready,
+        // Shuffle too, so a shuffled playlist doesn't start at track 1 first.
+        settingReady: autoPlay.ready && shuffle.ready,
         playlistStatus: playlist.status,
         playerReady: player.ready,
         trackCount: tracks.length,
@@ -62,7 +64,7 @@ function PlaylistPlayer({ file }: { file: GameFile }) {
       autoAttempted.current = true;
       autoStart();
     }
-  }, [autoPlay.enabled, autoPlay.ready, playlist.status, player.ready, tracks.length, autoStart]);
+  }, [autoPlay.enabled, autoPlay.ready, shuffle.ready, playlist.status, player.ready, tracks.length, autoStart]);
   const blocked = player.blocked && !player.playing;
 
   return (

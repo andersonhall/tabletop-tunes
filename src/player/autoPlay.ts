@@ -4,11 +4,6 @@
 /** How long an auto-start may take to report "playing" before we call it blocked. */
 export const AUTO_START_GRACE_MS = 5_000;
 
-/** The account's setting wins, then this browser's, then the default (on). */
-export function resolveAutoPlay(account?: boolean, local?: boolean): boolean {
-  return account ?? local ?? true;
-}
-
 export interface AutoStartInputs {
   enabled: boolean;
   /** The setting has been read (from the account, or this browser). */
