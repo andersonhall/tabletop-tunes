@@ -1,16 +1,28 @@
-# {{PROJECT_NAME}}
+# tabletop-tunes
 
-{{DESCRIPTION}}
+A personal board game background-music app, like Melodice but with per-game playlists I control, so nobody else's picks end up playing during games I love.
 
 ## Vision
 
-**Problem:** TBD — fill in before adding backlog items.
+**Problem:** Melodice playlists are crowd-curated, so tracks I think are dumb end up attached to games I love, and I can't get rid of them. Its YouTube-based playback also stops when a phone locks unless you pay for YouTube Premium, so in practice we run it on the game-room PC.
 
-**Goals / success criteria:** TBD
+**Goals / success criteria:**
+- For any board game, I can quickly pull up a background-music playlist that plays only what I want, and play it at the table from the game-room PC's browser.
+- I can add, remove, and reorder tracks in a game's playlist.
+- If other people's picks are ever involved, I can permanently hide/block any track (or contributor) I don't want, and it stays gone.
+- It's built with real user accounts, a multi-user data model, and a swappable music-source layer, so it could become a monetized product later without a rewrite.
 
-**Target users:** TBD
+**Target users:** Me (Andy), primarily. Possibly other board gamers later if it's ever monetized.
 
-**Non-goals:** TBD
+**Non-goals:**
+- Matching music to game moments (scenario- or phase-specific tracks). One playlist per game.
+- Mobile-first design or locked-phone playback in the MVP. A desktop browser is the MVP target.
+- Native iOS/Android apps. It's a web app.
+- Hosting or streaming audio files ourselves.
+- Maintaining our own game database. Game info comes from BoardGameGeek.
+- Paid music APIs or subscriptions in the MVP (Apple MusicKit developer membership, YouTube Premium). The MVP uses YouTube's free embedded player and search API. Apple Music or Spotify may come later behind the music-source layer.
+- Community features in the MVP (voting, comments, public playlists), though the design shouldn't rule them out later.
+- Monetization in the MVP (payments, subscription tiers).
 
 ## Backlog
 
