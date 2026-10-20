@@ -22,6 +22,7 @@ A personal board game background-music app, like Melodice but with per-game play
 - Hosting or streaming audio files ourselves.
 - Maintaining our own game database. Game info comes from BoardGameGeek.
 - Paid music APIs or subscriptions in the MVP (Apple MusicKit developer membership, YouTube Premium). The MVP uses YouTube's free embedded player and search API. Apple Music or Spotify may come later behind the music-source layer.
+- On-demand AI generation inside the app (paid Claude API) in the MVP. MVP playlists are generated ahead of time through Claude Code under Andy's subscription and saved into the app. Playlist generation stays a separate, swappable piece so in-app generation can be added later.
 - Community features in the MVP (voting, comments, public playlists), though the design shouldn't rule them out later.
 - Monetization in the MVP (payments, subscription tiers).
 
