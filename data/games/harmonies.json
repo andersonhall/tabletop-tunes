@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 414317,
+    "name": "Harmonies",
+    "year": 2024,
+    "slug": "harmonies"
+  },
+  "playlist": {
+    "id": "harmonies-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "3OK2zO8swEs",
+        "title": "Morning Breeze (Wingspan Original Video Game Soundtrack)",
+        "channel": "Paweł Górniak - Topic",
+        "durationSec": 199
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bGyDwBioqxc",
+        "title": "Along the Path",
+        "channel": "Lorena Álvarez - Topic",
+        "durationSec": 123
+      },
+      {
+        "source": "youtube",
+        "sourceId": "R8p2YMww4WU",
+        "title": "Somewhere in the Woods (Short Hike)",
+        "channel": "Mark Sparling - Topic",
+        "durationSec": 224
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_LH0kmjW1OU",
+        "title": "Sounds of the Forest (Wingspan Original Video Game Soundtrack)",
+        "channel": "Paweł Górniak - Topic",
+        "durationSec": 155
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ad_9Iz_5x0c",
+        "title": "Sanctuary in the Glades",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 166
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hI_cA4vFbUE",
+        "title": "The Pine Grove",
+        "channel": "Lorena Álvarez - Topic",
+        "durationSec": 87
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5-Y8_2amEUc",
+        "title": "Flutter (Wingspan Original Video Game Soundtrack)",
+        "channel": "Paweł Górniak - Topic",
+        "durationSec": 240
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IuA1NZqwedQ",
+        "title": "Stardew Valley 1.5 OST",
+        "channel": "ConcernedApe",
+        "durationSec": 1081
+      },
+      {
+        "source": "youtube",
+        "sourceId": "29-nx_tl_4A",
+        "title": "Tops and Crowns (Wingspan Original Video Game Soundtrack)",
+        "channel": "Paweł Górniak - Topic",
+        "durationSec": 153
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vBreKusgIMs",
+        "title": "Breeze in the Farmyard",
+        "channel": "Lorena Álvarez - Topic",
+        "durationSec": 105
+      },
+      {
+        "source": "youtube",
+        "sourceId": "__NobC-7vfs",
+        "title": "Beach Buds (Short Hike)",
+        "channel": "Mark Sparling - Topic",
+        "durationSec": 193
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QJddPNILcj4",
+        "title": "Starting to Fly (Original Video Game Soundtrack)",
+        "channel": "Paweł Górniak - Topic",
+        "durationSec": 192
+      },
+      {
+        "source": "youtube",
+        "sourceId": "t6vWDz5NzOY",
+        "title": "Light of Nibel (feat. Aeralie Brighton)",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 260
+      },
+      {
+        "source": "youtube",
+        "sourceId": "NlwJeTWaiuk",
+        "title": "My Realm (Wingspan Original Video Game Soundtrack)",
+        "channel": "Paweł Górniak - Topic",
+        "durationSec": 131
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DGvkXEIOPb8",
+        "title": "Paweł Górniak - Lotus Wings (Wingspan: Asia Expansion Original Video Game Soundtrack)",
+        "channel": "Monster Couch",
+        "durationSec": 173
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qzDFKkKhFtg",
+        "title": "The Lynx",
+        "channel": "Lorena Álvarez - Topic",
+        "durationSec": 142
+      },
+      {
+        "source": "youtube",
+        "sourceId": "NesUq8RdQh4",
+        "title": "Crops Left Behind (Wingspan Original Video Game Soundtrack)",
+        "channel": "Paweł Górniak - Topic",
+        "durationSec": 194
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Dj635iuyqgU",
+        "title": "Sun Room (Alone with Relaxing Tea)",
+        "channel": "ConcernedApe - Topic",
+        "durationSec": 105
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fZqZ7XH9K_Y",
+        "title": "See You at the Top (Short Hike)",
+        "channel": "Mark Sparling - Topic",
+        "durationSec": 354
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_BPSjNs9qY0",
+        "title": "Now I Go (Original Video Game Soundtrack)",
+        "channel": "Paweł Górniak - Topic",
+        "durationSec": 184
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PwT2Ceiyt0Q",
+        "title": "Main Theme - Definitive Edition",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 120
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LgDJPkGvLsY",
+        "title": "A Short Flight",
+        "channel": "Mark Sparling - Topic",
+        "durationSec": 153
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mwrIvHe6Yvo",
+        "title": "Ori, Embracing the Light",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 232
+      },
+      {
+        "source": "youtube",
+        "sourceId": "JA9glWD1WSE",
+        "title": "Grandpa's Theme",
+        "channel": "ConcernedApe - Topic",
+        "durationSec": 68
+      }
+    ]
+  }
+}
