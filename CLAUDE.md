@@ -32,4 +32,14 @@ Work is tracked as GitHub issues using the User Story / Bug templates (see `ande
 
 ## Deployment
 
-Not yet defined — document the process here once this project actually ships somewhere.
+Hosted on **GitHub Pages** at https://andersonhall.github.io/tabletop-tunes/ (public repo, free tier, no login).
+
+- **Trigger:** every push to `master` runs `.github/workflows/deploy.yml`, which runs `npm ci` → `npm test` → `npm run build` and publishes `dist/` to Pages. Merging a PR is a deploy, and so is pushing a new playlist file straight to `master`. Both need Andy's explicit go-ahead each time.
+- **Watch / verify:** `gh run watch` (or the repo's Actions tab). When it's done, reload the site. A new game in `data/games/` shows up in search.
+- **Manual redeploy:** `gh workflow run deploy.yml`.
+- **One-time setup (already done):** repo visibility public; Settings → Pages → Source = "GitHub Actions".
+- **Routing:** the app uses hash routes (`#/game/<slug>`), so Pages needs no 404/SPA fallback. Vite's `base` is `/tabletop-tunes/` for builds.
+
+## Playlist generation
+
+Playlists are generated in Claude Code with the project skill `.claude/skills/generate-playlist` (procedure) and the CLI in `tools/` (BGG and YouTube Data API). API keys live in a gitignored `.env`, documented in `docs/generating-playlists.md`.
