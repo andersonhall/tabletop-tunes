@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 194594,
+    "name": "Dice Forge",
+    "year": 2017,
+    "slug": "dice-forge"
+  },
+  "playlist": {
+    "id": "dice-forge-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "V-MBIImJ9NU",
+        "title": "Age of Mythology - Original Game Soundtrack (OST)",
+        "channel": "Sound GhOST",
+        "durationSec": 2761
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ewcO1MNyRME",
+        "title": "Fountain Of Eternity | Majestic Fantasy Orchestral | Epic Fantasy Adventure Mix - Eternal Eclipse",
+        "channel": "Pandora Journey",
+        "durationSec": 2570
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 170216,
+    "name": "Blood Rage",
+    "year": 2015,
+    "slug": "blood-rage"
+  },
+  "playlist": {
+    "id": "blood-rage-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "V5Ar0dKnl6Y",
+        "title": "Bear McCreary - God of War Ragnarök | God of War Ragnarök (Original Soundtrack) ft. Eivør",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 277
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ibW8gmXHWaw",
+        "title": "Bear McCreary - Ragnarök | God of War Ragnarök (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 316
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YEq7JpVhl3E",
+        "title": "Bear McCreary - The Hand of Odin | God of War Ragnarök (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 267
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mSenytFVorc",
+        "title": "Bear McCreary - The Hammer of Thor | God of War Ragnarök (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 204
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BCk4E0me2GE",
+        "title": "Bear McCreary - Svartalfheim | God of War Ragnarök (Original Soundtrack) ft. Eivør",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 316
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VhkfnPVQyaY",
+        "title": "1 Hour of Dark & Powerful Viking Music",
+        "channel": "Danheim",
+        "durationSec": 3501
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AXwUy2uoI_M",
+        "title": "Bear McCreary - Raeb's Lament | God of War Ragnarök (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 267
+      },
+      {
+        "source": "youtube",
+        "sourceId": "P9gec3gi7vg",
+        "title": "Bear McCreary - Letting Go | God of War Ragnarök (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 568
+      },
+      {
+        "source": "youtube",
+        "sourceId": "xdaIhSQskZw",
+        "title": "Bear McCreary - Holding On | God of War Ragnarök (Original Soundtrack) ft. Eivør",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 215
+      }
+    ]
+  }
+}

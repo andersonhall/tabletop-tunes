@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 54998,
+    "name": "Cyclades",
+    "year": 2009,
+    "slug": "cyclades"
+  },
+  "playlist": {
+    "id": "cyclades-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "NOJwOmiKavY",
+        "title": "Hades - The King and the Bull",
+        "channel": "Supergiant Games",
+        "durationSec": 463
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9ESQK2tAm0U",
+        "title": "Age of Mythology Soundtrack | In-game Music",
+        "channel": "VGM Vega",
+        "durationSec": 2044
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SqFaCDvHxU4",
+        "title": "Hades - Out of Tartarus",
+        "channel": "Supergiant Games",
+        "durationSec": 355
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vqKoFKVxTYM",
+        "title": "Hades - The Painful Way",
+        "channel": "Supergiant Games",
+        "durationSec": 414
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Oll7pr4JVTQ",
+        "title": "Hades - Lament of Orpheus",
+        "channel": "Supergiant Games",
+        "durationSec": 194
+      },
+      {
+        "source": "youtube",
+        "sourceId": "cVukkhUI-xM",
+        "title": "Hades - God of the Dead",
+        "channel": "Supergiant Games",
+        "durationSec": 542
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6NBl9NXBT3g",
+        "title": "Hades - The Unseen Ones (ft. Masahiro Aoki and Daisuke Kurosawa)",
+        "channel": "Supergiant Games",
+        "durationSec": 259
+      },
+      {
+        "source": "youtube",
+        "sourceId": "oksESAMg7WM",
+        "title": "Hades - No Escape",
+        "channel": "Supergiant Games",
+        "durationSec": 146
+      }
+    ]
+  }
+}

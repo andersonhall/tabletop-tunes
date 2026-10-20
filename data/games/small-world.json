@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 40692,
+    "name": "Small World",
+    "year": 2009,
+    "slug": "small-world"
+  },
+  "playlist": {
+    "id": "small-world-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "bIYMAuPEiE8",
+        "title": "Heroes of Might and Magic 3 - main menu theme",
+        "channel": "donny galaktomet",
+        "durationSec": 75
+      },
+      {
+        "source": "youtube",
+        "sourceId": "q43G9FTaomg",
+        "title": "Heroes 3 of Might and Magic Soundtrack (ost) [complete / HD]",
+        "channel": "Nero",
+        "durationSec": 4205
+      },
+      {
+        "source": "youtube",
+        "sourceId": "10pfxaWQsHA",
+        "title": "Heroes of Might and Magic III: Rampart theme by Paul Romero",
+        "channel": "fikujez",
+        "durationSec": 167
+      },
+      {
+        "source": "youtube",
+        "sourceId": "GSwATqPUsv0",
+        "title": "Heroes of Might and Magic 3 Music: Combat 2",
+        "channel": "kattemallo",
+        "durationSec": 161
+      }
+    ]
+  }
+}

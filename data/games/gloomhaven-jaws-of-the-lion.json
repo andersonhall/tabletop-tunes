@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 291457,
+    "name": "Gloomhaven: Jaws of the Lion",
+    "year": 2020,
+    "slug": "gloomhaven-jaws-of-the-lion"
+  },
+  "playlist": {
+    "id": "gloomhaven-jaws-of-the-lion-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "MW1CREiZZH0",
+        "title": "Gloomhaven Digital OST [Title Music]",
+        "channel": "Gyxtsis",
+        "durationSec": 318
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bjR6PNzo6fE",
+        "title": "Gloomhaven Ambient Music & Atmosphere | Relaxing Background for Board Game Play",
+        "channel": "TableTopTunes",
+        "durationSec": 4860
+      },
+      {
+        "source": "youtube",
+        "sourceId": "A42Ku2-67Mg",
+        "title": "Thief's Passage | Fantasy Ambiance and Music for Tabletop RPGs",
+        "channel": "Kalenova",
+        "durationSec": 1502
+      }
+    ]
+  }
+}

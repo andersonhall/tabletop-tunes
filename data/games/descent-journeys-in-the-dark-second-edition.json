@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 104162,
+    "name": "Descent: Journeys in the Dark (Second Edition)",
+    "year": 2012,
+    "slug": "descent-journeys-in-the-dark-second-edition"
+  },
+  "playlist": {
+    "id": "descent-journeys-in-the-dark-second-edition-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "3aUH08obnTk",
+        "title": "Inon Zur - Main Theme | Dragon Age: Origins (OST)",
+        "channel": "Inon Zur",
+        "durationSec": 170
+      },
+      {
+        "source": "youtube",
+        "sourceId": "y9wm-Yk4lOw",
+        "title": "Inon Zur - Ferelden at War | Dragon Age: Origins (OST)",
+        "channel": "Inon Zur",
+        "durationSec": 178
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XfZVVursfTQ",
+        "title": "Inon Zur - I Am The One (High Fantasy Version) | Dragon Age: Origins (OST)",
+        "channel": "Inon Zur",
+        "durationSec": 244
+      },
+      {
+        "source": "youtube",
+        "sourceId": "t3B802PIuB0",
+        "title": "D&D/RPG Combat Music Mix | 1 Hour | Royalty Free | Travis Savoie",
+        "channel": "RPG Music Maker - Travis Savoie",
+        "durationSec": 3639
+      },
+      {
+        "source": "youtube",
+        "sourceId": "g6kdO5ba_wo",
+        "title": "Inon Zur - To Kill An Orge | Dragon Age: Origins (OST)",
+        "channel": "Inon Zur",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MW1bBywTExU",
+        "title": "14 Baldur's Gate 3 Original Soundtrack - Twisted Force (Battle Music 3)",
+        "channel": "Borislav Slavov (Bobby)",
+        "durationSec": 149
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EhVyExSGN2o",
+        "title": "Inon Zur - I Am The One (Dark Fantasy Ver.)| Dragon Age: Origins (OST)",
+        "channel": "Inon Zur",
+        "durationSec": 250
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Bk2AqXsJsWU",
+        "title": "Baldur's Gate 3 OST - Raphael's Final Act (Full Fight Version)",
+        "channel": "Borislav Slavov (Bobby)",
+        "durationSec": 421
+      }
+    ]
+  }
+}

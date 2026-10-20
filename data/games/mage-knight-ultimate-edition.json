@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 248562,
+    "name": "Mage Knight: Ultimate Edition",
+    "year": 2018,
+    "slug": "mage-knight-ultimate-edition"
+  },
+  "playlist": {
+    "id": "mage-knight-ultimate-edition-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "E3MR4wAQn6g",
+        "title": "Heroes of Might and Magic 3 ALL Town Themes",
+        "channel": "Heroes of Might and Magic Music",
+        "durationSec": 1408
+      },
+      {
+        "source": "youtube",
+        "sourceId": "O8bLz32UIkA",
+        "title": "KINGDOM | Majestic Fantasy Orchestral Music | Adventure Fantasy Music - Epic Music Mix | TONAL CHAOS",
+        "channel": "Pandora Journey",
+        "durationSec": 3388
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Qh1GZUff6kw",
+        "title": "CREATION - Cinematic Fantasy Orchestral Music Mix | Epic Emotive Orchestral Music Journey",
+        "channel": "Premium Music HQ",
+        "durationSec": 1935
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 699,
+    "name": "HeroQuest",
+    "year": 1989,
+    "slug": "heroquest"
+  },
+  "playlist": {
+    "id": "heroquest-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "XheJnmLAwhk",
+        "title": "Diablo 2 - Tristram (HQ)",
+        "channel": "AnotherGeneric",
+        "durationSec": 461
+      },
+      {
+        "source": "youtube",
+        "sourceId": "P9lPxsA62Us",
+        "title": "Wilderness",
+        "channel": "Matt Uelmen - Topic",
+        "durationSec": 479
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KZNoPUbaVnk",
+        "title": "Creepy Dungeon | D&D/TTRPG Music | 1 Hour",
+        "channel": "Bardify",
+        "durationSec": 3750
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0gJ4gF9PMlQ",
+        "title": "Diablo 2 - Monastery (HQ)",
+        "channel": "AnotherGeneric",
+        "durationSec": 362
+      },
+      {
+        "source": "youtube",
+        "sourceId": "GI4iHTR_FUM",
+        "title": "Diablo 2 - Harem (HQ)",
+        "channel": "AnotherGeneric",
+        "durationSec": 227
+      }
+    ]
+  }
+}

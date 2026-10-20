@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 172287,
+    "name": "Champions of Midgard",
+    "year": 2015,
+    "slug": "champions-of-midgard"
+  },
+  "playlist": {
+    "id": "champions-of-midgard-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "UgKr2c2ZebM",
+        "title": "Assassin's Creed Valhalla Main Theme (feat. Einar Selvik)",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zg2c3Q4Ppm8",
+        "title": "Trevor Morris - To Valhalla | The Vikings Final Season (Music from the TV Series)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 185
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1wNeWId7eC8",
+        "title": "Helreið Oðins - Odin’s Ride to Hel",
+        "channel": "Einar Selvik - Topic",
+        "durationSec": 303
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ScwAqTK36yE",
+        "title": "Ragnar Dreams of Home",
+        "channel": "Trevor Morris - Topic",
+        "durationSec": 102
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LsI3KNOxiaY",
+        "title": "When Horns Resound",
+        "channel": "Einar Selvik - Topic",
+        "durationSec": 157
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4-Q5o4-Ejls",
+        "title": "Skyrim Atmospheres",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 2559
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5v7-kYw9EDc",
+        "title": "Lof hins Gjafmilda - Honour To The Generous",
+        "channel": "Einar Selvik - Topic",
+        "durationSec": 192
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Dpx9JStb1ko",
+        "title": "Trevor Morris - Hvitserk's choice | The Vikings Final Season (Music from the TV Series)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 195
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Hkg8uiRadpM",
+        "title": "Ragnarok - Twilight of the Gods (feat. Einar Selvik)",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "3Uo2DmyBrBk",
+        "title": "Death of a Legend",
+        "channel": "Trevor Morris - Topic",
+        "durationSec": 147
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zeAnbiw_XIg",
+        "title": "Hrafnsmál - The Words of the Raven, Lyric Video - Assassin's Creed Valhalla (Official Video)",
+        "channel": "wardruna",
+        "durationSec": 321
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6EFeBiT5B6o",
+        "title": "The Vikings are Told of Ragnar's Death | The Vikings III (Music from the TV Series)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 130
+      },
+      {
+        "source": "youtube",
+        "sourceId": "u-M8UUxuS_0",
+        "title": "Trevor Morris - Reflections on a Hero | The Vikings Final Season (Music from the TV Series)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 146
+      },
+      {
+        "source": "youtube",
+        "sourceId": "J1ENrX73BpQ",
+        "title": "Assassin's Creed Valhalla: Til Vinskapar (Full Version) Einar Selvik EXTENDED",
+        "channel": "Dmitry Rahl",
+        "durationSec": 431
+      }
+    ]
+  }
+}

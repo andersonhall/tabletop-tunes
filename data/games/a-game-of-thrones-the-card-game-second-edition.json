@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 169255,
+    "name": "A Game of Thrones: The Card Game (Second Edition)",
+    "year": 2015,
+    "slug": "a-game-of-thrones-the-card-game-second-edition"
+  },
+  "playlist": {
+    "id": "a-game-of-thrones-the-card-game-second-edition-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "eCemS3f-LDU",
+        "title": "Game of Thrones S8 Official Soundtrack | Main Title - Ramin Djawadi | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 112
+      },
+      {
+        "source": "youtube",
+        "sourceId": "cqTRHblVB4Y",
+        "title": "Game of Thrones S5 Official Soundtrack| Dance Of Dragons - Ramin Djawadi | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OHB0g3u7M3M",
+        "title": "Game of Thrones S8 Official Soundtrack | Farewell - Ramin Djawadi | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 332
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vEP3sGEjxhY",
+        "title": "FINAL STAND - Powerful Dramatic Music | Dark Battle Orchestral Epic Music Mix - Atom Music Audio",
+        "channel": "Pandora Journey",
+        "durationSec": 1322
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5qNtmne62Vo",
+        "title": "A Lannister Always Pays His Debts",
+        "channel": "Ramin Djawadi - Topic",
+        "durationSec": 171
+      },
+      {
+        "source": "youtube",
+        "sourceId": "k1frgt0D_f4",
+        "title": "Game of Thrones S8 Official Soundtrack | The Night King - Ramin Djawadi | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 531
+      },
+      {
+        "source": "youtube",
+        "sourceId": "FFmmur73mdk",
+        "title": "BRAVERY - Epic Powerful Cinematic Music Mix | Epic Beautiful Fantasy Orchestral Music",
+        "channel": "Premium Music HQ",
+        "durationSec": 1720
+      },
+      {
+        "source": "youtube",
+        "sourceId": "clCFh5rbAIk",
+        "title": "Game of Thrones | Soundtrack - A Song of Ice and Fire (Extended)",
+        "channel": "Eredus",
+        "durationSec": 560
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VLlsIoHHL50",
+        "title": "Game of Thrones | Imperial Orchestra",
+        "channel": "Imperial Orchestra",
+        "durationSec": 538
+      }
+    ]
+  }
+}

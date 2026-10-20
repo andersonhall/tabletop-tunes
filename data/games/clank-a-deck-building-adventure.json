@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 201808,
+    "name": "Clank!: A Deck-Building Adventure",
+    "year": 2016,
+    "slug": "clank-a-deck-building-adventure"
+  },
+  "playlist": {
+    "id": "clank-a-deck-building-adventure-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "49_WHwKtUaY",
+        "title": "A Gentleman Thief (D & D/TTRPG Fantasy Exploration Music)",
+        "channel": "RM Production Music - Topic",
+        "durationSec": 188
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_RsnVOK6Fdg",
+        "title": "City of Thieves | D&D/TTRPG Music | 1 Hour",
+        "channel": "Bardify",
+        "durationSec": 3596
+      },
+      {
+        "source": "youtube",
+        "sourceId": "UOSqcpLVfNU",
+        "title": "Stealth Action",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 246
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fo0i9rk-rac",
+        "title": "Bardcore Techno 🏰 Fantasy Tavern Music for Knights & Adventurers",
+        "channel": "Halcyon Sanctuary",
+        "durationSec": 1724
+      }
+    ]
+  }
+}

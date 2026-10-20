@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 110327,
+    "name": "Lords of Waterdeep",
+    "year": 2012,
+    "slug": "lords-of-waterdeep"
+  },
+  "playlist": {
+    "id": "lords-of-waterdeep-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "Vofkw9-O18c",
+        "title": "01 Baldur's Gate 3 Original Soundtrack - Main Theme Part I",
+        "channel": "Borislav Slavov (Bobby)",
+        "durationSec": 168
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vyg5jJrZ42s",
+        "title": "Medieval Fantasy Tavern | D&D Fantasy Music and Ambience",
+        "channel": "Daydreaming of Persephone",
+        "durationSec": 4132
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1SVK7_nFz_I",
+        "title": "26 Baldur's Gate 3 Original Soundtrack - The Odds Are Cast Anew",
+        "channel": "Borislav Slavov (Bobby)",
+        "durationSec": 232
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zSVRtM1x9wQ",
+        "title": "39  Baldur's Gate 3 Original Soundtrack - Down By The River",
+        "channel": "Borislav Slavov (Bobby)",
+        "durationSec": 141
+      },
+      {
+        "source": "youtube",
+        "sourceId": "P8itmPH2jUc",
+        "title": "Baldur's Gate 3 Original Soundtrack - Nightsong (Extended cut)",
+        "channel": "Borislav Slavov (Bobby)",
+        "durationSec": 148
+      },
+      {
+        "source": "youtube",
+        "sourceId": "f_5aHf3saoY",
+        "title": "22 Baldur's Gate 3 Original Soundtrack - The Power (Orchestral version)",
+        "channel": "Borislav Slavov (Bobby)",
+        "durationSec": 279
+      }
+    ]
+  }
+}
