@@ -118,6 +118,17 @@ export function createFirebaseBackend(): Backend {
         const data = { hiddenTracks: [...keys], updatedAt: serverTimestamp() };
         await call(() => setDoc(doc(db, "users", uid()), data, { merge: true }));
       },
+
+      async getAutoPlay() {
+        const snap = await call(() => getDocFromServer(doc(db, "users", uid())));
+        const autoPlay = snap.data()?.autoPlay;
+        return typeof autoPlay === "boolean" ? autoPlay : undefined;
+      },
+
+      async setAutoPlay(on) {
+        const data = { autoPlay: on, updatedAt: serverTimestamp() };
+        await call(() => setDoc(doc(db, "users", uid()), data, { merge: true }));
+      },
     },
   };
 }
