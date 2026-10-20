@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 237182,
+    "name": "Root",
+    "year": 2018,
+    "slug": "root"
+  },
+  "playlist": {
+    "id": "root-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "T7hRsSmQ0A0",
+        "title": "ROOT OST - Overworld Theme",
+        "channel": "HexZyle",
+        "durationSec": 552
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mgz0BWUhQTU",
+        "title": "ROOT Board Game Background Mix | MUSIC & AMBIENCE for playing",
+        "channel": "BoardGames Ost",
+        "durationSec": 5779
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZQ3WU_jLWPg",
+        "title": "Root OST - Winter Theme",
+        "channel": "Least Lebster",
+        "durationSec": 546
+      }
+    ]
+  }
+}

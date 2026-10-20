@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 191189,
+    "name": "Aeon's End",
+    "year": 2016,
+    "slug": "aeons-end"
+  },
+  "playlist": {
+    "id": "aeons-end-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "kogwdZyizSs",
+        "title": "Aeon's End Soundtrack - Main Theme",
+        "channel": "Handelabra Games",
+        "durationSec": 224
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9Z9n4B_R81E",
+        "title": "Aeon’s End – Epic Soundtrack & Art Tribute | Dark Fantasy Board Game Music",
+        "channel": "Board Game Background Music",
+        "durationSec": 3184
+      },
+      {
+        "source": "youtube",
+        "sourceId": "baecVMPkIWA",
+        "title": "Aeon's End - Board Game Music (Theme Music)",
+        "channel": "Telcontar",
+        "durationSec": 3600
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 338960,
+    "name": "Slay the Spire: The Board Game",
+    "year": 2024,
+    "slug": "slay-the-spire-the-board-game"
+  },
+  "playlist": {
+    "id": "slay-the-spire-the-board-game-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "JJozg3Xn6tA",
+        "title": "Slay the Spire",
+        "channel": "Clark Aboud - Topic",
+        "durationSec": 134
+      },
+      {
+        "source": "youtube",
+        "sourceId": "b4hqq5u5Y94",
+        "title": "Exordium",
+        "channel": "Clark Aboud - Topic",
+        "durationSec": 205
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ndgdx4b64d8",
+        "title": "Act I (Exordium)",
+        "channel": "Clark Aboud - Topic",
+        "durationSec": 273
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fZAdGf--FJk",
+        "title": "Facing the Elite",
+        "channel": "Clark Aboud - Topic",
+        "durationSec": 73
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Xt3oMIfqqxk",
+        "title": "The City",
+        "channel": "Clark Aboud - Topic",
+        "durationSec": 227
+      },
+      {
+        "source": "youtube",
+        "sourceId": "s0OjpnWv46w",
+        "title": "The Unknown",
+        "channel": "Clark Aboud - Topic",
+        "durationSec": 68
+      },
+      {
+        "source": "youtube",
+        "sourceId": "7E9g6XSQT3Q",
+        "title": "The Beyond",
+        "channel": "Clark Aboud - Topic",
+        "durationSec": 222
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QaQ4FEtOMjE",
+        "title": "Act III (The Beyond)",
+        "channel": "Clark Aboud - Topic",
+        "durationSec": 254
+      },
+      {
+        "source": "youtube",
+        "sourceId": "FMQIEYT6fbg",
+        "title": "The Awakened One",
+        "channel": "Clark Aboud - Topic",
+        "durationSec": 152
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-PYfdWxFmGc",
+        "title": "Slay the Spire OST - \"The Awakened One\" 12min Extended",
+        "channel": "Kil Bii",
+        "durationSec": 720
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0nikQR7rZig",
+        "title": "The Heart",
+        "channel": "Clark Aboud - Topic",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_KVJuWnr6IU",
+        "title": "The Ending",
+        "channel": "Clark Aboud - Topic",
+        "durationSec": 224
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Q5a7lh1zkPY",
+        "title": "Slay the Spire OST (Original Soundtrack) - Clark Aboud [Full]",
+        "channel": "Kami Gawa",
+        "durationSec": 3230
+      }
+    ]
+  }
+}

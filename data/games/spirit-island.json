@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 162886,
+    "name": "Spirit Island",
+    "year": 2017,
+    "slug": "spirit-island"
+  },
+  "playlist": {
+    "id": "spirit-island-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "bIit9uKqA3c",
+        "title": "Home to Dragons",
+        "channel": "Jacob Shea - Topic",
+        "durationSec": 301
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Wv3G8V4KE_o",
+        "title": "Into The Woodlands",
+        "channel": "Steven Price - Topic",
+        "durationSec": 276
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ad_9Iz_5x0c",
+        "title": "Sanctuary in the Glades",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 166
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qjlRJfFsJTg",
+        "title": "Spirit Island Soundtrack // Dark Fantasy // Ambient // Board Game Night // Background Music",
+        "channel": "Board Gems Music",
+        "durationSec": 4883
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Q2ROZKZ8u_0",
+        "title": "In the Reeds",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 240
+      }
+    ]
+  }
+}
