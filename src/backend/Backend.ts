@@ -41,6 +41,9 @@ export interface UserDataStore {
   /** Tracks hidden from all of the user's playlists, as `trackKey()` strings. */
   getHiddenTracks(): Promise<string[]>;
   setHiddenTracks(keys: readonly string[]): Promise<void>;
+  /** Undefined if the user has never changed it. */
+  getAutoPlay(): Promise<boolean | undefined>;
+  setAutoPlay(on: boolean): Promise<void>;
 }
 
 export interface Backend {

@@ -2,6 +2,7 @@ import { useState, type ReactNode } from "react";
 import { Link } from "react-router-dom";
 import { useBackend } from "../backend/BackendProvider";
 import { isFirebaseConfigured } from "../backend/firebaseConfig";
+import { useAutoPlay } from "../settings/AutoPlayProvider";
 
 export function Layout({ children }: { children: ReactNode }) {
   return (
@@ -13,9 +14,36 @@ export function Layout({ children }: { children: ReactNode }) {
           </Link>
           <p className="text-sm text-stone-400">Background music for game night.</p>
         </div>
-        <AccountControls />
+        <div className="flex flex-wrap items-start justify-end gap-3">
+          <AutoPlayToggle />
+          <AccountControls />
+        </div>
       </header>
       <main>{children}</main>
+    </div>
+  );
+}
+
+/** Whether a game's playlist starts by itself when its page opens. */
+function AutoPlayToggle() {
+  const autoPlay = useAutoPlay();
+  return (
+    <div className="text-right text-sm">
+      <button
+        type="button"
+        aria-pressed={autoPlay.enabled}
+        title="Start a game's playlist as soon as you open it"
+        disabled={!autoPlay.ready || autoPlay.saving}
+        onClick={() => void autoPlay.set(!autoPlay.enabled)}
+        className={`rounded-full border px-4 py-1.5 hover:bg-stone-800 disabled:opacity-40 ${
+          autoPlay.enabled
+            ? "border-amber-500/60 text-amber-400 hover:border-amber-400 hover:text-amber-300"
+            : "border-stone-700 text-stone-400 hover:border-stone-500 hover:text-stone-100"
+        }`}
+      >
+        Auto-play: {autoPlay.enabled ? "On" : "Off"}
+      </button>
+      {autoPlay.error && <p className="mt-1 text-red-400">{autoPlay.error}</p>}
     </div>
   );
 }

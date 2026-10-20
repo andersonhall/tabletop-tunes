@@ -2,6 +2,7 @@ import { useCallback, useEffect, useRef, useState, type RefObject } from "react"
 import { trackKey } from "../backend/Backend";
 import type { Track } from "../data/schema";
 import type { MusicSource, MusicSourceFactory } from "../music/MusicSource";
+import { watchAutoStart, type AutoStartWatch } from "./autoPlay";
 import * as Q from "./queue";
 
 export interface PlayerApi {
@@ -13,6 +14,10 @@ export interface PlayerApi {
   error: string | null;
   /** Most recent track skipped as unavailable, for a brief notice. */
   skipped: { title: string; reason: string } | null;
+  /** An auto-start didn't get going in time, most likely blocked by the browser until a click. */
+  blocked: boolean;
+  /** Starts the playlist without a press of play (auto-play). Does nothing once started. */
+  autoStart(): void;
   togglePlay(): void;
   next(): void;
   prev(): void;
@@ -35,6 +40,8 @@ export function usePlayer(
   const [ready, setReady] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [skipped, setSkipped] = useState<PlayerApi["skipped"]>(null);
+  const [blocked, setBlocked] = useState(false);
+  const watchRef = useRef<AutoStartWatch | undefined>(undefined);
   // Bumped on every navigation so the same index (e.g. a one-track playlist
   // looping) still reloads the track.
   const [playCount, setPlayCount] = useState(0);
@@ -77,7 +84,14 @@ export function usePlayer(
         setQueue((q) => Q.skipUnavailable(q));
         setPlayCount((n) => n + 1);
       },
-      onPlayingChange: setPlaying,
+      onPlayingChange: (isPlaying) => {
+        setPlaying(isPlaying);
+        if (isPlaying) {
+          watchRef.current?.playing();
+          watchRef.current = undefined;
+          setBlocked(false);
+        }
+      },
     }).then(
       (source) => {
         if (cancelled) return source.destroy();
@@ -88,6 +102,8 @@ export function usePlayer(
     );
     return () => {
       cancelled = true;
+      watchRef.current?.cancel();
+      watchRef.current = undefined;
       sourceRef.current?.destroy();
       sourceRef.current = null;
       container.replaceChildren();
@@ -109,9 +125,27 @@ export function usePlayer(
     // tracks never restarts the current one; both are read when it fires.
   }, [started, ready, playCount]);
 
+  // Any press of a control takes over from a pending auto-start.
+  const cancelWatch = () => {
+    watchRef.current?.cancel();
+    watchRef.current = undefined;
+  };
+
+  const autoStart = useCallback(() => {
+    if (!sourceRef.current || started) return;
+    setStarted(true);
+    setPlayCount((n) => n + 1);
+    watchRef.current?.cancel();
+    watchRef.current = watchAutoStart(() => {
+      watchRef.current = undefined;
+      setBlocked(true);
+    });
+  }, [started]);
+
   const togglePlay = useCallback(() => {
     const source = sourceRef.current;
     if (!source) return;
+    cancelWatch();
     if (!started) {
       setStarted(true);
       setPlayCount((n) => n + 1);
@@ -120,6 +154,7 @@ export function usePlayer(
   }, [started, playing]);
 
   const go = useCallback((fn: (q: Q.QueueState) => Q.QueueState) => {
+    cancelWatch();
     setStarted(true);
     setSkipped(null);
     setQueue(fn);
@@ -133,6 +168,8 @@ export function usePlayer(
     ready,
     error,
     skipped,
+    blocked,
+    autoStart,
     togglePlay,
     next: () => go(Q.next),
     prev: () => go(Q.prev),

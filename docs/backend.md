@@ -15,12 +15,12 @@ Signing in is optional. Anyone can search and play generated playlists without i
 
 ```
 writers/{uid}                  {}   allowlist of accounts that may save (created by hand)
-users/{uid}                    { hiddenTracks: string[], updatedAt }
+users/{uid}                    { hiddenTracks: string[], autoPlay?: boolean, updatedAt }
 users/{uid}/playlists/{slug}   { gameSlug, basedOn, tracks: Track[], updatedAt }
 ```
 
 - **`writers/{uid}`**: an empty doc whose existence means "this account can save". Only the account itself can read it, and no one can write it from the app, so it's managed in the Firebase console. Keeping the allowlist here rather than in the rules keeps account ids out of the public repo.
-- **`users/{uid}`**: the user's settings. `hiddenTracks` holds the tracks hidden from all their playlists, as `"<source>:<sourceId>"` keys, e.g. `"youtube:dQw4w9WgXcQ"`.
+- **`users/{uid}`**: the user's settings. `hiddenTracks` holds the tracks hidden from all their playlists, as `"<source>:<sourceId>"` keys, e.g. `"youtube:dQw4w9WgXcQ"`. `autoPlay` is the header's Auto-play toggle, absent until the user changes it (the default is on). Signed out, or with an account that can't save, the toggle is kept in this browser's localStorage (`tabletopTunes.autoPlay`) instead. Once an account that can save has its own value, that value wins.
 - **`users/{uid}/playlists/{slug}`**: the user's own copy of one game's playlist. It's created the first time they edit that game. Generated playlists stay static files in `data/games/` and act as a cookie cutter: a game without a copy shows the current generated playlist, minus hidden tracks. Once a copy exists, it's what the user gets, and later regenerations don't change it. `basedOn` records which generated playlist the copy started from (`<playlist id>@<createdAt>`). `tracks` uses the `Track` shape from [`src/data/schema.ts`](../src/data/schema.ts).
 
 ## Security rules

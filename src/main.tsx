@@ -5,18 +5,21 @@ import "./index.css";
 import { SearchPage } from "./components/SearchPage";
 import { GamePage } from "./components/GamePage";
 import { BackendProvider } from "./backend/BackendProvider";
+import { AutoPlayProvider } from "./settings/AutoPlayProvider";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <BackendProvider>
-      {/* Hash routing so deep links work on GitHub Pages without a 404 fallback. */}
-      <HashRouter>
-        <Routes>
-          <Route path="/" element={<SearchPage />} />
-          <Route path="/game/:slug" element={<GamePage />} />
-          <Route path="*" element={<SearchPage />} />
-        </Routes>
-      </HashRouter>
+      <AutoPlayProvider>
+        {/* Hash routing so deep links work on GitHub Pages without a 404 fallback. */}
+        <HashRouter>
+          <Routes>
+            <Route path="/" element={<SearchPage />} />
+            <Route path="/game/:slug" element={<GamePage />} />
+            <Route path="*" element={<SearchPage />} />
+          </Routes>
+        </HashRouter>
+      </AutoPlayProvider>
     </BackendProvider>
   </StrictMode>,
 );

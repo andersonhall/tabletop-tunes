@@ -1,10 +1,12 @@
-import { useRef, useState, type ReactNode } from "react";
+import { useEffect, useRef, useState, type ReactNode } from "react";
 import { Link, useParams } from "react-router-dom";
 import { playlistStore } from "../data/store";
 import { totalDurationSec, type GameFile } from "../data/schema";
 import { createYouTubeSource, youtubeTrackResolver } from "../music/youtubeSource";
 import { usePlayer } from "../player/usePlayer";
 import { allUnavailable } from "../player/queue";
+import { shouldAutoStart } from "../player/autoPlay";
+import { useAutoPlay } from "../settings/AutoPlayProvider";
 import { formatDuration } from "../format";
 import { AddTrackForm } from "./AddTrackForm";
 import { Layout, NoPlaylist } from "./Layout";
@@ -39,6 +41,29 @@ function PlaylistPlayer({ file }: { file: GameFile }) {
   // While a signed-in user's copy loads, don't start the generated playlist.
   const loading = playlist.status === "loading";
   const canPlay = player.ready && !loading && tracks.length > 0;
+
+  // Auto-play: once per game page, after the user's own copy (if any) has
+  // loaded, so the generated playlist never starts first and then switches.
+  // Turning the setting on mid-visit starts it too, unless something's already playing.
+  const autoPlay = useAutoPlay();
+  const autoAttempted = useRef(false);
+  const { autoStart } = player;
+  useEffect(() => {
+    if (
+      shouldAutoStart({
+        enabled: autoPlay.enabled,
+        settingReady: autoPlay.ready,
+        playlistStatus: playlist.status,
+        playerReady: player.ready,
+        trackCount: tracks.length,
+        attempted: autoAttempted.current,
+      })
+    ) {
+      autoAttempted.current = true;
+      autoStart();
+    }
+  }, [autoPlay.enabled, autoPlay.ready, playlist.status, player.ready, tracks.length, autoStart]);
+  const blocked = player.blocked && !player.playing;
 
   return (
     <div>
@@ -75,7 +100,7 @@ function PlaylistPlayer({ file }: { file: GameFile }) {
               disabled={!canPlay || deadEnd}
               className="h-12 min-w-28 rounded-full bg-amber-500 px-6 font-semibold text-stone-950 hover:bg-amber-400 disabled:opacity-40"
             >
-              {player.playing ? "Pause" : player.started ? "Resume" : "Play"}
+              {player.playing ? "Pause" : player.started && !blocked ? "Resume" : "Play"}
             </button>
             <ControlButton label="Next track" onClick={player.next} disabled={!canPlay}>
               <SkipIcon direction="forward" />
@@ -87,12 +112,13 @@ function PlaylistPlayer({ file }: { file: GameFile }) {
             {deadEnd ? (
               <p className="text-red-400">None of this playlist's videos can be played right now.</p>
             ) : (
-              player.started && current && (
+              player.started && !blocked && current && (
                 <p className="text-stone-300">
                   Now playing: <span className="font-medium">{current.title}</span>
                 </p>
               )
             )}
+            {blocked && !deadEnd && <p className="text-stone-300">Click Play to start.</p>}
             {player.skipped && !deadEnd && (
               <p className="text-stone-500">
                 Skipped “{player.skipped.title}” ({player.skipped.reason}).
