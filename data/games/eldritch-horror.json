@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 146021,
+    "name": "Eldritch Horror",
+    "year": 2013,
+    "slug": "eldritch-horror"
+  },
+  "playlist": {
+    "id": "eldritch-horror-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "4cnLPzhbSG0",
+        "title": "Infernal",
+        "channel": "Release - Topic",
+        "durationSec": 143
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ma-WJUidpRU",
+        "title": "Darkest Dungeon OST - Town in Chaos - Stuart Chatwood (2016) HQ Official",
+        "channel": "Stuart Chatwood",
+        "durationSec": 393
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bg4m2yZSIr4",
+        "title": "Cult of the Black Moon // Retro Tape Mixed Archives by Atrium Carceri & Cities Last Broadcast",
+        "channel": "Cryo Chamber",
+        "durationSec": 3710
+      },
+      {
+        "source": "youtube",
+        "sourceId": "o_YXZxBfIyM",
+        "title": "Darkest Dungeon OST - Crimson Court \"Bloodletting\" (2017) HQ Official",
+        "channel": "Stuart Chatwood",
+        "durationSec": 360
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4JDTmiqqBnI",
+        "title": "Fluke's Fathoms",
+        "channel": "Release - Topic",
+        "durationSec": 159
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QoEB1otqTW0",
+        "title": "Dark Water",
+        "channel": "Mikko Tarmia - Topic",
+        "durationSec": 78
+      }
+    ]
+  }
+}

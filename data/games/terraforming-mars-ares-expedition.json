@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 328871,
+    "name": "Terraforming Mars: Ares Expedition",
+    "year": 2021,
+    "slug": "terraforming-mars-ares-expedition"
+  },
+  "playlist": {
+    "id": "terraforming-mars-ares-expedition-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "c7IlxIxMyMQ",
+        "title": "Crossing Mars",
+        "channel": "Harry Gregson-Williams - Topic",
+        "durationSec": 217
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_YqyR3HvpX0",
+        "title": "Main Theme (Alternative Version)",
+        "channel": "George Strezov - Topic",
+        "durationSec": 149
+      },
+      {
+        "source": "youtube",
+        "sourceId": "28kfz4tJoy4",
+        "title": "Mars (Bonus)",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 157
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HXCTlsccoo8",
+        "title": "Steps",
+        "channel": "Jeff Russo - Topic",
+        "durationSec": 129
+      },
+      {
+        "source": "youtube",
+        "sourceId": "W9p-yVwF71o",
+        "title": "Space",
+        "channel": "Andrew Prahlow - Topic",
+        "durationSec": 256
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wlFQIgjUlvg",
+        "title": "AG",
+        "channel": "George Strezov - Topic",
+        "durationSec": 229
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zifyV0uoyS4",
+        "title": "The Departure",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 237
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2-MmM8JER3g",
+        "title": "Making Water",
+        "channel": "Harry Gregson-Williams - Topic",
+        "durationSec": 159
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fxzplz0Qf0k",
+        "title": "Between the Rings",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 308
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WxMozB3OQ7k",
+        "title": "What We Can Build",
+        "channel": "Jeff Russo - Topic",
+        "durationSec": 198
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Cx2IkXr8XUE",
+        "title": "Deep Space Travels (From Stellaris Original Game Soundtrack)",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 449
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6g7GqvuY2Iw",
+        "title": "BaCl2",
+        "channel": "George Strezov - Topic",
+        "durationSec": 380
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vPA6T0la6uI",
+        "title": "Interstellar Official Soundtrack | Day One (Interstellar Theme) – Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 200
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qurD9J6jkBM",
+        "title": "Alpha Centauri (From Stellaris Original Game Soundtrack)",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 324
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ePn_AU921EM",
+        "title": "Can't Get There from Here",
+        "channel": "Clint Mansell - Topic",
+        "durationSec": 198
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vVtg8_2z9dY",
+        "title": "Cosmic Sunrise",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 310
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MtnOQEWdXFU",
+        "title": "Surviving Mars: A Symphonic Exploration",
+        "channel": "Surviving Mars",
+        "durationSec": 316
+      },
+      {
+        "source": "youtube",
+        "sourceId": "z34enKCqRGk",
+        "title": "Travelers",
+        "channel": "Andrew Prahlow - Topic",
+        "durationSec": 211
+      }
+    ]
+  }
+}

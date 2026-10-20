@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 295947,
+    "name": "Cascadia",
+    "year": 2021,
+    "slug": "cascadia"
+  },
+  "playlist": {
+    "id": "cascadia-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "v7wtrkp5Mx4",
+        "title": "Prologue",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 215
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Wv3G8V4KE_o",
+        "title": "Into The Woodlands",
+        "channel": "Steven Price - Topic",
+        "durationSec": 276
+      },
+      {
+        "source": "youtube",
+        "sourceId": "RhmuhNnohKU",
+        "title": "Stay in Your Tower and Watch",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 116
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bow4jmZFNGA",
+        "title": "The Tiffmoor Bluffs",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 324
+      },
+      {
+        "source": "youtube",
+        "sourceId": "stnQ_L-lC48",
+        "title": "Camp Approach",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 163
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-ayZa68GhMs",
+        "title": "Starlings",
+        "channel": "Jacob Shea - Topic",
+        "durationSec": 113
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Q2ROZKZ8u_0",
+        "title": "In the Reeds",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 240
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Bq70BFHYfA8",
+        "title": "Thorofare Hike",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 156
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HcTWnV6-K64",
+        "title": "The Lark Ascending",
+        "channel": "Bernard Haitink - Topic",
+        "durationSec": 814
+      },
+      {
+        "source": "youtube",
+        "sourceId": "R8p2YMww4WU",
+        "title": "Somewhere in the Woods (Short Hike)",
+        "channel": "Mark Sparling - Topic",
+        "durationSec": 224
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gWKUFL5JE_c",
+        "title": "Baby Blue",
+        "channel": "Steven Price - Topic",
+        "durationSec": 291
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KPa7YY7ttpc",
+        "title": "Cave on the Shore",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 113
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SBdEiRL10y8",
+        "title": "Catching Up",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 108
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bIit9uKqA3c",
+        "title": "Home to Dragons",
+        "channel": "Jacob Shea - Topic",
+        "durationSec": 301
+      },
+      {
+        "source": "youtube",
+        "sourceId": "A7dxBUdXx5I",
+        "title": "Restless Reach",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 174
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fZqZ7XH9K_Y",
+        "title": "See You at the Top (Short Hike)",
+        "channel": "Mark Sparling - Topic",
+        "durationSec": 354
+      }
+    ]
+  }
+}

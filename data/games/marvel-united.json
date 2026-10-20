@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 298047,
+    "name": "Marvel United",
+    "year": 2020,
+    "slug": "marvel-united"
+  },
+  "playlist": {
+    "id": "marvel-united-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "XNCQZ0wxphY",
+        "title": "Alan Silvestri - The Avengers (From \"The Avengers\")",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 128
+      },
+      {
+        "source": "youtube",
+        "sourceId": "B_jPNlVeZNQ",
+        "title": "Spider-Man",
+        "channel": "John Paesano - Topic",
+        "durationSec": 207
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EkIlM0lYtT0",
+        "title": "The Newton Brothers - X-Men '97 Theme (From \"X-Men '97\")",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 79
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6SlNXHRUqWA",
+        "title": "Danny Elfman - Avengers Unite (From \"Avengers: Age of Ultron\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 72
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6oZSgUte_pQ",
+        "title": "John Paesano - Ready or Not (From \"Marvel's Spider-Man 2\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 141
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lc-at_eIOho",
+        "title": "Multiverse of Madness (From \"Doctor Strange in the Multiverse of Madness\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 160
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fxCCEYZHfu8",
+        "title": "All In",
+        "channel": "John Paesano - Topic",
+        "durationSec": 234
+      },
+      {
+        "source": "youtube",
+        "sourceId": "nI6FHoQcJ4o",
+        "title": "Ludwig Göransson - Black Panther (Ludwig Göransson Remix/Official Audio) ft. Ame Kora",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 81
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wc9m0gLAUb0",
+        "title": "The Newton Brothers - Fight or Die (From \"X-Men '97\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 142
+      },
+      {
+        "source": "youtube",
+        "sourceId": "e6UaFPrvkqY",
+        "title": "Danny Elfman - Heroes (From \"Avengers: Age of Ultron\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 132
+      },
+      {
+        "source": "youtube",
+        "sourceId": "odZTmtqL8Z8",
+        "title": "Danny Elfman - Main Titles (From \"Doctor Strange in the Multiverse of Madness\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 160
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZMPh5aFuTp0",
+        "title": "Don't Give Up",
+        "channel": "John Paesano - Topic",
+        "durationSec": 251
+      },
+      {
+        "source": "youtube",
+        "sourceId": "F_mhWxOjxp4",
+        "title": "Alan Silvestri - Portals (From \"Avengers: Endgame\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 204
+      },
+      {
+        "source": "youtube",
+        "sourceId": "J2xtpGGNt3Y",
+        "title": "The Newton Brothers - How We Survive (From \"X-Men '97: Season Two\")",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 116
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AlKewMZAPnk",
+        "title": "The Great Mound Battle",
+        "channel": "Ludwig Göransson - Topic",
+        "durationSec": 229
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IWLb_s2TTLQ",
+        "title": "Doctor Strange",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 192
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Utp5df6LAHs",
+        "title": "John Paesano - The Great Hunter (From \"Marvel's Spider-Man 2\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 238
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5aeRFSvfsoo",
+        "title": "Danny Elfman - New Avengers - Avengers: Age of Ultron (From \"Avengers: Age of Ultron\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 194
+      },
+      {
+        "source": "youtube",
+        "sourceId": "79Y8GuuqbBk",
+        "title": "Ancestral Plane",
+        "channel": "Ludwig Göransson - Topic",
+        "durationSec": 268
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4B3gCHbDu94",
+        "title": "Alan Silvestri - Main on End (From \"Avengers: Endgame\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 197
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-sBdfHxo_n4",
+        "title": "Ancient Sorcerer's Secret",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 158
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vS0RLIm_UzE",
+        "title": "John Paesano - Betrayal (From \"Marvel's Spider-Man 2\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 215
+      },
+      {
+        "source": "youtube",
+        "sourceId": "m0mCuXpVL-I",
+        "title": "The Newton Brothers - X-Men End Credits (From \"X-Men '97\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 56
+      }
+    ]
+  }
+}

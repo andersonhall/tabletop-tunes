@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 271896,
+    "name": "Star Wars: Outer Rim",
+    "year": 2019,
+    "slug": "star-wars-outer-rim"
+  },
+  "playlist": {
+    "id": "star-wars-outer-rim-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "EsvfptdFXf4",
+        "title": "Cantina Band",
+        "channel": "John Williams - Topic",
+        "durationSec": 165
+      },
+      {
+        "source": "youtube",
+        "sourceId": "yNqptpcSCSc",
+        "title": "John Powell - Spaceport (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 250
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qcDsgB_2dhM",
+        "title": "John Powell - Meet Han (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 142
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IeSU4FAWxfU",
+        "title": "The Mandalorian (Orchestral Version)",
+        "channel": "Ludwig Göransson - Topic",
+        "durationSec": 141
+      },
+      {
+        "source": "youtube",
+        "sourceId": "3YMFs7NPj7I",
+        "title": "Niamos! (Morlana Club Mix)",
+        "channel": "Nicholas Britell - Topic",
+        "durationSec": 102
+      },
+      {
+        "source": "youtube",
+        "sourceId": "xhU__fxeBaM",
+        "title": "John Powell - Dice & Roll (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 119
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gWCl_JWfmw4",
+        "title": "John Powell - Reminiscence Therapy (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 374
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DZHshyzeoK0",
+        "title": "Ludwig Göransson - Shakari (From \"Star Wars: The Mandalorian and Grogu\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 94
+      },
+      {
+        "source": "youtube",
+        "sourceId": "oJ9o2jttC5g",
+        "title": "John Powell - Train Heist (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 291
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2YDKxcdIXBs",
+        "title": "Ludwig Göransson - The Mandalorian (From \"The Mandalorian\"/Official Audio)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 199
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VjUSbnToPY0",
+        "title": "John Powell - L3 & Millennium Falcon (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 199
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WxLBOwdTKjI",
+        "title": "NIAMOS! (Chandrilian Club Mix) (From \"Andor (Season 2)\")",
+        "channel": "Nicholas Britell - Topic",
+        "durationSec": 255
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PASIooN61Xo",
+        "title": "John Powell - Mine Mission (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 254
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Xpgyb7rbEbA",
+        "title": "John Powell - The Good Guy (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 328
+      },
+      {
+        "source": "youtube",
+        "sourceId": "igOn1d9kcew",
+        "title": "Ludwig Göransson - The Mandalorian and Grogu (From Star Wars: The Mandalorian and Grogu) Music Video",
+        "channel": "Star Wars",
+        "durationSec": 188
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Y5gaTxP__Lw",
+        "title": "John Powell - Corellia Chase (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 216
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HK1u_X_rsx4",
+        "title": "Brasso",
+        "channel": "Brandon Roberts - Topic",
+        "durationSec": 178
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lnU1Qs-CYT4",
+        "title": "John Powell - Break Out (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 378
+      },
+      {
+        "source": "youtube",
+        "sourceId": "xG_DBeXGZr8",
+        "title": "Let It Run Wild",
+        "channel": "Brandon Roberts - Topic",
+        "durationSec": 124
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HEjHf8DwQi8",
+        "title": "I'm Not Leaving You Here",
+        "channel": "Brandon Roberts - Topic",
+        "durationSec": 253
+      }
+    ]
+  }
+}

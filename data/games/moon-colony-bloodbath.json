@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 425549,
+    "name": "Moon Colony Bloodbath",
+    "year": 2025,
+    "slug": "moon-colony-bloodbath"
+  },
+  "playlist": {
+    "id": "moon-colony-bloodbath-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "WUraLNrTVeg",
+        "title": "Welcome to Lunar Industries",
+        "channel": "Clint Mansell - Topic",
+        "durationSec": 432
+      },
+      {
+        "source": "youtube",
+        "sourceId": "28kfz4tJoy4",
+        "title": "Mars (Bonus)",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 157
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QVuoul47Q_w",
+        "title": "Memories (Someone We'll Never Know)",
+        "channel": "Clint Mansell - Topic",
+        "durationSec": 293
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6g7GqvuY2Iw",
+        "title": "BaCl2",
+        "channel": "George Strezov - Topic",
+        "durationSec": 380
+      },
+      {
+        "source": "youtube",
+        "sourceId": "T5rIfF0qCeU",
+        "title": "Sacrifice",
+        "channel": "Clint Mansell - Topic",
+        "durationSec": 184
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KzaqrQuwr1k",
+        "title": "Heptapod B",
+        "channel": "Jóhann Jóhannsson - Topic",
+        "durationSec": 223
+      },
+      {
+        "source": "youtube",
+        "sourceId": "RgVzeqPIt-8",
+        "title": "The Nursery",
+        "channel": "Clint Mansell - Topic",
+        "durationSec": 226
+      },
+      {
+        "source": "youtube",
+        "sourceId": "W9p-yVwF71o",
+        "title": "Space",
+        "channel": "Andrew Prahlow - Topic",
+        "durationSec": 256
+      },
+      {
+        "source": "youtube",
+        "sourceId": "f8ODD-TWV40",
+        "title": "Welcome to Lunar Industries (Three Year Stretch....)",
+        "channel": "Clint Mansell - Topic",
+        "durationSec": 603
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wlFQIgjUlvg",
+        "title": "AG",
+        "channel": "George Strezov - Topic",
+        "durationSec": 229
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ea1eWarxdxQ",
+        "title": "Vigil",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 103
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ePn_AU921EM",
+        "title": "Can't Get There from Here",
+        "channel": "Clint Mansell - Topic",
+        "durationSec": 198
+      },
+      {
+        "source": "youtube",
+        "sourceId": "c7IlxIxMyMQ",
+        "title": "Crossing Mars",
+        "channel": "Harry Gregson-Williams - Topic",
+        "durationSec": 217
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OlaTeXX3uH8",
+        "title": "Brian Eno - An Ending (Ascent) (Remastered 2019)",
+        "channel": "BrianEnoVEVO",
+        "durationSec": 262
+      },
+      {
+        "source": "youtube",
+        "sourceId": "O3Kn9mFgr_o",
+        "title": "We're Going Home",
+        "channel": "Clint Mansell - Topic",
+        "durationSec": 222
+      }
+    ]
+  }
+}

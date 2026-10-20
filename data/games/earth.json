@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 350184,
+    "name": "Earth",
+    "year": 2023,
+    "slug": "earth"
+  },
+  "playlist": {
+    "id": "earth-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "FG1J_WAO2gY",
+        "title": "Hans Zimmer, Jacob Shea, Jasha Klebe - Planet Earth II Suite Official Soundtrack",
+        "channel": "Silva Screen Records",
+        "durationSec": 271
+      },
+      {
+        "source": "youtube",
+        "sourceId": "r9aQaBUTnY0",
+        "title": "This Is Our Planet (From \"Our Planet\")",
+        "channel": "Steven Price - Topic",
+        "durationSec": 225
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bIit9uKqA3c",
+        "title": "Home to Dragons",
+        "channel": "Jacob Shea - Topic",
+        "durationSec": 301
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2rPCZs5x01E",
+        "title": "Mayflies",
+        "channel": "Steven Price - Topic",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-a1Snx4be7Q",
+        "title": "Monsoon Deserts/Canyonlands",
+        "channel": "Jacob Shea - Topic",
+        "durationSec": 200
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Wv3G8V4KE_o",
+        "title": "Into The Woodlands",
+        "channel": "Steven Price - Topic",
+        "durationSec": 276
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Cyw6Ul2Rx3w",
+        "title": "Vaughan Williams: The Lark Ascending",
+        "channel": "Iona Brown - Topic",
+        "durationSec": 965
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-ayZa68GhMs",
+        "title": "Starlings",
+        "channel": "Jacob Shea - Topic",
+        "durationSec": 113
+      },
+      {
+        "source": "youtube",
+        "sourceId": "CxsZKI5SghQ",
+        "title": "The Oceans Belong To Us All",
+        "channel": "Steven Price - Topic",
+        "durationSec": 380
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ad_9Iz_5x0c",
+        "title": "Sanctuary in the Glades",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 166
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gWKUFL5JE_c",
+        "title": "Baby Blue",
+        "channel": "Steven Price - Topic",
+        "durationSec": 291
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Q2ROZKZ8u_0",
+        "title": "In the Reeds",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 240
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_EEEkHpxbE0",
+        "title": "The Whole of Humanity",
+        "channel": "Steven Price - Topic",
+        "durationSec": 148
+      },
+      {
+        "source": "youtube",
+        "sourceId": "A7dxBUdXx5I",
+        "title": "Restless Reach",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 174
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PIqK6KiieVM",
+        "title": "Our Planet End Titles",
+        "channel": "Steven Price - Topic",
+        "durationSec": 62
+      }
+    ]
+  }
+}

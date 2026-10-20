@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 369142,
+    "name": "Savernake Forest",
+    "year": 2023,
+    "slug": "savernake-forest"
+  },
+  "playlist": {
+    "id": "savernake-forest-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "3OK2zO8swEs",
+        "title": "Morning Breeze (Wingspan Original Video Game Soundtrack)",
+        "channel": "Paweł Górniak - Topic",
+        "durationSec": 199
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_LH0kmjW1OU",
+        "title": "Sounds of the Forest (Wingspan Original Video Game Soundtrack)",
+        "channel": "Paweł Górniak - Topic",
+        "durationSec": 155
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hI_cA4vFbUE",
+        "title": "The Pine Grove",
+        "channel": "Lorena Álvarez - Topic",
+        "durationSec": 87
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bGyDwBioqxc",
+        "title": "Along the Path",
+        "channel": "Lorena Álvarez - Topic",
+        "durationSec": 123
+      },
+      {
+        "source": "youtube",
+        "sourceId": "igm8TPhqwE0",
+        "title": "Vaughan Williams: The Lark Ascending",
+        "channel": "Hilary Hahn - Topic",
+        "durationSec": 980
+      },
+      {
+        "source": "youtube",
+        "sourceId": "pmyYGhPt1js",
+        "title": "A Shadian Lullaby",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 231
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Wv3G8V4KE_o",
+        "title": "Into The Woodlands",
+        "channel": "Steven Price - Topic",
+        "durationSec": 276
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ad_9Iz_5x0c",
+        "title": "Sanctuary in the Glades",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 166
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Q2ROZKZ8u_0",
+        "title": "In the Reeds",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 240
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qzDFKkKhFtg",
+        "title": "The Lynx",
+        "channel": "Lorena Álvarez - Topic",
+        "durationSec": 142
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QJddPNILcj4",
+        "title": "Starting to Fly (Original Video Game Soundtrack)",
+        "channel": "Paweł Górniak - Topic",
+        "durationSec": 192
+      },
+      {
+        "source": "youtube",
+        "sourceId": "b1W-T8vzAtI",
+        "title": "Leaving Lyndow Official Sountrack",
+        "channel": "Eastshade Studios",
+        "durationSec": 1337
+      },
+      {
+        "source": "youtube",
+        "sourceId": "JA9glWD1WSE",
+        "title": "Grandpa's Theme",
+        "channel": "ConcernedApe - Topic",
+        "durationSec": 68
+      }
+    ]
+  }
+}

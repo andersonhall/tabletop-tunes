@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 418059,
+    "name": "SETI: Search for Extraterrestrial Intelligence",
+    "year": 2024,
+    "slug": "seti"
+  },
+  "playlist": {
+    "id": "seti-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "vfCxLVQaSis",
+        "title": "Main Title",
+        "channel": "Andrew Prahlow - Topic",
+        "durationSec": 79
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mdZjJacozBc",
+        "title": "Arrival",
+        "channel": "Jóhann Jóhannsson - Topic",
+        "durationSec": 171
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OMPE4pO1i_Y",
+        "title": "Light Years",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 365
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PHIw-lPxsdQ",
+        "title": "First Encounter",
+        "channel": "Jóhann Jóhannsson - Topic",
+        "durationSec": 290
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KQxWZx1r024",
+        "title": "Interstellar Official Soundtrack | Day One - Original Demo - Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 230
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KzaqrQuwr1k",
+        "title": "Heptapod B",
+        "channel": "Jóhann Jóhannsson - Topic",
+        "durationSec": 223
+      },
+      {
+        "source": "youtube",
+        "sourceId": "To-di6JbUGY",
+        "title": "The Birth Of A Star (From Stellaris Original Game Soundtrack)",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 663
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lQ9CqBVeGpY",
+        "title": "Hannah (From \"Arrival\" Soundtrack)",
+        "channel": "Jóhann Jóhannsson - Topic",
+        "durationSec": 167
+      },
+      {
+        "source": "youtube",
+        "sourceId": "W9p-yVwF71o",
+        "title": "Space",
+        "channel": "Andrew Prahlow - Topic",
+        "durationSec": 256
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lAMq3cB5R60",
+        "title": "Kangaru",
+        "channel": "Jóhann Jóhannsson - Topic",
+        "durationSec": 176
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OlaTeXX3uH8",
+        "title": "Brian Eno - An Ending (Ascent) (Remastered 2019)",
+        "channel": "BrianEnoVEVO",
+        "durationSec": 262
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6n9HGIeiYik",
+        "title": "The Awakened",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 394
+      },
+      {
+        "source": "youtube",
+        "sourceId": "X1hbboXLbck",
+        "title": "One of Twelve",
+        "channel": "Jóhann Jóhannsson - Topic",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "RgVzeqPIt-8",
+        "title": "The Nursery",
+        "channel": "Clint Mansell - Topic",
+        "durationSec": 226
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KNkvloKdsZk",
+        "title": "To the Great Beyond",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 335
+      }
+    ]
+  }
+}

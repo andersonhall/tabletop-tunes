@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 424980,
+    "name": "Parks: Roll & Hike",
+    "year": 2024,
+    "slug": "parks-roll-and-hike"
+  },
+  "playlist": {
+    "id": "parks-roll-and-hike-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "Bq70BFHYfA8",
+        "title": "Thorofare Hike",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 156
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bGyDwBioqxc",
+        "title": "Along the Path",
+        "channel": "Lorena Álvarez - Topic",
+        "durationSec": 123
+      },
+      {
+        "source": "youtube",
+        "sourceId": "stnQ_L-lC48",
+        "title": "Camp Approach",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 163
+      },
+      {
+        "source": "youtube",
+        "sourceId": "__NobC-7vfs",
+        "title": "Beach Buds (Short Hike)",
+        "channel": "Mark Sparling - Topic",
+        "durationSec": 193
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SRwySkiU48Q",
+        "title": "Bustling Markets",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 254
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YlrVISmAXNM",
+        "title": "New Equipment",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 70
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2rPCZs5x01E",
+        "title": "Mayflies",
+        "channel": "Steven Price - Topic",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IuA1NZqwedQ",
+        "title": "Stardew Valley 1.5 OST",
+        "channel": "ConcernedApe",
+        "durationSec": 1081
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-ayZa68GhMs",
+        "title": "Starlings",
+        "channel": "Jacob Shea - Topic",
+        "durationSec": 113
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KPa7YY7ttpc",
+        "title": "Cave on the Shore",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 113
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SBdEiRL10y8",
+        "title": "Catching Up",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 108
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gWKUFL5JE_c",
+        "title": "Baby Blue",
+        "channel": "Steven Price - Topic",
+        "durationSec": 291
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vBreKusgIMs",
+        "title": "Breeze in the Farmyard",
+        "channel": "Lorena Álvarez - Topic",
+        "durationSec": 105
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Q2ROZKZ8u_0",
+        "title": "In the Reeds",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 240
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LgDJPkGvLsY",
+        "title": "A Short Flight",
+        "channel": "Mark Sparling - Topic",
+        "durationSec": 153
+      },
+      {
+        "source": "youtube",
+        "sourceId": "pmyYGhPt1js",
+        "title": "A Shadian Lullaby",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 231
+      },
+      {
+        "source": "youtube",
+        "sourceId": "v7wtrkp5Mx4",
+        "title": "Prologue",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 215
+      }
+    ]
+  }
+}

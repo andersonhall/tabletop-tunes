@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 163967,
+    "name": "Tiny Epic Galaxies",
+    "year": 2015,
+    "slug": "tiny-epic-galaxies"
+  },
+  "playlist": {
+    "id": "tiny-epic-galaxies-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "vfCxLVQaSis",
+        "title": "Main Title",
+        "channel": "Andrew Prahlow - Topic",
+        "durationSec": 79
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Xpkc-NU1KA0",
+        "title": "Outer Wilds",
+        "channel": "Andrew Prahlow - Topic",
+        "durationSec": 147
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vVtg8_2z9dY",
+        "title": "Cosmic Sunrise",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 310
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SPa8bPqQfmo",
+        "title": "Timber Hearth",
+        "channel": "Andrew Prahlow - Topic",
+        "durationSec": 205
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zifyV0uoyS4",
+        "title": "The Departure",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 237
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HXCTlsccoo8",
+        "title": "Steps",
+        "channel": "Jeff Russo - Topic",
+        "durationSec": 129
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tw_Cg74bndc",
+        "title": "Billions And Billions",
+        "channel": "Stellardrone",
+        "durationSec": 315
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZwjV1OcB8uc",
+        "title": "The Citadel",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 104
+      },
+      {
+        "source": "youtube",
+        "sourceId": "z34enKCqRGk",
+        "title": "Travelers",
+        "channel": "Andrew Prahlow - Topic",
+        "durationSec": 211
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fxzplz0Qf0k",
+        "title": "Between the Rings",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 308
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_YqyR3HvpX0",
+        "title": "Main Theme (Alternative Version)",
+        "channel": "George Strezov - Topic",
+        "durationSec": 149
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qurD9J6jkBM",
+        "title": "Alpha Centauri (From Stellaris Original Game Soundtrack)",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 324
+      },
+      {
+        "source": "youtube",
+        "sourceId": "W9p-yVwF71o",
+        "title": "Space",
+        "channel": "Andrew Prahlow - Topic",
+        "durationSec": 256
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EKYto0XOxCc",
+        "title": "Heading for the Landing",
+        "channel": "Jeff Russo - Topic",
+        "durationSec": 160
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hQiB5dFhmSw",
+        "title": "Red Giant",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vPA6T0la6uI",
+        "title": "Interstellar Official Soundtrack | Day One (Interstellar Theme) – Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 200
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OMPE4pO1i_Y",
+        "title": "Light Years",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 365
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AB4XScdPP1c",
+        "title": "Timber Hearth from 'Outer Wilds' - Andrew Prahlow w/ Contemporaneous",
+        "channel": "Andrew Prahlow",
+        "durationSec": 233
+      }
+    ]
+  }
+}

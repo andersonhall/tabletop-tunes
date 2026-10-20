@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 77423,
+    "name": "The Lord of the Rings: The Card Game",
+    "year": 2011,
+    "slug": "the-lord-of-the-rings-the-card-game"
+  },
+  "playlist": {
+    "id": "the-lord-of-the-rings-the-card-game-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "2UJbJ6hDYqM",
+        "title": "Lotro Legacy",
+        "channel": "Chance Thomas - Topic",
+        "durationSec": 168
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qNFLNSflEQU",
+        "title": "Heart of a Hero",
+        "channel": "Chance Thomas - Topic",
+        "durationSec": 144
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IlmiRndxkU8",
+        "title": "The Shire",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 150
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ydsYSm6GGCg",
+        "title": "\"Urgent Errands\" by Chance Thomas",
+        "channel": "LOTRO",
+        "durationSec": 186
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QMue_u4qCw8",
+        "title": "Party in the Shire",
+        "channel": "Chance Thomas - Topic",
+        "durationSec": 83
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DLi3wr8Vgxk",
+        "title": "The House of Tom Bombadil",
+        "channel": "Chance Thomas - Topic",
+        "durationSec": 97
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HfMQZuS3y2g",
+        "title": "The Three Hunters",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 373
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LiEoUiEh6uQ",
+        "title": "\"Theme for Rohan\" by Chance Thomas",
+        "channel": "LOTRO",
+        "durationSec": 205
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AQnjkf5Q1xM",
+        "title": "The Grey Havens",
+        "channel": "Chance Thomas - Topic",
+        "durationSec": 139
+      },
+      {
+        "source": "youtube",
+        "sourceId": "f44xDz2tW_I",
+        "title": "Khazad-dûm",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 481
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2mu6faleFUg",
+        "title": "Evenstar",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZNx5uPWbBIc",
+        "title": "The Riders of Rohan",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 246
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IK_17Kf6tBU",
+        "title": "Glamdring",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 231
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lXBxKPia_kk",
+        "title": "The Last March of the Ents (feat. Ben Del Maestro)",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 152
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PEDEdrz8Okc",
+        "title": "The Grace of Undómiel (feat. Renée Fleming)",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 382
+      },
+      {
+        "source": "youtube",
+        "sourceId": "w_hnJNnKZz0",
+        "title": "The Lighting of the Beacons",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 544
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AOpsPVthV5I",
+        "title": "Samwise the Brave",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 226
+      },
+      {
+        "source": "youtube",
+        "sourceId": "eYo4jbBPRT0",
+        "title": "The Grey Havens (feat. Sir James Galway)",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 360
+      }
+    ]
+  }
+}

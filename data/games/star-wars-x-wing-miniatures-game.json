@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 103885,
+    "name": "Star Wars: X-Wing Miniatures Game",
+    "year": 2012,
+    "slug": "star-wars-x-wing-miniatures-game"
+  },
+  "playlist": {
+    "id": "star-wars-x-wing-miniatures-game-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "54hoKbTWon4",
+        "title": "John Williams & Wiener Philharmoniker – \"Main Title\" from \"Star Wars: A New Hope\"",
+        "channel": "Deutsche Grammophon - DG",
+        "durationSec": 402
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Pf-cg9W5fQY",
+        "title": "Michael Giacchino - Rogue One (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 126
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VjUSbnToPY0",
+        "title": "John Powell - L3 & Millennium Falcon (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 199
+      },
+      {
+        "source": "youtube",
+        "sourceId": "msqfRw197tk",
+        "title": "Imperial Attack",
+        "channel": "John Williams - Topic",
+        "durationSec": 379
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_bglf5NuXWI",
+        "title": "Michael Giacchino - The Master Switch (From \"Rogue One: A Star Wars Story\"/Score)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 243
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Y5gaTxP__Lw",
+        "title": "John Powell - Corellia Chase (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 216
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LqcXAPejbj0",
+        "title": "Michael Giacchino - Guardians of the Whills Suite (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 172
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lnU1Qs-CYT4",
+        "title": "John Powell - Break Out (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 378
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PASIooN61Xo",
+        "title": "John Powell - Mine Mission (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 254
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-C2wCcuKmLI",
+        "title": "Michael Giacchino - The Imperial Suite (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 152
+      },
+      {
+        "source": "youtube",
+        "sourceId": "oJ9o2jttC5g",
+        "title": "John Powell - Train Heist (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 291
+      },
+      {
+        "source": "youtube",
+        "sourceId": "xG_DBeXGZr8",
+        "title": "Let It Run Wild",
+        "channel": "Brandon Roberts - Topic",
+        "durationSec": 124
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hUQIUgO9G-Q",
+        "title": "Andor Onward (From \"Andor (Season 2)\")",
+        "channel": "Brandon Roberts - Topic",
+        "durationSec": 133
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2YDKxcdIXBs",
+        "title": "Ludwig Göransson - The Mandalorian (From \"The Mandalorian\"/Official Audio)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 199
+      },
+      {
+        "source": "youtube",
+        "sourceId": "D_2bluVPsb0",
+        "title": "Duel of the Fates",
+        "channel": "John Williams - Topic",
+        "durationSec": 255
+      },
+      {
+        "source": "youtube",
+        "sourceId": "RaEzKRngCyY",
+        "title": "Michael Giacchino - Hope (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 99
+      },
+      {
+        "source": "youtube",
+        "sourceId": "trYeKG17hYc",
+        "title": "The Throne Room and End Title",
+        "channel": "John Williams - Topic",
+        "durationSec": 335
+      },
+      {
+        "source": "youtube",
+        "sourceId": "yNqptpcSCSc",
+        "title": "John Powell - Spaceport (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 250
+      }
+    ]
+  }
+}

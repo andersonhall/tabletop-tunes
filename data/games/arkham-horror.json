@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 15987,
+    "name": "Arkham Horror",
+    "year": 2008,
+    "slug": "arkham-horror"
+  },
+  "playlist": {
+    "id": "arkham-horror-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "x0cJaKVcpxo",
+        "title": "Speakeasy Strut - 1920s vintage Jazz (Prohibition Flapper Dance) [royalty free music]",
+        "channel": "Freesound Music",
+        "durationSec": 153
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WU1r7bCyf80",
+        "title": "Opening Screen",
+        "channel": "Release - Topic",
+        "durationSec": 189
+      },
+      {
+        "source": "youtube",
+        "sourceId": "09u0rZJ0WEs",
+        "title": "Darkest Dungeon OST - The Hamlet by Stuart Chatwood HQ",
+        "channel": "Stuart Chatwood",
+        "durationSec": 202
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vDWYdiLy94E",
+        "title": "Yig 1/2 - A Cryo Chamber Collaboration",
+        "channel": "Cryo Chamber",
+        "durationSec": 4221
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Jk5L3DRaqjs",
+        "title": "Wolfstack Lights",
+        "channel": "Release - Topic",
+        "durationSec": 128
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6Qa35PMjQHg",
+        "title": "Back Hall",
+        "channel": "Mikko Tarmia - Topic",
+        "durationSec": 83
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WhVix2wgDD4",
+        "title": "Darkest Dungeon OST - Color of Madness \"The Senescence\" (2018) HQ Official",
+        "channel": "Stuart Chatwood",
+        "durationSec": 228
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-5YN4glRMH0",
+        "title": "Hope Is an Anchor",
+        "channel": "Release - Topic",
+        "durationSec": 111
+      }
+    ]
+  }
+}

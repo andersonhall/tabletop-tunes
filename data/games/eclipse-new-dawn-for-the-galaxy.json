@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 72125,
+    "name": "Eclipse: New Dawn for the Galaxy",
+    "year": 2011,
+    "slug": "eclipse-new-dawn-for-the-galaxy"
+  },
+  "playlist": {
+    "id": "eclipse-new-dawn-for-the-galaxy-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "zifyV0uoyS4",
+        "title": "The Departure",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 237
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TGReRiUSJ4Q",
+        "title": "Mass Effect Theme",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 141
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OokrEy8Cf3c",
+        "title": "The Imperial Fleet",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 328
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qurD9J6jkBM",
+        "title": "Alpha Centauri (From Stellaris Original Game Soundtrack)",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 324
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2joZFT1eHOc",
+        "title": "The Illusive Man",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 144
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MSiFSvVCGxg",
+        "title": "Synthetic God",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 297
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hQiB5dFhmSw",
+        "title": "Red Giant",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2ovQ_R1faD0",
+        "title": "Nemesis Main Theme",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 242
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QpcuYHEdvHg",
+        "title": "The End Run",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 178
+      },
+      {
+        "source": "youtube",
+        "sourceId": "b3a9jFokGxY",
+        "title": "The Titan",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 242
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vPA6T0la6uI",
+        "title": "Interstellar Official Soundtrack | Day One (Interstellar Theme) – Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 200
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Cx2IkXr8XUE",
+        "title": "Deep Space Travels (From Stellaris Original Game Soundtrack)",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 449
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OS8qIyDg4Hs",
+        "title": "Saren",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 120
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZqsQDExZPhs",
+        "title": "Cepheid",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 273
+      },
+      {
+        "source": "youtube",
+        "sourceId": "geqtLLBKh5c",
+        "title": "Noveria",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 132
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6n9HGIeiYik",
+        "title": "The Awakened",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 394
+      }
+    ]
+  }
+}

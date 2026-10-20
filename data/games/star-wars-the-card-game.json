@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 103886,
+    "name": "Star Wars: The Card Game",
+    "year": 2012,
+    "slug": "star-wars-the-card-game"
+  },
+  "playlist": {
+    "id": "star-wars-the-card-game-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "HrIJT_4Txqw",
+        "title": "Main Theme from \"Star Wars\"",
+        "channel": "John Williams - Topic",
+        "durationSec": 352
+      },
+      {
+        "source": "youtube",
+        "sourceId": "RaEzKRngCyY",
+        "title": "Michael Giacchino - Hope (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 99
+      },
+      {
+        "source": "youtube",
+        "sourceId": "D_2bluVPsb0",
+        "title": "Duel of the Fates",
+        "channel": "John Williams - Topic",
+        "durationSec": 255
+      },
+      {
+        "source": "youtube",
+        "sourceId": "w42CTq5QZtI",
+        "title": "Michael Giacchino - Jyn Erso & Hope Suite (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 351
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qywVjBM9QoM",
+        "title": "Eulogy",
+        "channel": "Nicholas Britell - Topic",
+        "durationSec": 257
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-C2wCcuKmLI",
+        "title": "Michael Giacchino - The Imperial Suite (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 152
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IeSU4FAWxfU",
+        "title": "The Mandalorian (Orchestral Version)",
+        "channel": "Ludwig Göransson - Topic",
+        "durationSec": 141
+      },
+      {
+        "source": "youtube",
+        "sourceId": "iQUmCrxr1fk",
+        "title": "Bix's Message",
+        "channel": "Brandon Roberts - Topic",
+        "durationSec": 181
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DbQAyWJxOQE",
+        "title": "Past/Present Suite",
+        "channel": "Nicholas Britell - Topic",
+        "durationSec": 225
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Qemb3iBlp1o",
+        "title": "Michael Giacchino - Your Father Would Be Proud (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 292
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gWCl_JWfmw4",
+        "title": "John Powell - Reminiscence Therapy (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 374
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LqcXAPejbj0",
+        "title": "Michael Giacchino - Guardians of the Whills Suite (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 172
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bCStmR1FzZk",
+        "title": "Elegy for Ghorman",
+        "channel": "Brandon Roberts - Topic",
+        "durationSec": 216
+      },
+      {
+        "source": "youtube",
+        "sourceId": "trYeKG17hYc",
+        "title": "The Throne Room and End Title",
+        "channel": "John Williams - Topic",
+        "durationSec": 335
+      },
+      {
+        "source": "youtube",
+        "sourceId": "l-UuD9vT1Qc",
+        "title": "I Came for You",
+        "channel": "Nicholas Britell - Topic",
+        "durationSec": 160
+      },
+      {
+        "source": "youtube",
+        "sourceId": "dBXJlPibPK4",
+        "title": "Andor (Main Title Theme)",
+        "channel": "Brandon Roberts - Topic",
+        "durationSec": 53
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HK1u_X_rsx4",
+        "title": "Brasso",
+        "channel": "Brandon Roberts - Topic",
+        "durationSec": 178
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Xpgyb7rbEbA",
+        "title": "John Powell - The Good Guy (From \"Solo: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 328
+      }
+    ]
+  }
+}

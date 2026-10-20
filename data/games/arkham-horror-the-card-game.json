@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 205637,
+    "name": "Arkham Horror: The Card Game",
+    "year": 2016,
+    "slug": "arkham-horror-the-card-game"
+  },
+  "playlist": {
+    "id": "arkham-horror-the-card-game-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "UpIBKNxSeZU",
+        "title": "Darkest Dungeon OST - Darkest Dungeon (Theme) by Stuart Chatwood HQ",
+        "channel": "Stuart Chatwood",
+        "durationSec": 193
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bpwYb9Gja3c",
+        "title": "Sunless Sea",
+        "channel": "Release - Topic",
+        "durationSec": 160
+      },
+      {
+        "source": "youtube",
+        "sourceId": "W8jFc2Wmfcs",
+        "title": "Darkness",
+        "channel": "Mikko Tarmia - Topic",
+        "durationSec": 76
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qL3osHj-Myc",
+        "title": "Azathoth 1/ 2",
+        "channel": "Cryo Chamber",
+        "durationSec": 3266
+      },
+      {
+        "source": "youtube",
+        "sourceId": "E7JzX4CHJYg",
+        "title": "Darkest Dungeon OST - Color of Madness \"All Things Must Come\" (2018) HQ Official",
+        "channel": "Stuart Chatwood",
+        "durationSec": 228
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ahTkaod1nQo",
+        "title": "Submergio Viol",
+        "channel": "Release - Topic",
+        "durationSec": 128
+      },
+      {
+        "source": "youtube",
+        "sourceId": "swNepqn7ySU",
+        "title": "Darkest Dungeon II OST - \"The Shroud of the Deep\" (2022) HQ Official",
+        "channel": "Stuart Chatwood",
+        "durationSec": 513
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_Y4WYGh2s94",
+        "title": "The Sea Does Not Forgive",
+        "channel": "Release - Topic",
+        "durationSec": 90
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 414927,
+    "name": "Parks & Potions",
+    "year": 2025,
+    "slug": "parks-and-potions"
+  },
+  "playlist": {
+    "id": "parks-and-potions-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "PwT2Ceiyt0Q",
+        "title": "Main Theme - Definitive Edition",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 120
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SRwySkiU48Q",
+        "title": "Bustling Markets",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 254
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qzDFKkKhFtg",
+        "title": "The Lynx",
+        "channel": "Lorena Álvarez - Topic",
+        "durationSec": 142
+      },
+      {
+        "source": "youtube",
+        "sourceId": "pmyYGhPt1js",
+        "title": "A Shadian Lullaby",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 231
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1cVWwtJQHZE",
+        "title": "Night Market",
+        "channel": "ConcernedApe - Topic",
+        "durationSec": 132
+      },
+      {
+        "source": "youtube",
+        "sourceId": "t6vWDz5NzOY",
+        "title": "Light of Nibel (feat. Aeralie Brighton)",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 260
+      },
+      {
+        "source": "youtube",
+        "sourceId": "A7dxBUdXx5I",
+        "title": "Restless Reach",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 174
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Dj635iuyqgU",
+        "title": "Sun Room (Alone with Relaxing Tea)",
+        "channel": "ConcernedApe - Topic",
+        "durationSec": 105
+      },
+      {
+        "source": "youtube",
+        "sourceId": "b1W-T8vzAtI",
+        "title": "Leaving Lyndow Official Sountrack",
+        "channel": "Eastshade Studios",
+        "durationSec": 1337
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KPa7YY7ttpc",
+        "title": "Cave on the Shore",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 113
+      },
+      {
+        "source": "youtube",
+        "sourceId": "16raNPNRbMw",
+        "title": "Ginger Island",
+        "channel": "ConcernedApe - Topic",
+        "durationSec": 160
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bow4jmZFNGA",
+        "title": "The Tiffmoor Bluffs",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 324
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5dmWyIjPfAo",
+        "title": "Calling Out",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 88
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Q2ROZKZ8u_0",
+        "title": "In the Reeds",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 240
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mwrIvHe6Yvo",
+        "title": "Ori, Embracing the Light",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 232
+      }
+    ]
+  }
+}

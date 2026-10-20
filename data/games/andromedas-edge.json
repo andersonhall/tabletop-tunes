@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 358661,
+    "name": "Andromeda's Edge",
+    "year": 2024,
+    "slug": "andromedas-edge"
+  },
+  "playlist": {
+    "id": "andromedas-edge-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "TGReRiUSJ4Q",
+        "title": "Mass Effect Theme",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 141
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZwjV1OcB8uc",
+        "title": "The Citadel",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 104
+      },
+      {
+        "source": "youtube",
+        "sourceId": "b3a9jFokGxY",
+        "title": "The Titan",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 242
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LhlOHDJ7ZHo",
+        "title": "Spectre Induction",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 113
+      },
+      {
+        "source": "youtube",
+        "sourceId": "z34enKCqRGk",
+        "title": "Travelers",
+        "channel": "Andrew Prahlow - Topic",
+        "durationSec": 211
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ea1eWarxdxQ",
+        "title": "Vigil",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 103
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MSiFSvVCGxg",
+        "title": "Synthetic God",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 297
+      },
+      {
+        "source": "youtube",
+        "sourceId": "geqtLLBKh5c",
+        "title": "Noveria",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 132
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZqsQDExZPhs",
+        "title": "Cepheid",
+        "channel": "Stellardrone - Topic",
+        "durationSec": 273
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ufYpYdqOc7w",
+        "title": "Criminal Elements",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 115
+      },
+      {
+        "source": "youtube",
+        "sourceId": "To-di6JbUGY",
+        "title": "The Birth Of A Star (From Stellaris Original Game Soundtrack)",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 663
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QpcuYHEdvHg",
+        "title": "The End Run",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 178
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OokrEy8Cf3c",
+        "title": "The Imperial Fleet",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 328
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0K1k7mxkwN8",
+        "title": "Battling Saren",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 98
+      },
+      {
+        "source": "youtube",
+        "sourceId": "X1hbboXLbck",
+        "title": "One of Twelve",
+        "channel": "Jóhann Jóhannsson - Topic",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OS8qIyDg4Hs",
+        "title": "Saren",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 120
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2ovQ_R1faD0",
+        "title": "Nemesis Main Theme",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 242
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2joZFT1eHOc",
+        "title": "The Illusive Man",
+        "channel": "Jack Wall - Topic",
+        "durationSec": 144
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tw_Cg74bndc",
+        "title": "Billions And Billions",
+        "channel": "Stellardrone",
+        "durationSec": 315
+      }
+    ]
+  }
+}

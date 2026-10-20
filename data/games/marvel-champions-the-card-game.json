@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 285774,
+    "name": "Marvel Champions: The Card Game",
+    "year": 2019,
+    "slug": "marvel-champions-the-card-game"
+  },
+  "playlist": {
+    "id": "marvel-champions-the-card-game-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "sj8IcsclkPQ",
+        "title": "Brian Tyler - Avengers: Age of Ultron Title (From \"Avengers: Age of Ultron\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 48
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XNCQZ0wxphY",
+        "title": "Alan Silvestri - The Avengers (From \"The Avengers\")",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 128
+      },
+      {
+        "source": "youtube",
+        "sourceId": "B_jPNlVeZNQ",
+        "title": "Spider-Man",
+        "channel": "John Paesano - Topic",
+        "durationSec": 207
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZMPh5aFuTp0",
+        "title": "Don't Give Up",
+        "channel": "John Paesano - Topic",
+        "durationSec": 251
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IWLb_s2TTLQ",
+        "title": "Doctor Strange",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 192
+      },
+      {
+        "source": "youtube",
+        "sourceId": "79Y8GuuqbBk",
+        "title": "Ancestral Plane",
+        "channel": "Ludwig Göransson - Topic",
+        "durationSec": 268
+      },
+      {
+        "source": "youtube",
+        "sourceId": "F_mhWxOjxp4",
+        "title": "Alan Silvestri - Portals (From \"Avengers: Endgame\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 204
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5aeRFSvfsoo",
+        "title": "Danny Elfman - New Avengers - Avengers: Age of Ultron (From \"Avengers: Age of Ultron\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 194
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fxCCEYZHfu8",
+        "title": "All In",
+        "channel": "John Paesano - Topic",
+        "durationSec": 234
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zrod2imUhGw",
+        "title": "The Master of the Mystic End Credits",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 231
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1XB-n5CvlXg",
+        "title": "Sirens (From \"Black Panther: Wakanda Forever\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 236
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Utp5df6LAHs",
+        "title": "John Paesano - The Great Hunter (From \"Marvel's Spider-Man 2\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 238
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_geXiL1dYR4",
+        "title": "Smote and Mirrors",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 390
+      },
+      {
+        "source": "youtube",
+        "sourceId": "e6UaFPrvkqY",
+        "title": "Danny Elfman - Heroes (From \"Avengers: Age of Ultron\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 132
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zlCWHebx0oc",
+        "title": "We Know What You Whisper (From \"Black Panther: Wakanda Forever\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 156
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6oZSgUte_pQ",
+        "title": "John Paesano - Ready or Not (From \"Marvel's Spider-Man 2\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 141
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QMe8e5GcY0c",
+        "title": "Alan Silvestri - The Real Hero (From \"Avengers: Endgame\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 361
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vOKFvnTu7c8",
+        "title": "Michael Giacchino - Strange Days Ahead (Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 368
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6SlNXHRUqWA",
+        "title": "Danny Elfman - Avengers Unite (From \"Avengers: Age of Ultron\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 72
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4B3gCHbDu94",
+        "title": "Alan Silvestri - Main on End (From \"Avengers: Endgame\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 197
+      }
+    ]
+  }
+}

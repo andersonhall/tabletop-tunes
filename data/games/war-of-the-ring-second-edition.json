@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 115746,
+    "name": "War of the Ring: Second Edition",
+    "year": 2011,
+    "slug": "war-of-the-ring-second-edition"
+  },
+  "playlist": {
+    "id": "war-of-the-ring-second-edition-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "w_hnJNnKZz0",
+        "title": "The Lighting of the Beacons",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 544
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZNx5uPWbBIc",
+        "title": "The Riders of Rohan",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 246
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vyugbFCSTzM",
+        "title": "The Uruk-hai",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 179
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HG9NwkLY9sg",
+        "title": "Forth Eorlingas",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "99kB9REDqJk",
+        "title": "Helm's Deep",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 234
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IK_17Kf6tBU",
+        "title": "Glamdring",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 231
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LiEoUiEh6uQ",
+        "title": "\"Theme for Rohan\" by Chance Thomas",
+        "channel": "LOTRO",
+        "durationSec": 205
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8t9eL-5wMFc",
+        "title": "The Battle of the Pelennor Fields",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 251
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vKgaMsMHAH8",
+        "title": "Amon Hen",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 303
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lXBxKPia_kk",
+        "title": "The Last March of the Ents (feat. Ben Del Maestro)",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 152
+      },
+      {
+        "source": "youtube",
+        "sourceId": "f44xDz2tW_I",
+        "title": "Khazad-dûm",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 481
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vGGcSJ9R0dc",
+        "title": "Númenor",
+        "channel": "Bear McCreary - Topic",
+        "durationSec": 272
+      },
+      {
+        "source": "youtube",
+        "sourceId": "F1efWC-qEjM",
+        "title": "The Lord of the Rings: The Rings of Power Main Title",
+        "channel": "Release - Topic",
+        "durationSec": 94
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HfMQZuS3y2g",
+        "title": "The Three Hunters",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 373
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PEDEdrz8Okc",
+        "title": "The Grace of Undómiel (feat. Renée Fleming)",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 382
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fcFFH7Y-jr0",
+        "title": "The Sun Yet Shines",
+        "channel": "Bear McCreary - Topic",
+        "durationSec": 275
+      },
+      {
+        "source": "youtube",
+        "sourceId": "eYo4jbBPRT0",
+        "title": "The Grey Havens (feat. Sir James Galway)",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 360
+      }
+    ]
+  }
+}

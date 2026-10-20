@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 421006,
+    "name": "The Lord of the Rings: Duel for Middle-earth",
+    "year": 2024,
+    "slug": "the-lord-of-the-rings-duel-for-middle-earth"
+  },
+  "playlist": {
+    "id": "the-lord-of-the-rings-duel-for-middle-earth-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "F1efWC-qEjM",
+        "title": "The Lord of the Rings: The Rings of Power Main Title",
+        "channel": "Release - Topic",
+        "durationSec": 94
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vyugbFCSTzM",
+        "title": "The Uruk-hai",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 179
+      },
+      {
+        "source": "youtube",
+        "sourceId": "w6LfRXAuRD0",
+        "title": "The Council of Elrond (feat. \"Aniron\") [Theme for Aragorn and Arwen]",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 230
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IK_17Kf6tBU",
+        "title": "Glamdring",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 231
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2mu6faleFUg",
+        "title": "Evenstar",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "99kB9REDqJk",
+        "title": "Helm's Deep",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 234
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vGGcSJ9R0dc",
+        "title": "Númenor",
+        "channel": "Bear McCreary - Topic",
+        "durationSec": 272
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HG9NwkLY9sg",
+        "title": "Forth Eorlingas",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fcFFH7Y-jr0",
+        "title": "The Sun Yet Shines",
+        "channel": "Bear McCreary - Topic",
+        "durationSec": 275
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8t9eL-5wMFc",
+        "title": "The Battle of the Pelennor Fields",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 251
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AOpsPVthV5I",
+        "title": "Samwise the Brave",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 226
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vKgaMsMHAH8",
+        "title": "Amon Hen",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 303
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LiEoUiEh6uQ",
+        "title": "\"Theme for Rohan\" by Chance Thomas",
+        "channel": "LOTRO",
+        "durationSec": 205
+      },
+      {
+        "source": "youtube",
+        "sourceId": "f44xDz2tW_I",
+        "title": "Khazad-dûm",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 481
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OuaoxOVfHS4",
+        "title": "The Journey to the Grey Havens (feat. Sir James Galway)",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 455
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qNFLNSflEQU",
+        "title": "Heart of a Hero",
+        "channel": "Chance Thomas - Topic",
+        "durationSec": 144
+      }
+    ]
+  }
+}

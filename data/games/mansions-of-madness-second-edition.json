@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 205059,
+    "name": "Mansions of Madness: Second Edition",
+    "year": 2016,
+    "slug": "mansions-of-madness-second-edition"
+  },
+  "playlist": {
+    "id": "mansions-of-madness-second-edition-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "UpIBKNxSeZU",
+        "title": "Darkest Dungeon OST - Darkest Dungeon (Theme) by Stuart Chatwood HQ",
+        "channel": "Stuart Chatwood",
+        "durationSec": 193
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6Qa35PMjQHg",
+        "title": "Back Hall",
+        "channel": "Mikko Tarmia - Topic",
+        "durationSec": 83
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TnCnOCEdIDc",
+        "title": "Music for Dark Dreams",
+        "channel": "Cryo Chamber",
+        "durationSec": 3842
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WhVix2wgDD4",
+        "title": "Darkest Dungeon OST - Color of Madness \"The Senescence\" (2018) HQ Official",
+        "channel": "Stuart Chatwood",
+        "durationSec": 228
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Jk5L3DRaqjs",
+        "title": "Wolfstack Lights",
+        "channel": "Release - Topic",
+        "durationSec": 128
+      },
+      {
+        "source": "youtube",
+        "sourceId": "W8jFc2Wmfcs",
+        "title": "Darkness",
+        "channel": "Mikko Tarmia - Topic",
+        "durationSec": 76
+      },
+      {
+        "source": "youtube",
+        "sourceId": "E7JzX4CHJYg",
+        "title": "Darkest Dungeon OST - Color of Madness \"All Things Must Come\" (2018) HQ Official",
+        "channel": "Stuart Chatwood",
+        "durationSec": 228
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 295262,
+    "name": "Sniper Elite: The Board Game",
+    "year": 2022,
+    "slug": "sniper-elite-the-board-game"
+  },
+  "playlist": {
+    "id": "sniper-elite-the-board-game-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "Pok3jFalBos",
+        "title": "Sniper Elite 5 (Main Theme)",
+        "channel": "Release - Topic",
+        "durationSec": 125
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ulolTWSVZ9Y",
+        "title": "Thomas Newman - 1917 | 1917 (Original Motion Picture Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 79
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gqo46lt-8Q4",
+        "title": "Thomas Newman - The Night Window (From \"1917\" Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 223
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PNGUvDruQUc",
+        "title": "Ardennes",
+        "channel": "Wilbert Roget, II - Topic",
+        "durationSec": 210
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wlXjP59jZCM",
+        "title": "Dunkirk Official Soundtrack | The Mole - Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 337
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9H7jBimmGes",
+        "title": "Écoust-Saint-Mein (From \"1917\" Soundtrack)",
+        "channel": "Thomas Newman - Topic",
+        "durationSec": 157
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fDyYkWhZimc",
+        "title": "Berga",
+        "channel": "Wilbert Roget, II - Topic",
+        "durationSec": 143
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1KyYhgOdZdQ",
+        "title": "Dunkirk Official Soundtrack | Impulse - Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 158
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EjhplyK7-w0",
+        "title": "A Scrap of Ribbon (From \"1917\" Soundtrack)",
+        "channel": "Thomas Newman - Topic",
+        "durationSec": 390
+      },
+      {
+        "source": "youtube",
+        "sourceId": "UFeyqBW9eNQ",
+        "title": "Hill 493",
+        "channel": "Wilbert Roget, II - Topic",
+        "durationSec": 170
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0l19RfQyqrA",
+        "title": "Dunkirk Official Soundtrack | The Tide - Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 230
+      },
+      {
+        "source": "youtube",
+        "sourceId": "iULiL4GkL-8",
+        "title": "Thomas Newman - Up the Down Trench | 1917 (Original Motion Picture Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 381
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vj590qzS0cQ",
+        "title": "Remagen",
+        "channel": "Wilbert Roget, II - Topic",
+        "durationSec": 102
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KKkCP7ovMQA",
+        "title": "Dunkirk Official Soundtrack | The Oil - Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 372
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AB96CvvLZKc",
+        "title": "Main Titles from the HBO Miniseries | Band of Brothers (Original Motion Picture Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 149
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lUpvEgJEn94",
+        "title": "Dunkirk Official Soundtrack | Variation 15 - Benjamin Wallfisch | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 353
+      },
+      {
+        "source": "youtube",
+        "sourceId": "508OYAo5bDA",
+        "title": "Thomas Newman - Sixteen Hundred Men | 1917 (Original Motion Picture Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 394
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hMUPrWLHSAA",
+        "title": "Home",
+        "channel": "Wilbert Roget, II - Topic",
+        "durationSec": 124
+      },
+      {
+        "source": "youtube",
+        "sourceId": "n1VJ39nVIBk",
+        "title": "Dunkirk Official Soundtrack | Supermarine - Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 484
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fzNBolYpxpo",
+        "title": "Band of Brothers - Suite One | Band of Brothers - Original Motion Picture Soundtrack",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 394
+      },
+      {
+        "source": "youtube",
+        "sourceId": "CPPEw17VmcY",
+        "title": "Thomas Newman - Come Back to Us | 1917 (Original Motion Picture Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 342
+      }
+    ]
+  }
+}

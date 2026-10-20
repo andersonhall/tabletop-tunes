@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 148575,
+    "name": "Marvel Dice Masters: Avengers vs. X-Men",
+    "year": 2014,
+    "slug": "marvel-dice-masters-avengers-vs-x-men"
+  },
+  "playlist": {
+    "id": "marvel-dice-masters-avengers-vs-x-men-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "XNCQZ0wxphY",
+        "title": "Alan Silvestri - The Avengers (From \"The Avengers\")",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 128
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EkIlM0lYtT0",
+        "title": "The Newton Brothers - X-Men '97 Theme (From \"X-Men '97\")",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 79
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5aeRFSvfsoo",
+        "title": "Danny Elfman - New Avengers - Avengers: Age of Ultron (From \"Avengers: Age of Ultron\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 194
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wc9m0gLAUb0",
+        "title": "The Newton Brothers - Fight or Die (From \"X-Men '97\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 142
+      },
+      {
+        "source": "youtube",
+        "sourceId": "F_mhWxOjxp4",
+        "title": "Alan Silvestri - Portals (From \"Avengers: Endgame\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 204
+      },
+      {
+        "source": "youtube",
+        "sourceId": "J2xtpGGNt3Y",
+        "title": "The Newton Brothers - How We Survive (From \"X-Men '97: Season Two\")",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 116
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Utp5df6LAHs",
+        "title": "John Paesano - The Great Hunter (From \"Marvel's Spider-Man 2\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 238
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PdmFYKowl7w",
+        "title": "Rising Waters",
+        "channel": "The Newton Brothers - Topic",
+        "durationSec": 130
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_geXiL1dYR4",
+        "title": "Smote and Mirrors",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 390
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AlKewMZAPnk",
+        "title": "The Great Mound Battle",
+        "channel": "Ludwig Göransson - Topic",
+        "durationSec": 229
+      },
+      {
+        "source": "youtube",
+        "sourceId": "e6UaFPrvkqY",
+        "title": "Danny Elfman - Heroes (From \"Avengers: Age of Ultron\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 132
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jTYdWOkYp-M",
+        "title": "Bad Odds",
+        "channel": "The Newton Brothers - Topic",
+        "durationSec": 80
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QMe8e5GcY0c",
+        "title": "Alan Silvestri - The Real Hero (From \"Avengers: Endgame\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 361
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1XB-n5CvlXg",
+        "title": "Sirens (From \"Black Panther: Wakanda Forever\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 236
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vS0RLIm_UzE",
+        "title": "John Paesano - Betrayal (From \"Marvel's Spider-Man 2\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 215
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Qxpx7IdNdcM",
+        "title": "The Newton Brothers - The Horsemen of Apocalypse (From \"X-Men '97: Season Two\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 74
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vOKFvnTu7c8",
+        "title": "Michael Giacchino - Strange Days Ahead (Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 368
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zrod2imUhGw",
+        "title": "The Master of the Mystic End Credits",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 231
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4B3gCHbDu94",
+        "title": "Alan Silvestri - Main on End (From \"Avengers: Endgame\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 197
+      },
+      {
+        "source": "youtube",
+        "sourceId": "m0mCuXpVL-I",
+        "title": "The Newton Brothers - X-Men End Credits (From \"X-Men '97\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 56
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 138649,
+    "name": "DC Comics Dice Masters: Justice League",
+    "year": 2015,
+    "slug": "dc-comics-dice-masters-justice-league"
+  },
+  "playlist": {
+    "id": "dc-comics-dice-masters-justice-league-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "5Yk_DFCV_J4",
+        "title": "Justice League Official Soundtrack | Logos - Danny Elfman | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 49
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ojyuFzWA0v4",
+        "title": "Justice League Official Soundtrack | Hero's Theme - Danny Elfman | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 258
+      },
+      {
+        "source": "youtube",
+        "sourceId": "g8TtCl7N4rE",
+        "title": "Justice League Official Soundtrack | Justice League United - Danny Elfman | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 85
+      },
+      {
+        "source": "youtube",
+        "sourceId": "7QtbCmj71B0",
+        "title": "Justice League Official Soundtrack | Home - Danny Elfman | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 205
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ECoIGvDT36Q",
+        "title": "Man of Steel Soundtrack | What Are You Going to Do When You Are Not Saving the World? - Hans Zimmer",
+        "channel": "WaterTower Music",
+        "durationSec": 328
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1JP8XtHXyn8",
+        "title": "Justice League Official Soundtrack | Wonder Woman Rescue - Danny Elfman | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 164
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_a0DJn1eByM",
+        "title": "Justice League Official Soundtrack | Anti-Hero's Theme - Danny Elfman | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 336
+      },
+      {
+        "source": "youtube",
+        "sourceId": "M7iyEIUPZB0",
+        "title": "Man of Steel (Hans' Original Sketchbook)",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 1697
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EQ6mS3Ulgb0",
+        "title": "Justice League Official Soundtrack | Friends and Foes - Danny Elfman | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 255
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lmkJslDi9Pw",
+        "title": "Justice League Official Soundtrack | A New Hope - Danny Elfman | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 277
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YpahORlXzZ0",
+        "title": "Justice League Official Soundtrack | The World Needs Superman - Danny Elfman | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 61
+      }
+    ]
+  }
+}

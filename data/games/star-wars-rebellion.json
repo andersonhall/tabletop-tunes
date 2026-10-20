@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 187645,
+    "name": "Star Wars: Rebellion",
+    "year": 2016,
+    "slug": "star-wars-rebellion"
+  },
+  "playlist": {
+    "id": "star-wars-rebellion-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "e9lapdvLSGw",
+        "title": "Main Title",
+        "channel": "John Williams - Topic",
+        "durationSec": 325
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-C2wCcuKmLI",
+        "title": "Michael Giacchino - The Imperial Suite (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 152
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DbQAyWJxOQE",
+        "title": "Past/Present Suite",
+        "channel": "Nicholas Britell - Topic",
+        "durationSec": 225
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LqcXAPejbj0",
+        "title": "Michael Giacchino - Guardians of the Whills Suite (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 172
+      },
+      {
+        "source": "youtube",
+        "sourceId": "msqfRw197tk",
+        "title": "Imperial Attack",
+        "channel": "John Williams - Topic",
+        "durationSec": 379
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qywVjBM9QoM",
+        "title": "Eulogy",
+        "channel": "Nicholas Britell - Topic",
+        "durationSec": 257
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Pf-cg9W5fQY",
+        "title": "Michael Giacchino - Rogue One (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 126
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bCStmR1FzZk",
+        "title": "Elegy for Ghorman",
+        "channel": "Brandon Roberts - Topic",
+        "durationSec": 216
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Qemb3iBlp1o",
+        "title": "Michael Giacchino - Your Father Would Be Proud (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 292
+      },
+      {
+        "source": "youtube",
+        "sourceId": "iQUmCrxr1fk",
+        "title": "Bix's Message",
+        "channel": "Brandon Roberts - Topic",
+        "durationSec": 181
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_bglf5NuXWI",
+        "title": "Michael Giacchino - The Master Switch (From \"Rogue One: A Star Wars Story\"/Score)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 243
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hUQIUgO9G-Q",
+        "title": "Andor Onward (From \"Andor (Season 2)\")",
+        "channel": "Brandon Roberts - Topic",
+        "durationSec": 133
+      },
+      {
+        "source": "youtube",
+        "sourceId": "RaEzKRngCyY",
+        "title": "Michael Giacchino - Hope (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 99
+      },
+      {
+        "source": "youtube",
+        "sourceId": "w42CTq5QZtI",
+        "title": "Michael Giacchino - Jyn Erso & Hope Suite (From \"Rogue One: A Star Wars Story\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 351
+      },
+      {
+        "source": "youtube",
+        "sourceId": "l-UuD9vT1Qc",
+        "title": "I Came for You",
+        "channel": "Nicholas Britell - Topic",
+        "durationSec": 160
+      },
+      {
+        "source": "youtube",
+        "sourceId": "D_2bluVPsb0",
+        "title": "Duel of the Fates",
+        "channel": "John Williams - Topic",
+        "durationSec": 255
+      },
+      {
+        "source": "youtube",
+        "sourceId": "RLfQkvPsz00",
+        "title": "In Their House/Who Are You?",
+        "channel": "Nicholas Britell - Topic",
+        "durationSec": 128
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HEjHf8DwQi8",
+        "title": "I'm Not Leaving You Here",
+        "channel": "Brandon Roberts - Topic",
+        "durationSec": 253
+      },
+      {
+        "source": "youtube",
+        "sourceId": "trYeKG17hYc",
+        "title": "The Throne Room and End Title",
+        "channel": "John Williams - Topic",
+        "durationSec": 335
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 436217,
+    "name": "The Lord of the Rings: Fate of the Fellowship",
+    "year": 2025,
+    "slug": "the-lord-of-the-rings-fate-of-the-fellowship"
+  },
+  "playlist": {
+    "id": "the-lord-of-the-rings-fate-of-the-fellowship-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "IlmiRndxkU8",
+        "title": "The Shire",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 150
+      },
+      {
+        "source": "youtube",
+        "sourceId": "CL_3mlOPnGI",
+        "title": "Concerning Hobbits",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 176
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HfMQZuS3y2g",
+        "title": "The Three Hunters",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 373
+      },
+      {
+        "source": "youtube",
+        "sourceId": "w6LfRXAuRD0",
+        "title": "The Council of Elrond (feat. \"Aniron\") [Theme for Aragorn and Arwen]",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 230
+      },
+      {
+        "source": "youtube",
+        "sourceId": "f44xDz2tW_I",
+        "title": "Khazad-dûm",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 481
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AOpsPVthV5I",
+        "title": "Samwise the Brave",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 226
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lXBxKPia_kk",
+        "title": "The Last March of the Ents (feat. Ben Del Maestro)",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 152
+      },
+      {
+        "source": "youtube",
+        "sourceId": "w_hnJNnKZz0",
+        "title": "The Lighting of the Beacons",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 544
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2mu6faleFUg",
+        "title": "Evenstar",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZNx5uPWbBIc",
+        "title": "The Riders of Rohan",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 246
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PEDEdrz8Okc",
+        "title": "The Grace of Undómiel (feat. Renée Fleming)",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 382
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vKgaMsMHAH8",
+        "title": "Amon Hen",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 303
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vGGcSJ9R0dc",
+        "title": "Númenor",
+        "channel": "Bear McCreary - Topic",
+        "durationSec": 272
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OuaoxOVfHS4",
+        "title": "The Journey to the Grey Havens (feat. Sir James Galway)",
+        "channel": "Howard Shore - Topic",
+        "durationSec": 455
+      }
+    ]
+  }
+}

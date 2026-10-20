@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 102652,
+    "name": "Sentinels of the Multiverse",
+    "year": 2011,
+    "slug": "sentinels-of-the-multiverse"
+  },
+  "playlist": {
+    "id": "sentinels-of-the-multiverse-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "ojyuFzWA0v4",
+        "title": "Justice League Official Soundtrack | Hero's Theme - Danny Elfman | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 258
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XNCQZ0wxphY",
+        "title": "Alan Silvestri - The Avengers (From \"The Avengers\")",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 128
+      },
+      {
+        "source": "youtube",
+        "sourceId": "B_jPNlVeZNQ",
+        "title": "Spider-Man",
+        "channel": "John Paesano - Topic",
+        "durationSec": 207
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wc9m0gLAUb0",
+        "title": "The Newton Brothers - Fight or Die (From \"X-Men '97\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 142
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_a0DJn1eByM",
+        "title": "Justice League Official Soundtrack | Anti-Hero's Theme - Danny Elfman | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 336
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_geXiL1dYR4",
+        "title": "Smote and Mirrors",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 390
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AlKewMZAPnk",
+        "title": "The Great Mound Battle",
+        "channel": "Ludwig Göransson - Topic",
+        "durationSec": 229
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EQ6mS3Ulgb0",
+        "title": "Justice League Official Soundtrack | Friends and Foes - Danny Elfman | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 255
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Utp5df6LAHs",
+        "title": "John Paesano - The Great Hunter (From \"Marvel's Spider-Man 2\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 238
+      },
+      {
+        "source": "youtube",
+        "sourceId": "F_mhWxOjxp4",
+        "title": "Alan Silvestri - Portals (From \"Avengers: Endgame\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 204
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ECoIGvDT36Q",
+        "title": "Man of Steel Soundtrack | What Are You Going to Do When You Are Not Saving the World? - Hans Zimmer",
+        "channel": "WaterTower Music",
+        "durationSec": 328
+      },
+      {
+        "source": "youtube",
+        "sourceId": "J2xtpGGNt3Y",
+        "title": "The Newton Brothers - How We Survive (From \"X-Men '97: Season Two\")",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 116
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vOKFvnTu7c8",
+        "title": "Michael Giacchino - Strange Days Ahead (Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 368
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lmkJslDi9Pw",
+        "title": "Justice League Official Soundtrack | A New Hope - Danny Elfman | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 277
+      },
+      {
+        "source": "youtube",
+        "sourceId": "79Y8GuuqbBk",
+        "title": "Ancestral Plane",
+        "channel": "Ludwig Göransson - Topic",
+        "durationSec": 268
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZMPh5aFuTp0",
+        "title": "Don't Give Up",
+        "channel": "John Paesano - Topic",
+        "durationSec": 251
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QMe8e5GcY0c",
+        "title": "Alan Silvestri - The Real Hero (From \"Avengers: Endgame\"/Audio Only)",
+        "channel": "MarvelMusicVEVO",
+        "durationSec": 361
+      }
+    ]
+  }
+}

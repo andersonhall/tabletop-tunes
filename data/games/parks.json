@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 266524,
+    "name": "Parks",
+    "year": 2020,
+    "slug": "parks"
+  },
+  "playlist": {
+    "id": "parks-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "v7wtrkp5Mx4",
+        "title": "Prologue",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 215
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Bq70BFHYfA8",
+        "title": "Thorofare Hike",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 156
+      },
+      {
+        "source": "youtube",
+        "sourceId": "stnQ_L-lC48",
+        "title": "Camp Approach",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 163
+      },
+      {
+        "source": "youtube",
+        "sourceId": "R8p2YMww4WU",
+        "title": "Somewhere in the Woods (Short Hike)",
+        "channel": "Mark Sparling - Topic",
+        "durationSec": 224
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-a1Snx4be7Q",
+        "title": "Monsoon Deserts/Canyonlands",
+        "channel": "Jacob Shea - Topic",
+        "durationSec": 200
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bow4jmZFNGA",
+        "title": "The Tiffmoor Bluffs",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 324
+      },
+      {
+        "source": "youtube",
+        "sourceId": "RhmuhNnohKU",
+        "title": "Stay in Your Tower and Watch",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 116
+      },
+      {
+        "source": "youtube",
+        "sourceId": "b1W-T8vzAtI",
+        "title": "Leaving Lyndow Official Sountrack",
+        "channel": "Eastshade Studios",
+        "durationSec": 1337
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SBdEiRL10y8",
+        "title": "Catching Up",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 108
+      },
+      {
+        "source": "youtube",
+        "sourceId": "A7dxBUdXx5I",
+        "title": "Restless Reach",
+        "channel": "Phoenix Glendinning - Topic",
+        "durationSec": 174
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Wv3G8V4KE_o",
+        "title": "Into The Woodlands",
+        "channel": "Steven Price - Topic",
+        "durationSec": 276
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YlrVISmAXNM",
+        "title": "New Equipment",
+        "channel": "Chris Remo - Topic",
+        "durationSec": 70
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fZqZ7XH9K_Y",
+        "title": "See You at the Top (Short Hike)",
+        "channel": "Mark Sparling - Topic",
+        "durationSec": 354
+      },
+      {
+        "source": "youtube",
+        "sourceId": "r9aQaBUTnY0",
+        "title": "This Is Our Planet (From \"Our Planet\")",
+        "channel": "Steven Price - Topic",
+        "durationSec": 225
+      }
+    ]
+  }
+}
