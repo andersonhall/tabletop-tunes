@@ -64,6 +64,14 @@ export function totalDurationSec(tracks: readonly Track[]): number {
   return tracks.reduce((sum, t) => sum + t.durationSec, 0);
 }
 
+/**
+ * Punctuation that sits inside a word rather than between words: apostrophes
+ * ("Hadrian's", "Memoir '44") and periods after a lone letter ("M.D."). Replace
+ * matches with "$1" on lowercased text so they're dropped instead of becoming
+ * word breaks.
+ */
+export const IN_WORD_PUNCTUATION = /['‘’`]|\b([a-z])\./g;
+
 /** Lowercase, hyphenated, ASCII-only slug for a game name. */
 export function slugify(name: string): string {
   return name
@@ -71,6 +79,7 @@ export function slugify(name: string): string {
     .replace(/[̀-ͯ]/g, "")
     .toLowerCase()
     .replace(/&/g, " and ")
+    .replace(IN_WORD_PUNCTUATION, "$1")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
 }

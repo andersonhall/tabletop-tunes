@@ -1,12 +1,16 @@
-import type { GameFile } from "./data/schema";
+import { IN_WORD_PUNCTUATION, type GameFile } from "./data/schema";
 
-/** Lowercases and strips accents/punctuation so "Agricola" ≈ "agrícola!". */
+/**
+ * Lowercases and strips accents/punctuation so "Agricola" ≈ "agrícola!" and
+ * "hadrians wall" ≈ "Hadrian's Wall".
+ */
 export function normalize(s: string): string {
   return s
     .normalize("NFKD")
     .replace(/[̀-ͯ]/g, "")
     .toLowerCase()
     .replace(/&/g, " and ")
+    .replace(IN_WORD_PUNCTUATION, "$1")
     .replace(/[^a-z0-9]+/g, " ")
     .trim();
 }

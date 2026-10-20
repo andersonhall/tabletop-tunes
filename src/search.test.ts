@@ -16,6 +16,8 @@ const games = [
   game("Spirit Island"),
   game("Ark Nova"),
   game("Agrícola"),
+  game("Hadrian's Wall"),
+  game("Rush M.D."),
 ];
 const names = (q: string) => searchGames(games, q).map((g) => g.game.name);
 
@@ -35,6 +37,18 @@ describe("searchGames", () => {
   it("ignores accents and punctuation", () => {
     expect(names("agricola")).toEqual(["Agrícola"]);
     expect(names("mars open tabletop")).toEqual(["Mars Open: Tabletop Grand Prix"]);
+  });
+
+  it("matches names with apostrophes with or without them", () => {
+    for (const q of ["hadrians wall", "hadrian's wall", "Hadrian’s Wall", "hadrians"]) {
+      expect(names(q)).toEqual(["Hadrian's Wall"]);
+    }
+  });
+
+  it("matches abbreviations with or without periods", () => {
+    for (const q of ["rush md", "rush m.d.", "Rush M.D.", "md"]) {
+      expect(names(q)).toEqual(["Rush M.D."]);
+    }
   });
 
   it("returns nothing for a game with no saved playlist", () => {
