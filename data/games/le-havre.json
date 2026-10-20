@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 35677,
+    "name": "Le Havre",
+    "year": 2008,
+    "slug": "le-havre"
+  },
+  "playlist": {
+    "id": "le-havre-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "DNhDfCvARg8",
+        "title": "Heartland | Anno 1800 (OST) | Dynamedion",
+        "channel": "Ubisoft Music",
+        "durationSec": 127
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tfuQEolgzX0",
+        "title": "The Crown and the Lion",
+        "channel": "Dynamedion - Topic",
+        "durationSec": 96
+      },
+      {
+        "source": "youtube",
+        "sourceId": "A2I9T9ePS_E",
+        "title": "Royal Meadows",
+        "channel": "Dynamedion - Topic",
+        "durationSec": 59
+      },
+      {
+        "source": "youtube",
+        "sourceId": "pECXXQQxUJU",
+        "title": "New World Dawning",
+        "channel": "Dynamedion - Topic",
+        "durationSec": 105
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2hJ98ttOTW4",
+        "title": "ANNO 1800 OST #001 ( Dynamedion﻿ - Liberation )",
+        "channel": "Kush Gene",
+        "durationSec": 147
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YR1BdvUfRAQ",
+        "title": "ANNO 1800 OST #003 ( Dynamedion﻿ - In the Mists )",
+        "channel": "Kush Gene",
+        "durationSec": 122
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZZTPUvIatDU",
+        "title": "The Rains",
+        "channel": "Dynamedion - Topic",
+        "durationSec": 121
+      },
+      {
+        "source": "youtube",
+        "sourceId": "RfkTixqLPJ4",
+        "title": "Port Royale Anthology  - The Original Soundtrack High Quality",
+        "channel": "VIDEO GAME SOUNDTRACK COLLECTION - OST ROOM",
+        "durationSec": 2747
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AwvARrHsR3E",
+        "title": "Wanderlust",
+        "channel": "Dynamedion - Topic",
+        "durationSec": 101
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bPxjrXGDgKM",
+        "title": "Electrical Engineering | Anno 1800 (OST) | Dynamedion",
+        "channel": "Ubisoft Music",
+        "durationSec": 113
+      },
+      {
+        "source": "youtube",
+        "sourceId": "28nrWonOMv8",
+        "title": "Hush",
+        "channel": "Dynamedion - Topic",
+        "durationSec": 118
+      },
+      {
+        "source": "youtube",
+        "sourceId": "926Op2tlYz8",
+        "title": "Robber Baron Suite (From the Anno 1800 Original Game Soundtrack)",
+        "channel": "Dynamedion - Topic",
+        "durationSec": 280
+      },
+      {
+        "source": "youtube",
+        "sourceId": "uJCs7_u_wh0",
+        "title": "Industrial Accidents | Anno 1800 (OST) | Dynamedion",
+        "channel": "Ubisoft Music",
+        "durationSec": 122
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fN2ZC7yPqas",
+        "title": "In the Belly of the Beast",
+        "channel": "Dynamedion - Topic",
+        "durationSec": 113
+      },
+      {
+        "source": "youtube",
+        "sourceId": "xzgD65EyAF8",
+        "title": "Black Jaguar",
+        "channel": "Dynamedion - Topic",
+        "durationSec": 88
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4NUgMinln6A",
+        "title": "Streets Aflame | Anno 1800 (OST) | Dynamedion",
+        "channel": "Ubisoft Music",
+        "durationSec": 66
+      },
+      {
+        "source": "youtube",
+        "sourceId": "RI-IWce4WQQ",
+        "title": "Anno 1800 Soundtrack - The Second Burial",
+        "channel": "Full Anno Soundtrack",
+        "durationSec": 88
+      }
+    ]
+  }
+}

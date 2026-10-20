@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 84876,
+    "name": "The Castles of Burgundy",
+    "year": 2011,
+    "slug": "the-castles-of-burgundy"
+  },
+  "playlist": {
+    "id": "the-castles-of-burgundy-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "zR1cq0P2lTI",
+        "title": "Manor Lords soundtrack - Main theme",
+        "channel": "Sva Solstice",
+        "durationSec": 188
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EKk075jTkLk",
+        "title": "Rattay Feasts",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 94
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TT2ZR3UVY9Q",
+        "title": "Kuttenberg Market",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 169
+      },
+      {
+        "source": "youtube",
+        "sourceId": "NP1hZhtL9Aw",
+        "title": "Manor Lords OST - The Peasants (Soundtrack Preview)",
+        "channel": "Manor Lords",
+        "durationSec": 257
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6aZEgrV2m9w",
+        "title": "Apollonia Theme",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 140
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HS_VM1BT9n0",
+        "title": "Burgher, Commoner and Lord",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 99
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zo06UJxfuHw",
+        "title": "John Dowland - Complete Lute Works, Vol. 1 - Paul Odette",
+        "channel": "Classical Music Appreciation",
+        "durationSec": 3853
+      },
+      {
+        "source": "youtube",
+        "sourceId": "JSja-MR72tA",
+        "title": "Media Vita",
+        "channel": "Release - Topic",
+        "durationSec": 182
+      },
+      {
+        "source": "youtube",
+        "sourceId": "s5zWbfyYVb4",
+        "title": "Till Our Heads Turn White (Instrumental)",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 71
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XNPu7PZecuE",
+        "title": "The Tavern Music you're probably looking for - Kingdom Come: Deliverance 2",
+        "channel": "Stone Edge Gaming",
+        "durationSec": 122
+      },
+      {
+        "source": "youtube",
+        "sourceId": "7PQntqNYmF4",
+        "title": "Kingdom Come: Deliverance 2 - Saint Barbara (Jan Valta) - Filmová filharmonie (FILMharmonie)",
+        "channel": "Filmová filharmonie",
+        "durationSec": 198
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gLH4LnCu29s",
+        "title": "Poverty and Famine (Instrumental)",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 68
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LxF05Z7ZtoY",
+        "title": "Blood And Banner",
+        "channel": "Release - Topic",
+        "durationSec": 414
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZQvLyUc8U7c",
+        "title": "Kingdom Come: Deliverance II Official Live Action - Music",
+        "channel": "Warhorse Studios",
+        "durationSec": 653
+      }
+    ]
+  }
+}

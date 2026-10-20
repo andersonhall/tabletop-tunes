@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 341169,
+    "name": "Great Western Trail: Second Edition",
+    "year": 2021,
+    "slug": "great-western-trail-second-edition"
+  },
+  "playlist": {
+    "id": "great-western-trail-second-edition-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "_t8MSDh_ICc",
+        "title": "Theme From Lonesome Dove",
+        "channel": "Basil Poledouris - Topic",
+        "durationSec": 318
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5iGoLmFK8jw",
+        "title": "Red Dead Redemption",
+        "channel": "Woody Jackson - Topic",
+        "durationSec": 218
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Kzb6zoXXVVQ",
+        "title": "On The Trail",
+        "channel": "Basil Poledouris - Topic",
+        "durationSec": 409
+      },
+      {
+        "source": "youtube",
+        "sourceId": "R0DI3k_Y_GU",
+        "title": "Blessed Are The Peacemakers",
+        "channel": "Woody Jackson - Topic",
+        "durationSec": 222
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lxr3vPpKYSw",
+        "title": "The Leaving",
+        "channel": "Basil Poledouris - Topic",
+        "durationSec": 212
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6Bek6GjikF8",
+        "title": "Red Dead Redemption 2 - Original Soundtrack - \"Red Dead Redemption\" Orchestral Mix",
+        "channel": "JacksNiperson",
+        "durationSec": 926
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AF22vaGLziM",
+        "title": "American Venom",
+        "channel": "Woody Jackson - Topic",
+        "durationSec": 173
+      },
+      {
+        "source": "youtube",
+        "sourceId": "kKtye_ytO1g",
+        "title": "Farewell Ladies / Finale",
+        "channel": "Basil Poledouris - Topic",
+        "durationSec": 349
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ICvl8JmdgDU",
+        "title": "Blood Feuds, Ancient And Modern",
+        "channel": "Woody Jackson - Topic",
+        "durationSec": 436
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gwKAmoP0lZo",
+        "title": "Red Dead Redemption | The Music of Red Dead Redemption 2 OST",
+        "channel": "Original Soundtrack",
+        "durationSec": 252
+      },
+      {
+        "source": "youtube",
+        "sourceId": "S3YFu3yIGXk",
+        "title": "Woody Jackson - A Fisher Of Men (Red Dead Redemption 2 Full Original Score)",
+        "channel": "Seraphatum",
+        "durationSec": 855
+      }
+    ]
+  }
+}

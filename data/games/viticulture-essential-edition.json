@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 183394,
+    "name": "Viticulture Essential Edition",
+    "year": 2015,
+    "slug": "viticulture-essential-edition"
+  },
+  "playlist": {
+    "id": "viticulture-essential-edition-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-20",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "TbDE2Rpi4ik",
+        "title": "Cinema Paradiso (Main Theme)",
+        "channel": "Ennio Morricone - Topic",
+        "durationSec": 150
+      },
+      {
+        "source": "youtube",
+        "sourceId": "95IvXVD0Utc",
+        "title": "Il Postino soundtrack",
+        "channel": "TheFilmografo",
+        "durationSec": 151
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0lrFcoqDy3A",
+        "title": "Love Theme (From \"Cinema Paradiso\")",
+        "channel": "Ennio Morricone - Topic",
+        "durationSec": 193
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YZl4RTCbbfc",
+        "title": "Il Postino - Luís Bacalov - played by Carel Kraayenhof Ensemble",
+        "channel": "Carel Kraayenhof",
+        "durationSec": 168
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wluEPP42odU",
+        "title": "Theme from Il Postino (HD) - Itzhak Perlman",
+        "channel": "husco2000",
+        "durationSec": 242
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Cj7miUnCojQ",
+        "title": "Morricone: Theme from Cinema Paradiso (Renaud Capuçon)",
+        "channel": "Warner Classics",
+        "durationSec": 206
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WgAsQmZ8Vdw",
+        "title": "Il postino - colonna sonora (L. Bacalov)",
+        "channel": "Cinefilo Moviebook",
+        "durationSec": 311
+      },
+      {
+        "source": "youtube",
+        "sourceId": "JlQh4PeB8PE",
+        "title": "Ennio Morricone - Cinema Paradiso (The Original Soundtrack) [High Quality Audio]",
+        "channel": "EnnioMorriconeVEVO",
+        "durationSec": 3267
+      }
+    ]
+  }
+}
