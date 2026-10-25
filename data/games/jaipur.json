@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 54043,
+    "name": "Jaipur",
+    "year": 2009,
+    "slug": "jaipur"
+  },
+  "playlist": {
+    "id": "jaipur-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "bttszaG-fZU",
+        "title": "Raag Bhairavi - Stornoway - Roopa Panesar - Dalbir S. Rattan",
+        "channel": "SouthAsianArtsUK",
+        "durationSec": 1405
+      },
+      {
+        "source": "youtube",
+        "sourceId": "D_qMJiE7RpQ",
+        "title": "Mind Relaxing Flute, Tabla & Sitar | Pt. Hariprasad Chaurasia, Ustad Zakir Hussain, Pt. Ravi Shankar",
+        "channel": "Saregama Hindustani Classical",
+        "durationSec": 3635
+      }
+    ]
+  }
+}

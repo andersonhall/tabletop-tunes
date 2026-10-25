@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 307561,
+    "name": "Steam Up: A Feast of Dim Sum",
+    "year": 2023,
+    "slug": "steam-up-a-feast-of-dim-sum"
+  },
+  "playlist": {
+    "id": "steam-up-a-feast-of-dim-sum-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "fQC8AHImRbY",
+        "title": "Kung Fu Panda | Imperial Orchestra | Hans Zimmer's Universe",
+        "channel": "Imperial Orchestra",
+        "durationSec": 440
+      },
+      {
+        "source": "youtube",
+        "sourceId": "3Z4vJMB9flw",
+        "title": "1 Hour of Chinese Music for Study, Focus and Calm | Erhu (二胡)",
+        "channel": "Ancient China Ambience",
+        "durationSec": 4007
+      },
+      {
+        "source": "youtube",
+        "sourceId": "NCaH-qqTWpk",
+        "title": "Hans Zimmer - Kung Fu Panda Theme (Oogway Ascends) - The Piano Guys",
+        "channel": "The Piano Guys",
+        "durationSec": 247
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Dk2uikbqnGw",
+        "title": "Kung Fu Panda - Hans Zimmer/John Powell/Arr. Ludwig Hjortenhammar",
+        "channel": "Molenaar Edition",
+        "durationSec": 707
+      }
+    ]
+  }
+}

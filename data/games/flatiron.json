@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 409693,
+    "name": "Flatiron",
+    "year": 2024,
+    "slug": "flatiron"
+  },
+  "playlist": {
+    "id": "flatiron-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "64jVoO1Jc6s",
+        "title": "Joplin: The Entertainer",
+        "channel": "New England Conservatory Ragtime Ensemble - Topic",
+        "durationSec": 258
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KpeBpBMXNSk",
+        "title": "Joplin: Maple Leaf Rag",
+        "channel": "New England Conservatory Ragtime Ensemble - Topic",
+        "durationSec": 195
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DtSoYVKFOWQ",
+        "title": "Joplin: The Cascades",
+        "channel": "New England Conservatory Ragtime Ensemble - Topic",
+        "durationSec": 208
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4hsecg7FHOs",
+        "title": "The Entertainer | Scott Joplin | The Red Back Book | 1973 Angel LP",
+        "channel": "anconia's place",
+        "durationSec": 259
+      },
+      {
+        "source": "youtube",
+        "sourceId": "nDkd9bVhmek",
+        "title": "Scott Joplin - Ragtime (Full Album)",
+        "channel": "TAM-TAM Music",
+        "durationSec": 2002
+      },
+      {
+        "source": "youtube",
+        "sourceId": "iztvuDubRNM",
+        "title": "Joplin: The Rag Time Dance",
+        "channel": "New England Conservatory Ragtime Ensemble - Topic",
+        "durationSec": 242
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hRXEx8_vXbY",
+        "title": "Joplin: Sugar Cane",
+        "channel": "New England Conservatory Ragtime Ensemble - Topic",
+        "durationSec": 203
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ypsIFsk5kOo",
+        "title": "Sun Flower Slow Drag | Scott Joplin | The Red Back Book | 1973 Angel LP",
+        "channel": "anconia's place",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DsGaFJ9XCuc",
+        "title": "The Ragtime Dance",
+        "channel": "Scott Joplin - Topic",
+        "durationSec": 205
+      },
+      {
+        "source": "youtube",
+        "sourceId": "409o7gQ3b-4",
+        "title": "Solace - A Mexican Serenade",
+        "channel": "New England Conservatory Ragtime Ensemble - Topic",
+        "durationSec": 297
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bCxLAr_bwpA",
+        "title": "Scott Joplin: Maple Leaf Rag",
+        "channel": "Dario Ronchi",
+        "durationSec": 207
+      }
+    ]
+  }
+}

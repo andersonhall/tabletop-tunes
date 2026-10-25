@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 367966,
+    "name": "Endeavor: Deep Sea",
+    "year": 2024,
+    "slug": "endeavor-deep-sea"
+  },
+  "playlist": {
+    "id": "endeavor-deep-sea-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "QN0SNDhHTYA",
+        "title": "The Blue Planet",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 198
+      },
+      {
+        "source": "youtube",
+        "sourceId": "pQsQKtxG9D0",
+        "title": "Salutations",
+        "channel": "Simon Chylinski - Topic",
+        "durationSec": 110
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tewBsrO06vg",
+        "title": "ABZU - Delphinus Delphis - As Noted",
+        "channel": "Austin Wintory",
+        "durationSec": 314
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tEzYsaLm7nw",
+        "title": "Into the Unknown",
+        "channel": "Simon Chylinski - Topic",
+        "durationSec": 179
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6b_7AqwaDGI",
+        "title": "Tropical Eden",
+        "channel": "Simon Chylinski - Topic",
+        "durationSec": 103
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AerfAqrw7qY",
+        "title": "Blue Planet II - Epic themes & Suite. Hans Zimmer, Jacob Shea & David Fleming.",
+        "channel": "FilmscoreJunkie",
+        "durationSec": 836
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ipR2CvUTwXQ",
+        "title": "ABZÛ - Elasmosaurus platyurus / Ichthyosaurus communis - As Noted",
+        "channel": "Austin Wintory",
+        "durationSec": 348
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XoeXoTNdMEI",
+        "title": "Cycle of Life",
+        "channel": "Simon Chylinski - Topic",
+        "durationSec": 79
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Jny84g6brI4",
+        "title": "Crash Site",
+        "channel": "Simon Chylinski - Topic",
+        "durationSec": 150
+      },
+      {
+        "source": "youtube",
+        "sourceId": "7XVG92t8BzA",
+        "title": "ABZU - To Know, Water - As Noted",
+        "channel": "Austin Wintory",
+        "durationSec": 132
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OYL-CPIJNHk",
+        "title": "Exosuit",
+        "channel": "Simon Chylinski - Topic",
+        "durationSec": 125
+      },
+      {
+        "source": "youtube",
+        "sourceId": "teb2c7AWOE8",
+        "title": "ABZÛ - Balaenoptera musculus - As Noted",
+        "channel": "Austin Wintory",
+        "durationSec": 262
+      },
+      {
+        "source": "youtube",
+        "sourceId": "FG1J_WAO2gY",
+        "title": "Hans Zimmer, Jacob Shea, Jasha Klebe - Planet Earth II Suite Official Soundtrack",
+        "channel": "Silva Screen Records",
+        "durationSec": 271
+      },
+      {
+        "source": "youtube",
+        "sourceId": "nf30qQzw7rk",
+        "title": "Abandon Ship",
+        "channel": "Simon Chylinski - Topic",
+        "durationSec": 104
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jsO6JZ0cAvc",
+        "title": "Leviathan",
+        "channel": "Simon Chylinski - Topic",
+        "durationSec": 67
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4DjokyaqUgA",
+        "title": "ABZU - Then were created the gods in the midst of heaven - As Noted",
+        "channel": "Austin Wintory",
+        "durationSec": 244
+      },
+      {
+        "source": "youtube",
+        "sourceId": "h3bve7T-phg",
+        "title": "Blue Planet II: Hans Zimmer Theme Live Recording | BBC Earth",
+        "channel": "BBC Earth",
+        "durationSec": 239
+      },
+      {
+        "source": "youtube",
+        "sourceId": "R3vQj9ECtcU",
+        "title": "Subnautica Soundtrack - Abandon ship [Extended mix]",
+        "channel": "Elia Bianchi",
+        "durationSec": 204
+      }
+    ]
+  }
+}

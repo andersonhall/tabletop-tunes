@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 156776,
+    "name": "Warhammer 40,000: Conquest",
+    "year": 2014,
+    "slug": "warhammer-40-000-conquest"
+  },
+  "playlist": {
+    "id": "warhammer-40-000-conquest-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "IWELG_4CURI",
+        "title": "Blood Ravens Approach (Space Marine Theme) | Dawn of War Soundtrack",
+        "channel": "Music of 40K",
+        "durationSec": 218
+      },
+      {
+        "source": "youtube",
+        "sourceId": "c_8SqBTiJjg",
+        "title": "Where There is Darkness | Dawn of War III Soundtrack",
+        "channel": "Music of 40K",
+        "durationSec": 195
+      },
+      {
+        "source": "youtube",
+        "sourceId": "V4-eNqnX8lk",
+        "title": "Warhammer 40000 Dawn of War III OST - Full Game Soundtrack",
+        "channel": "Game-Sound- HD",
+        "durationSec": 3191
+      },
+      {
+        "source": "youtube",
+        "sourceId": "blCBoXKCGl0",
+        "title": "Dawn of War II - Angels Of Death (Space Marine Theme) (HD)",
+        "channel": "HDGamerz",
+        "durationSec": 183
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EQvGuSHMbMc",
+        "title": "Dawn of War 3 Soundtrack - Orks Main Theme",
+        "channel": "Chain Embrace",
+        "durationSec": 238
+      }
+    ]
+  }
+}

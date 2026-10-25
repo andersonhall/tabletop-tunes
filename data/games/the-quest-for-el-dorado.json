@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 217372,
+    "name": "The Quest for El Dorado",
+    "year": 2017,
+    "slug": "the-quest-for-el-dorado"
+  },
+  "playlist": {
+    "id": "the-quest-for-el-dorado-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "ryCRcv2vh7Q",
+        "title": "Henry Jackman - The Twelve Towers | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 242
+      },
+      {
+        "source": "youtube",
+        "sourceId": "yCW7cxE7Dho",
+        "title": "Henry Jackman - New Devon | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 246
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PgqRVo159rA",
+        "title": "Shadow Of The Tomb Raider - FULL OST",
+        "channel": "Lara Croft Tomb Raider Gaming Channel",
+        "durationSec": 4244
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WnLBm7n699Q",
+        "title": "Henry Jackman - No Escape | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 234
+      },
+      {
+        "source": "youtube",
+        "sourceId": "E7QwbBd-vWU",
+        "title": "Henry Jackman - For Better or Worse | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 127
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BEPRSa9rQ50",
+        "title": "Henry Jackman - Cut to the Chase | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 192
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Oh6BpnWEYnA",
+        "title": "Henry Jackman - End of the Line | Uncharted: The Lost Legacy (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 202
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VPkFEHnaNvs",
+        "title": "Henry Jackman - The Brothers Drake | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 117
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hyVfs0CnfPo",
+        "title": "Henry Jackman - A Thief's End | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 117
+      },
+      {
+        "source": "youtube",
+        "sourceId": "J6ZcwStwQlI",
+        "title": "Henry Jackman - Epilogue | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 200
+      }
+    ]
+  }
+}

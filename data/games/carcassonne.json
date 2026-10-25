@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 822,
+    "name": "Carcassonne",
+    "year": 2000,
+    "slug": "carcassonne"
+  },
+  "playlist": {
+    "id": "carcassonne-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "Ur-zcJDyM8E",
+        "title": "Nebakov March",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 90
+      },
+      {
+        "source": "youtube",
+        "sourceId": "O-2VPVhkTXY",
+        "title": "Just Cue - 'A Hornpipe' at Château de Sarzay",
+        "channel": "Just Cue",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5OLzBnj6MNc",
+        "title": "Manor Lords - 4K Ambient Music",
+        "channel": "gg",
+        "durationSec": 3601
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MUaulN5sYgQ",
+        "title": "Saint Barbara Theme",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 148
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bvNZeh6f8vE",
+        "title": "Reverse Dance. Medieval Dance. Hurdy-Gurdy, Organ & Drum",
+        "channel": "Andrey Vinogradov",
+        "durationSec": 219
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BgKX2k6snZ8",
+        "title": "Till Our Heads Turn White",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 69
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wwyznoWJDHI",
+        "title": "Aequilibrium. Medieval Tune. Hurdy-Gurdy With Organ",
+        "channel": "Andrey Vinogradov",
+        "durationSec": 183
+      }
+    ]
+  }
+}

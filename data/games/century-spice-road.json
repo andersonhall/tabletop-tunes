@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 209685,
+    "name": "Century: Spice Road",
+    "year": 2017,
+    "slug": "century-spice-road"
+  },
+  "playlist": {
+    "id": "century-spice-road-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "jS-p7BvMRMg",
+        "title": "Mirage Theme | Assassin's Creed Mirage Original Game Soundtrack | Brendan Angelides",
+        "channel": "Ubisoft Music",
+        "durationSec": 217
+      },
+      {
+        "source": "youtube",
+        "sourceId": "h4fOIVlEOIY",
+        "title": "Assassin’s Creed Origins Main Theme  | Assassin’s Creed Origins (OST) | Sarah Schachner",
+        "channel": "Ubisoft Music",
+        "durationSec": 197
+      },
+      {
+        "source": "youtube",
+        "sourceId": "x-3-twFWqf4",
+        "title": "Ezio's Family - Mirage Version | Assassin's Creed Mirage (OST) | Brendan Angelides / Jesper Kyd",
+        "channel": "Ubisoft Music",
+        "durationSec": 142
+      },
+      {
+        "source": "youtube",
+        "sourceId": "V0uULraYwgI",
+        "title": "Sitar Santoor Jugalbandi | Sanskrati & Prakrati Wahane | Part 2 | Naad Brahma | 2025",
+        "channel": "Naad Brahma - नाद ब्रह्म",
+        "durationSec": 2257
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Y6yehpa59VA",
+        "title": "Mirage Theme - Menu Version | Assassin's Creed Mirage (Original Game Soundtrack) | Brendan Angelides",
+        "channel": "Ubisoft Music",
+        "durationSec": 185
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Idq2GYJU3Zw",
+        "title": "A Divided Land | Assassin’s Creed Origins (Original Game Soundtrack) | Sarah Schachner",
+        "channel": "Ubisoft Music",
+        "durationSec": 138
+      },
+      {
+        "source": "youtube",
+        "sourceId": "K625LAjTSUY",
+        "title": "Deadly Shade (Intense Version) | Assassin's Creed Mirage | Brendan Angelides",
+        "channel": "krookediIe",
+        "durationSec": 250
+      },
+      {
+        "source": "youtube",
+        "sourceId": "3kM1Y5VLEd8",
+        "title": "Ezio’s Family (Origins Version) | Assassin’s Creed Origins (OST) | Sarah Schachner",
+        "channel": "Ubisoft Music",
+        "durationSec": 145
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TXSb_OIMNQg",
+        "title": "Healing Ragas - Sitar Tabla - Brindavan Sarang - Classical Instrumental Fusion B.Sivaramakrishna Rao",
+        "channel": "Geethanjali - Indian Classical Music",
+        "durationSec": 887
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jpilleFmBUc",
+        "title": "The Cracked Wall | Assassin’s Creed Origins (Original Game Soundtrack) | Sarah Schachner",
+        "channel": "Ubisoft Music",
+        "durationSec": 116
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sKnRAIJdeHQ",
+        "title": "Outside The Walls (Intense Version) | Assassin's Creed Mirage | Brendan Angelides",
+        "channel": "krookediIe",
+        "durationSec": 196
+      }
+    ]
+  }
+}

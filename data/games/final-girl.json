@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 277659,
+    "name": "Final Girl",
+    "year": 2021,
+    "slug": "final-girl"
+  },
+  "playlist": {
+    "id": "final-girl-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "mIhCdldRE1U",
+        "title": "Halloween Theme 1978 (Original Motion Picture Soundtrack)",
+        "channel": "John Carpenter - Topic",
+        "durationSec": 178
+      },
+      {
+        "source": "youtube",
+        "sourceId": "cmHxSHWhwDM",
+        "title": "John Carpenter, Cody Carpenter, and Daniel Davies - Halloween OST (Full Album Stream)",
+        "channel": "Sacred Bones Records",
+        "durationSec": 2652
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8JflWFBreok",
+        "title": "Halloween II Theme",
+        "channel": "John Carpenter - Topic",
+        "durationSec": 271
+      },
+      {
+        "source": "youtube",
+        "sourceId": "uRKKfaWGZ2c",
+        "title": "John Carpenter - Halloween Triumphant (Official 2018 Halloween Soundtrack Audio)",
+        "channel": "Sacred Bones Records",
+        "durationSec": 449
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QJ-nJ2o9Hlo",
+        "title": "Halloween Kills (Main Title)",
+        "channel": "John Carpenter - Topic",
+        "durationSec": 107
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DAbDvqPFXvQ",
+        "title": "John Carpenter's Halloween by Trent Reznor & Atticus Ross (Official Audio)",
+        "channel": "Sacred Bones Records",
+        "durationSec": 469
+      }
+    ]
+  }
+}

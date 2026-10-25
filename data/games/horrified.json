@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 282524,
+    "name": "Horrified",
+    "year": 2019,
+    "slug": "horrified"
+  },
+  "playlist": {
+    "id": "horrified-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "TFk8L6S3Ru4",
+        "title": "Transylvania 1887",
+        "channel": "Alan Silvestri - Topic",
+        "durationSec": 87
+      },
+      {
+        "source": "youtube",
+        "sourceId": "rVbBMRT84cs",
+        "title": "Journey To Transylvania",
+        "channel": "Alan Silvestri - Topic",
+        "durationSec": 94
+      },
+      {
+        "source": "youtube",
+        "sourceId": "u71JldbCSbM",
+        "title": "Dracula   Bram Stoker s Original Soundtrack Film  1992",
+        "channel": "Lands of Glory",
+        "durationSec": 2644
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2EK31R9KpAI",
+        "title": "All Hallow's Eve Ball",
+        "channel": "Alan Silvestri - Topic",
+        "durationSec": 182
+      },
+      {
+        "source": "youtube",
+        "sourceId": "O2jbNADN_cI",
+        "title": "The Creation (From \"Frankenstein\" Soundtrack) (Album Version)",
+        "channel": "Patrick Doyle - Topic",
+        "durationSec": 122
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-vVN8JCwtTo",
+        "title": "Van Helsing Movie Score Suite - Alan Silvestri (2004)",
+        "channel": "Lost Movie Music",
+        "durationSec": 451
+      },
+      {
+        "source": "youtube",
+        "sourceId": "aqKTBaPLlIs",
+        "title": "Reunited",
+        "channel": "Alan Silvestri - Topic",
+        "durationSec": 264
+      },
+      {
+        "source": "youtube",
+        "sourceId": "kLQTFP9hs28",
+        "title": "Final Battle",
+        "channel": "Alan Silvestri - Topic",
+        "durationSec": 389
+      }
+    ]
+  }
+}

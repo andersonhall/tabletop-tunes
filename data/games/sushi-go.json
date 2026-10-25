@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 133473,
+    "name": "Sushi Go!",
+    "year": 2013,
+    "slug": "sushi-go"
+  },
+  "playlist": {
+    "id": "sushi-go-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "ya3yxTbkh5s",
+        "title": "Okami Soundtrack - The Sun Rises",
+        "channel": "VulgusBangaa",
+        "durationSec": 342
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MlTNNHAa0rk",
+        "title": "Okami Soundtrack - Agata Forest",
+        "channel": "VulgusBangaa",
+        "durationSec": 214
+      },
+      {
+        "source": "youtube",
+        "sourceId": "C_cYPVpVUkw",
+        "title": "Okami Soundtrack - Dragon Palace",
+        "channel": "VulgusBangaa",
+        "durationSec": 149
+      },
+      {
+        "source": "youtube",
+        "sourceId": "opMFlvW8dZU",
+        "title": "Relaxing Music of the Edo Period - Traditional Japanese Music",
+        "channel": "Nostalgic Japanese Tradition",
+        "durationSec": 3710
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zUpkaXA80tA",
+        "title": "Okami Soundtrack - Tribe Of Heavenly Kami",
+        "channel": "VulgusBangaa",
+        "durationSec": 168
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5bBUfLeBEmc",
+        "title": "Okami Soundtrack - A Great Spirit Lies in Wait",
+        "channel": "VulgusBangaa",
+        "durationSec": 150
+      },
+      {
+        "source": "youtube",
+        "sourceId": "b71j4lWXZxs",
+        "title": "Okami OST - Practice-ditching Susano-o",
+        "channel": "videogameOST12",
+        "durationSec": 101
+      }
+    ]
+  }
+}

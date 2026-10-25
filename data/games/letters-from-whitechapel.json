@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 59959,
+    "name": "Letters from Whitechapel",
+    "year": 2011,
+    "slug": "letters-from-whitechapel"
+  },
+  "playlist": {
+    "id": "letters-from-whitechapel-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "m2z2GMyq24w",
+        "title": "Demimonde (Main Title)",
+        "channel": "Abel Korzeniowski - Topic",
+        "durationSec": 97
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8bmUGxpd9bM",
+        "title": "Assassin’s Creed Syndicate: Jack the Ripper (Original Game Soundtrack) | Bear McCreary",
+        "channel": "Ubisoft Music",
+        "durationSec": 1436
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mXfzqbkttgI",
+        "title": "Let It End",
+        "channel": "Abel Korzeniowski - Topic",
+        "durationSec": 406
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WlXrecRe8GY",
+        "title": "Ethan's Waltz",
+        "channel": "Abel Korzeniowski - Topic",
+        "durationSec": 86
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qQ5NoR2umsA",
+        "title": "Joan Clayton",
+        "channel": "Abel Korzeniowski - Topic",
+        "durationSec": 240
+      },
+      {
+        "source": "youtube",
+        "sourceId": "F8p1hor857E",
+        "title": "AC Syndicate OST / Austin Wintory  - Underground",
+        "channel": "Ubisoft Music",
+        "durationSec": 197
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vgKl55KPZwo",
+        "title": "Melting Waltz",
+        "channel": "Abel Korzeniowski - Topic",
+        "durationSec": 203
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wxs3wR1J8Xo",
+        "title": "Abel Korzeniowski -  Street.Horse.Smell.Candle ( \"Penny Dreadful\" Season 1 OST)",
+        "channel": "Ivan NP",
+        "durationSec": 146
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZbdHFeuDmn8",
+        "title": "Be True",
+        "channel": "Abel Korzeniowski - Topic",
+        "durationSec": 237
+      },
+      {
+        "source": "youtube",
+        "sourceId": "q6PmACll5oc",
+        "title": "Reborn",
+        "channel": "Abel Korzeniowski - Topic",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "a4omnq4YETA",
+        "title": "Closer Than Sisters - Penny Dreadful - Abel Korzeniowski",
+        "channel": "sadsy007",
+        "durationSec": 195
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DKinZvMc4iU",
+        "title": "Sherlock Holmes - Main Theme Extended",
+        "channel": "Melodic Music Extension",
+        "durationSec": 544
+      }
+    ]
+  }
+}

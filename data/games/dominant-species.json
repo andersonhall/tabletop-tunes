@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 62219,
+    "name": "Dominant Species",
+    "year": 2010,
+    "slug": "dominant-species"
+  },
+  "playlist": {
+    "id": "dominant-species-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "rXK8urWfp6k",
+        "title": "Prehistoric Planet Theme",
+        "channel": "Release - Topic",
+        "durationSec": 250
+      },
+      {
+        "source": "youtube",
+        "sourceId": "7A8UgP3ntzM",
+        "title": "Kara Talve, Anze Rozman - Grasslands Giants | Prehistoric Planet - Ice Age (Apple Original Series)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 221
+      },
+      {
+        "source": "youtube",
+        "sourceId": "clNP76OhgVA",
+        "title": "Prehistoric Planet (Season 1) - Ultimate Soundtrack Suite | Hans Zimmer Anže Rozman & Kara Talve",
+        "channel": "SuiteSound Music",
+        "durationSec": 1907
+      },
+      {
+        "source": "youtube",
+        "sourceId": "H_w4vnDV9lc",
+        "title": "Kara Talve, Anze Rozman - Moa Courtship | Prehistoric Planet - Ice Age (Apple Original Series)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 368
+      },
+      {
+        "source": "youtube",
+        "sourceId": "raLbVEag6Us",
+        "title": "Kara Talve, Anze Rozman - Elasmotherium | Prehistoric Planet - Ice Age (Apple Original Series)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 223
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DWvu9XDTvg8",
+        "title": "Prehistoric Planet Suite",
+        "channel": "Anže Rozman - Topic",
+        "durationSec": 550
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hVsjKHCEIYY",
+        "title": "Kara Talve, Anze Rozman - Woolly Rhino | Prehistoric Planet - Ice Age (Apple Original Series)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 371
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9siQNDLOK3c",
+        "title": "Kara Talve, Anze Rozman - Rock Climbing Sloth | Prehistoric Planet - Ice Age (Apple Original Series)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 402
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5gIm4wvGpr4",
+        "title": "Kara Talve, Anze Rozman - Apex Predator | Prehistoric Planet - Ice Age (Apple Original Series)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 169
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mT6jhlwdaTk",
+        "title": "Prehistoric Planet III Theme | Prehistoric Planet - Ice Age (Apple Original Series)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 281
+      }
+    ]
+  }
+}

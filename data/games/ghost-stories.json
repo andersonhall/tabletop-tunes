@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 37046,
+    "name": "Ghost Stories",
+    "year": 2008,
+    "slug": "ghost-stories"
+  },
+  "playlist": {
+    "id": "ghost-stories-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "ueRpihDmk8c",
+        "title": "Jin Sakai (from \"Ghost of Tsushima\" Music from the Video Game)",
+        "channel": "Ilan Eshkeri - Topic",
+        "durationSec": 172
+      },
+      {
+        "source": "youtube",
+        "sourceId": "FKbj1oo7jvw",
+        "title": "Relaxing GHOST OF TSUSHIMA Music 🎵 Peaceful Forest (Ghost of Tsushima OST | Soundtrack)",
+        "channel": "z3n Pnk",
+        "durationSec": 3601
+      },
+      {
+        "source": "youtube",
+        "sourceId": "L3oSnpUOS30",
+        "title": "Tsushima Suite: II. Shurai (from \"Ghost of Tsushima\" Music from the Video Game)",
+        "channel": "SHIGERU UMEBAYASHI - Topic",
+        "durationSec": 535
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WHkTJTD2gvU",
+        "title": "Okami Soundtrack - Oni Island",
+        "channel": "VulgusBangaa",
+        "durationSec": 194
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1XqZFqVbtns",
+        "title": "Okami Soundtrack - Demon Lord Nine Tails",
+        "channel": "VulgusBangaa",
+        "durationSec": 205
+      }
+    ]
+  }
+}

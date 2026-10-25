@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 167355,
+    "name": "Nemesis",
+    "year": 2018,
+    "slug": "nemesis"
+  },
+  "playlist": {
+    "id": "nemesis-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "tmVMWK9WS_Q",
+        "title": "Alien: Isolation Soundtrack - 02 - \"Main Menu\"",
+        "channel": "Padawanmage71",
+        "durationSec": 140
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VNmNsaP500M",
+        "title": "Futile Escape",
+        "channel": "James Horner - Topic",
+        "durationSec": 507
+      },
+      {
+        "source": "youtube",
+        "sourceId": "r1o-R99rOPw",
+        "title": "Alien Isolation | Menu Music | Ambient Soundscape",
+        "channel": "A L I E N W O R L D S",
+        "durationSec": 3600
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qH8adLrxOKw",
+        "title": "Combat Drop",
+        "channel": "James Horner - Topic",
+        "durationSec": 210
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jjNE-8A6dj8",
+        "title": "Alien Isolation Soundtrack - Escape from Sevastopol",
+        "channel": "kolesnikov94",
+        "durationSec": 838
+      },
+      {
+        "source": "youtube",
+        "sourceId": "GSZPxHppXBE",
+        "title": "Alien: Isolation Soundtrack - 38 - \"Escape From Habitation Decks\"",
+        "channel": "Padawanmage71",
+        "durationSec": 194
+      }
+    ]
+  }
+}

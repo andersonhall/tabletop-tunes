@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 120677,
+    "name": "Terra Mystica",
+    "year": 2012,
+    "slug": "terra-mystica"
+  },
+  "playlist": {
+    "id": "terra-mystica-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "fNTqn9npj_c",
+        "title": "Songs of Conquest Game Soundtrack - Main Theme",
+        "channel": "Lavapotion",
+        "durationSec": 226
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZnAyQHpSHKM",
+        "title": "A Magnificent Vista",
+        "channel": "Michiel van den Bos - Topic",
+        "durationSec": 239
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MrYksWLBXUk",
+        "title": "Peace and Prosperity",
+        "channel": "Michiel van den Bos - Topic",
+        "durationSec": 180
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vpmXQaFcgHQ",
+        "title": "Songs of Conquest Game Soundtrack - Rise of Loth",
+        "channel": "Lavapotion",
+        "durationSec": 272
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VDMwetxTV4s",
+        "title": "Game soundtrack - 1 hours of seamless majestic fantasy music",
+        "channel": "Lavapotion",
+        "durationSec": 3649
+      },
+      {
+        "source": "youtube",
+        "sourceId": "FnpfjB0JU7Y",
+        "title": "A Settlement Rises",
+        "channel": "Michiel van den Bos - Topic",
+        "durationSec": 231
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wZZopvQWWCI",
+        "title": "Effortless Expansion",
+        "channel": "Michiel van den Bos - Topic",
+        "durationSec": 242
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KEC6GEuzYRk",
+        "title": "Songs of Conquest Game Soundtrack - Dunes of Barya",
+        "channel": "Lavapotion",
+        "durationSec": 218
+      },
+      {
+        "source": "youtube",
+        "sourceId": "F7frO3RRRNg",
+        "title": "What Lies Beyond Those Hills",
+        "channel": "Michiel van den Bos - Topic",
+        "durationSec": 280
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DTUHiZ74X0k",
+        "title": "Sovereignty",
+        "channel": "Michiel van den Bos - Topic",
+        "durationSec": 248
+      }
+    ]
+  }
+}

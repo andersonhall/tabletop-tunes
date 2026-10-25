@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 158600,
+    "name": "Hanamikoji",
+    "year": 2013,
+    "slug": "hanamikoji"
+  },
+  "playlist": {
+    "id": "hanamikoji-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "JDTp_YQizqE",
+        "title": "さくら(Sakura)　25絃箏 (25 strings koto)",
+        "channel": "Kasumi Watanabe",
+        "durationSec": 257
+      },
+      {
+        "source": "youtube",
+        "sourceId": "i4_KiNGCEe8",
+        "title": "Koto & Shamisen music of the Edo Period - Japanese folk music",
+        "channel": "Nostalgic Japanese Tradition",
+        "durationSec": 3957
+      },
+      {
+        "source": "youtube",
+        "sourceId": "miUKO5g0ONk",
+        "title": "Shakuhachi  [The Japanese Flute] - Kohachiro Miyata (Full)",
+        "channel": "Pássaro Trovão - Sons Ancestrais",
+        "durationSec": 2059
+      }
+    ]
+  }
+}

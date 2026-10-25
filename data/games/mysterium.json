@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 181304,
+    "name": "Mysterium",
+    "year": 2015,
+    "slug": "mysterium"
+  },
+  "playlist": {
+    "id": "mysterium-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "KiDNx1y2J_0",
+        "title": "Crimson Peak | Edith's Theme | Fernando Velázquez",
+        "channel": "Legendary",
+        "durationSec": 118
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jUKCvxqKfzU",
+        "title": "Crimson Peak Original full Soundtrack (by Fernando Velázquez)",
+        "channel": "Ciné Music Club",
+        "durationSec": 4533
+      }
+    ]
+  }
+}

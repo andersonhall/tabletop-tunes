@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 2511,
+    "name": "Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases",
+    "year": 1981,
+    "slug": "sherlock-holmes-consulting-detective-the-thames-murders-and-other-cases"
+  },
+  "playlist": {
+    "id": "sherlock-holmes-consulting-detective-the-thames-murders-and-other-cases-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "WQunWfTZxLA",
+        "title": "Sherlock Holmes - Soundtrack Cut",
+        "channel": "Soundtrack Cut",
+        "durationSec": 1184
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Nxnfq3XRMkk",
+        "title": "AC Syndicate OST / Austin Wintory  - Waltzing on Rooftops and Cobblestones",
+        "channel": "Ubisoft Music",
+        "durationSec": 292
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HRTlVh7CrjQ",
+        "title": "Psychological Recovery",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 1099
+      },
+      {
+        "source": "youtube",
+        "sourceId": "pj08BMBn_eE",
+        "title": "AC Syndicate OST / Austin Wintory  - Family",
+        "channel": "Ubisoft Music",
+        "durationSec": 117
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bZvzbBVLEcM",
+        "title": "The End?",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 147
+      },
+      {
+        "source": "youtube",
+        "sourceId": "U31l-fkMcqo",
+        "title": "Assassin's Creed Syndicate Soundtrack - The Best of Ambient Music",
+        "channel": "Assassin's Creed Univers",
+        "durationSec": 1136
+      },
+      {
+        "source": "youtube",
+        "sourceId": "UeNGHzENLHs",
+        "title": "I Never Woke Up In Handcuffs Before",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 104
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AhBO5GmLjTk",
+        "title": "AC Syndicate OST / Austin Wintory  - London Is Waiting",
+        "channel": "Ubisoft Music",
+        "durationSec": 166
+      }
+    ]
+  }
+}

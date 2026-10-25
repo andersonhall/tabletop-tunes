@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 244521,
+    "name": "The Quacks of Quedlinburg",
+    "year": 2018,
+    "slug": "the-quacks-of-quedlinburg"
+  },
+  "playlist": {
+    "id": "the-quacks-of-quedlinburg-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "VfXViCmH0b0",
+        "title": "Potion Craft OST – 1. Mortar and Pestle",
+        "channel": "Potion Craft",
+        "durationSec": 228
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ESnleiaQXBE",
+        "title": "Potion Craft OST – 2. Alchemist's Tale",
+        "channel": "Potion Craft",
+        "durationSec": 209
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bvNZeh6f8vE",
+        "title": "Reverse Dance. Medieval Dance. Hurdy-Gurdy, Organ & Drum",
+        "channel": "Andrey Vinogradov",
+        "durationSec": 219
+      },
+      {
+        "source": "youtube",
+        "sourceId": "dKr7SmzjquU",
+        "title": "Potion Craft Alchemist Simulator Music (No Commentary)",
+        "channel": "No Commentary Casual Gaming",
+        "durationSec": 2885
+      },
+      {
+        "source": "youtube",
+        "sourceId": "O-2VPVhkTXY",
+        "title": "Just Cue - 'A Hornpipe' at Château de Sarzay",
+        "channel": "Just Cue",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MHuIvO5va68",
+        "title": "Potion Craft OST",
+        "channel": "Echoes of...",
+        "durationSec": 436
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wwyznoWJDHI",
+        "title": "Aequilibrium. Medieval Tune. Hurdy-Gurdy With Organ",
+        "channel": "Andrey Vinogradov",
+        "durationSec": 183
+      },
+      {
+        "source": "youtube",
+        "sourceId": "iieaUv3kfBQ",
+        "title": "The Last Of The Mohicans - Annie Hurdy Gurdy feat. Alexander Willms (Nyckelharpa)",
+        "channel": "ALRŪNA (Alruna)",
+        "durationSec": 185
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0dPHRxvs3KY",
+        "title": "Dark Ballad Of A Warrior. Epic Medieval Ballad. Hurdy-Gurdy Solo",
+        "channel": "Andrey Vinogradov",
+        "durationSec": 272
+      }
+    ]
+  }
+}

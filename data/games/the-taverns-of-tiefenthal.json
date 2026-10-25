@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 269207,
+    "name": "The Taverns of Tiefenthal",
+    "year": 2019,
+    "slug": "the-taverns-of-tiefenthal"
+  },
+  "playlist": {
+    "id": "the-taverns-of-tiefenthal-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "XNPu7PZecuE",
+        "title": "The Tavern Music you're probably looking for - Kingdom Come: Deliverance 2",
+        "channel": "Stone Edge Gaming",
+        "durationSec": 122
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EKk075jTkLk",
+        "title": "Rattay Feasts",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 94
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vyg5jJrZ42s",
+        "title": "Medieval Fantasy Tavern | D&D Fantasy Music and Ambience",
+        "channel": "Daydreaming of Persephone",
+        "durationSec": 4132
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TT2ZR3UVY9Q",
+        "title": "Kuttenberg Market",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 169
+      },
+      {
+        "source": "youtube",
+        "sourceId": "JSja-MR72tA",
+        "title": "Media Vita",
+        "channel": "Release - Topic",
+        "durationSec": 182
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ur-zcJDyM8E",
+        "title": "Nebakov March",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 90
+      }
+    ]
+  }
+}

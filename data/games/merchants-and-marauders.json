@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 25292,
+    "name": "Merchants & Marauders",
+    "year": 2010,
+    "slug": "merchants-and-marauders"
+  },
+  "playlist": {
+    "id": "merchants-and-marauders-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "UNREuwdJCw0",
+        "title": "Assassin's Creed IV Black Flag - Assassin's Creed IV Black Flag Main Theme (Track 01)",
+        "channel": "Ubisoft Music",
+        "durationSec": 136
+      },
+      {
+        "source": "youtube",
+        "sourceId": "V2NvnaxShtY",
+        "title": "Assassin's Creed IV Black Flag - Pyrates Beware (Track 02)",
+        "channel": "Ubisoft Music",
+        "durationSec": 199
+      },
+      {
+        "source": "youtube",
+        "sourceId": "nywtDpdOZ6M",
+        "title": "Tropico 2: Pirate Cove - Caribbean Voyage (Official Soundtrack)",
+        "channel": "LMS Records Presents",
+        "durationSec": 251
+      },
+      {
+        "source": "youtube",
+        "sourceId": "dsLHf9X8P8w",
+        "title": "Assassin's Creed IV Black Flag - The High Seas (Track 04)",
+        "channel": "Ubisoft Music",
+        "durationSec": 167
+      },
+      {
+        "source": "youtube",
+        "sourceId": "RfkTixqLPJ4",
+        "title": "Port Royale Anthology  - The Original Soundtrack High Quality",
+        "channel": "VIDEO GAME SOUNDTRACK COLLECTION - OST ROOM",
+        "durationSec": 2747
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AW-dOOrjYhE",
+        "title": "Assassin's Creed IV Black Flag - Take What Is Ours! (Track 14)",
+        "channel": "Ubisoft Music",
+        "durationSec": 197
+      },
+      {
+        "source": "youtube",
+        "sourceId": "rjpp8_Gdo7k",
+        "title": "Tropico 2 Soundtrack \"Pirate Waltz\"",
+        "channel": "HannibalZeGreat",
+        "durationSec": 203
+      },
+      {
+        "source": "youtube",
+        "sourceId": "M2xi0PQZ874",
+        "title": "Tropico 2 Soundtrack \"The Buccaneer\"",
+        "channel": "HannibalZeGreat",
+        "durationSec": 211
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4l1U8oTZ7UA",
+        "title": "Assassin's Creed IV Black Flag - The British Empire (Track 21)",
+        "channel": "Ubisoft Music",
+        "durationSec": 191
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HnaqIPKfFjI",
+        "title": "Tropico 2: Pirate Cove - Peg Leg (Official Soundtrack)",
+        "channel": "LMS Records Presents",
+        "durationSec": 221
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sLQMvpEkUUk",
+        "title": "Assassin's Creed IV: Black Flag - Suite (Live with the Swedish Radio Symphony Orchestra : SCORE)",
+        "channel": "krb",
+        "durationSec": 322
+      }
+    ]
+  }
+}

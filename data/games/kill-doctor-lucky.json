@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 257,
+    "name": "Kill Doctor Lucky",
+    "year": 1996,
+    "slug": "kill-doctor-lucky"
+  },
+  "playlist": {
+    "id": "kill-doctor-lucky-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "TuImJ7X9LW4",
+        "title": "Knives Out! (String Quartet in G Minor)",
+        "channel": "Nathan Johnson - Topic",
+        "durationSec": 111
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wenXqSp6XiM",
+        "title": "Knives Out Soundtrack Track 11 \"The Game's Afoot\" Nathan Johnson",
+        "channel": "Flix Soundtracks",
+        "durationSec": 241
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lajh43MANqY",
+        "title": "Knives Out Soundtrack Track 20 \"The Thrombey Family Theme\" Nathan Johnson",
+        "channel": "Flix Soundtracks",
+        "durationSec": 108
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MDSBw5HQdqw",
+        "title": "Cinemascores - Glass Onion (2022) OST",
+        "channel": "Cinemascores",
+        "durationSec": 3368
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lHpzyIBg7kw",
+        "title": "Wake Up Dead Man",
+        "channel": "Nathan Johnson - Topic",
+        "durationSec": 132
+      },
+      {
+        "source": "youtube",
+        "sourceId": "3biyIR9jSr4",
+        "title": "Knives Out Soundtrack Track 18 \"Blanc's Tale, Pt. I\" Nathan Johnson",
+        "channel": "Flix Soundtracks",
+        "durationSec": 302
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9JuqXhc-Mjo",
+        "title": "Glass Onion String Quartet in Bb Minor",
+        "channel": "Nathan Johnson - Topic",
+        "durationSec": 136
+      },
+      {
+        "source": "youtube",
+        "sourceId": "3BJGjlY6bc8",
+        "title": "Theme from Glass Onion - Revisited",
+        "channel": "Nathan Johnson - Topic",
+        "durationSec": 121
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 118048,
+    "name": "Targi",
+    "year": 2012,
+    "slug": "targi"
+  },
+  "playlist": {
+    "id": "targi-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "OnOtSEYulbE",
+        "title": "Assassin's Creed Origins Main Theme",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "FG03axa3uJQ",
+        "title": "Bayek of Siwa",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 156
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AAw87rrzBhY",
+        "title": "JOURNEY - Complete score with text commentary",
+        "channel": "Austin Wintory",
+        "durationSec": 3451
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sijC9skdHu8",
+        "title": "I Walk on Your Water",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9eVVBh44kdI",
+        "title": "JOURNEY - I Was Born For This - As Noted",
+        "channel": "Austin Wintory",
+        "durationSec": 287
+      }
+    ]
+  }
+}

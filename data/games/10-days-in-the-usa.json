@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 7866,
+    "name": "10 Days in the USA",
+    "year": 2003,
+    "slug": "10-days-in-the-usa"
+  },
+  "playlist": {
+    "id": "10-days-in-the-usa-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "weWToXZGPXU",
+        "title": "Railway Empire 2 Main Menu Full Theme",
+        "channel": "Comet The Soviet P36",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4OSrDFdVqiE",
+        "title": "1 Hour Bluegrass Instrumentals | Banjo & Fiddle | Appalachian Background Music",
+        "channel": "Blue Timber Music ",
+        "durationSec": 4436
+      },
+      {
+        "source": "youtube",
+        "sourceId": "NhM4sIeeHYQ",
+        "title": "Southern Raised Bluegrass Performs \"Orange Blossom Special\"",
+        "channel": "Southern Raised",
+        "durationSec": 331
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 70919,
+    "name": "Takenoko",
+    "year": 2011,
+    "slug": "takenoko"
+  },
+  "playlist": {
+    "id": "takenoko-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "KtMnDmuhKQs",
+        "title": "Hans Zimmer - Oogway Ascends Kung Fu Panda Soundtrack",
+        "channel": "Cosmonauta Pleyadiano",
+        "durationSec": 238
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fm-m9z4ruOk",
+        "title": "Zen Ball Master",
+        "channel": "John Powell - Topic",
+        "durationSec": 442
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_m7EnRcAT_s",
+        "title": "古筝二胡琵琶 · 寧靜夜晚靜心 | Guzheng Erhu Pipa · A Peaceful Night for Calm Meditation",
+        "channel": "Guzheng Pop Tunes",
+        "durationSec": 3791
+      },
+      {
+        "source": "youtube",
+        "sourceId": "j_-8QPxvF-A",
+        "title": "Po Finds The Truth",
+        "channel": "John Powell - Topic",
+        "durationSec": 304
+      },
+      {
+        "source": "youtube",
+        "sourceId": "86EPZphKBhg",
+        "title": "Hero",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 282
+      }
+    ]
+  }
+}

@@ -10,7 +10,7 @@
     "id": "the-castles-of-burgundy-default",
     "ownerId": "andy",
     "generatedBy": "claude-code",
-    "createdAt": "2026-10-20",
+    "createdAt": "2026-10-25",
     "tracks": [
       {
         "source": "youtube",
@@ -49,17 +49,24 @@
       },
       {
         "source": "youtube",
+        "sourceId": "uyL37Ox5Qxs",
+        "title": "The Dynasty",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 313
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hkMVVMcWMkk",
+        "title": "Dir. Robert Blanchard ; Pierre Poulteau Recorder Trio - Court Music of Burgundy (1965) stereo album",
+        "channel": "TheNuklearMoose",
+        "durationSec": 2637
+      },
+      {
+        "source": "youtube",
         "sourceId": "HS_VM1BT9n0",
         "title": "Burgher, Commoner and Lord",
         "channel": "Jan Valta - Topic",
         "durationSec": 99
-      },
-      {
-        "source": "youtube",
-        "sourceId": "zo06UJxfuHw",
-        "title": "John Dowland - Complete Lute Works, Vol. 1 - Paul Odette",
-        "channel": "Classical Music Appreciation",
-        "durationSec": 3853
       },
       {
         "source": "youtube",

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 316554,
+    "name": "Dune: Imperium",
+    "year": 2020,
+    "slug": "dune-imperium"
+  },
+  "playlist": {
+    "id": "dune-imperium-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "AgzE2TeXCl0",
+        "title": "Dune Official Soundtrack | Ripples in the Sand – Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 315
+      },
+      {
+        "source": "youtube",
+        "sourceId": "igtwOdqboT0",
+        "title": "Dune: Part Two Soundtrack | A Time of Quiet Between the Storms - Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 262
+      },
+      {
+        "source": "youtube",
+        "sourceId": "io33vd4vkRE",
+        "title": "DUNE: PART TWO | SOUNDTRACK CUT | Hans Zimmer",
+        "channel": "Soundtrack Cut",
+        "durationSec": 3195
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AkZBjK69VcE",
+        "title": "Dune: Part Two Soundtrack | Kiss the Ring - Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 193
+      },
+      {
+        "source": "youtube",
+        "sourceId": "l4OOW_RShbE",
+        "title": "Hans Zimmer: Dune Part Two Theme [Extended by Gilles Nuytens]",
+        "channel": "Gilles Nuytens",
+        "durationSec": 942
+      }
+    ]
+  }
+}

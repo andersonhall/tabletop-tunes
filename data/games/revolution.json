@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 34887,
+    "name": "Revolution!",
+    "year": 2009,
+    "slug": "revolution"
+  },
+  "playlist": {
+    "id": "revolution-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "lTBCrrhnvO8",
+        "title": "Assassin's Creed Unity OST Vol.1 - Unity (Track 01)",
+        "channel": "Ubisoft Music",
+        "durationSec": 241
+      },
+      {
+        "source": "youtube",
+        "sourceId": "GDPgXSv-t9s",
+        "title": "Ars Lyrica presents Dancing at the Palais: Suites from Les Indes galantes - Entrée les Sauvages",
+        "channel": "Ars Lyrica Houston",
+        "durationSec": 794
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1qHd8yRAv4c",
+        "title": "Assassin's Creed Unity OST Vol.1 - Versailles for Sore Eyes (Track 05)",
+        "channel": "Ubisoft Music",
+        "durationSec": 173
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OoEzh3PmhQI",
+        "title": "Assassin's Creed Unity OST Vol.1 - Origins of a Revolution (Track 30)",
+        "channel": "Ubisoft Music",
+        "durationSec": 104
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Wy2yNJkOxj0",
+        "title": "Marche pour la Ceremonie des Turcs / Jean-Baptise Lully / Klaus Mäkelä / Oslo Philharmonic",
+        "channel": "Oslo Philharmonic",
+        "durationSec": 206
+      },
+      {
+        "source": "youtube",
+        "sourceId": "axggyCY_uKE",
+        "title": "Assassin's Creed Unity OST Vol.1 - Monarch Enemy (Track 21)",
+        "channel": "Ubisoft Music",
+        "durationSec": 239
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tePi0WGhznY",
+        "title": "Assassin's Creed Unity OST \"Lined with Treason\"",
+        "channel": "Tridyrium X",
+        "durationSec": 148
+      },
+      {
+        "source": "youtube",
+        "sourceId": "g2FLd42mx6I",
+        "title": "Assassin's Creed Unity OST Vol.1 - Church and Destroy (Track 09)",
+        "channel": "Ubisoft Music",
+        "durationSec": 150
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ubro8vODaug",
+        "title": "La Suite Francesa de Lully a Rameau  Musique pour le Roy I",
+        "channel": "Pilar Montoya",
+        "durationSec": 317
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9QHyxxFkbus",
+        "title": "Assassin's Creed Unity OST Vol.1 - A Leap of Faith (Track 07)",
+        "channel": "Ubisoft Music",
+        "durationSec": 189
+      },
+      {
+        "source": "youtube",
+        "sourceId": "3amzjdfy8XY",
+        "title": "Assassin's Creed: Unity OST \"Paris in Turmoil\"",
+        "channel": "Tridyrium X",
+        "durationSec": 170
+      },
+      {
+        "source": "youtube",
+        "sourceId": "uqnvHf1FL7M",
+        "title": "Assassin's Creed Unity Bonus Tracks - Ancient Order (Track 05)",
+        "channel": "Ubisoft Music",
+        "durationSec": 165
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Nxnfq3XRMkk",
+        "title": "AC Syndicate OST / Austin Wintory  - Waltzing on Rooftops and Cobblestones",
+        "channel": "Ubisoft Music",
+        "durationSec": 292
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YIYg3UT9YTI",
+        "title": "Assassin's Creed Unity Bonus Tracks - DeMolay's Condemnation (Track 01)",
+        "channel": "Ubisoft Music",
+        "durationSec": 183
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4VfghQPbb3A",
+        "title": "Assassin's Creed Unity OST Vol.1 - Breach Party (Track 04)",
+        "channel": "Ubisoft Music",
+        "durationSec": 148
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZT80whXeftc",
+        "title": "La Suite Francesa de Lully a Rameau  Musique pour le Roy III",
+        "channel": "Pilar Montoya",
+        "durationSec": 85
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9WxlHh-4Dpo",
+        "title": "AC Syndicate OST / Austin Wintory  - Danza alla Daggers",
+        "channel": "Ubisoft Music",
+        "durationSec": 191
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mRvFf8cvSNM",
+        "title": "Assassin's Creed Unity OST Vol.1 - Nothing Is True (Track 29)",
+        "channel": "Ubisoft Music",
+        "durationSec": 101
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 312484,
+    "name": "Lost Ruins of Arnak",
+    "year": 2020,
+    "slug": "lost-ruins-of-arnak"
+  },
+  "playlist": {
+    "id": "lost-ruins-of-arnak-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "OIkXEK714K4",
+        "title": "\"Shadow Overture\" ('Shadow of the Tomb Raider' soundtrack) by Brian D'Oliveira [2018]",
+        "channel": "Music of Tomb Raider",
+        "durationSec": 224
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TXKnsBgNubw",
+        "title": "\"One With The Jungle\" ('Shadow of the Tomb Raider' soundtrack) by Brian D'Oliveira [2018]",
+        "channel": "Music of Tomb Raider",
+        "durationSec": 175
+      },
+      {
+        "source": "youtube",
+        "sourceId": "RvqhrHrtTbQ",
+        "title": "\"Return To Paititi\" ('Shadow of the Tomb Raider' soundtrack) by Brian D'Oliveira [2018]",
+        "channel": "Music of Tomb Raider",
+        "durationSec": 216
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VGNUMXf1U5E",
+        "title": "Uncharted 4: A Thief's End  OST ♬ Complete Original Soundtrack",
+        "channel": "Jepedillo",
+        "durationSec": 4239
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Bxrt-7cqeJI",
+        "title": "\"Path of the Stars\" ('Shadow of the Tomb Raider' soundtrack) by Brian D'Oliveira [2018]",
+        "channel": "Music of Tomb Raider",
+        "durationSec": 511
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wdzW8gUMKsk",
+        "title": "\"Sacrifice\" ('Shadow of the Tomb Raider' soundtrack) by Brian D'Oliveira [2018]",
+        "channel": "Music of Tomb Raider",
+        "durationSec": 201
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4--r5WA55xo",
+        "title": "\"Baptism of Fire\" ('Shadow of the Tomb Raider' soundtrack) by Brian D'Oliveira [2018]",
+        "channel": "Music of Tomb Raider",
+        "durationSec": 156
+      }
+    ]
+  }
+}

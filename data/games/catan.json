@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 13,
+    "name": "Catan",
+    "year": 1995,
+    "slug": "catan"
+  },
+  "playlist": {
+    "id": "catan-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "cD4dMpeems8",
+        "title": "Haiko Ruttmann - Song #10 (BBC SO) / Settlers 2",
+        "channel": "Symphonic Remakes",
+        "durationSec": 149
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gZz02nROqYg",
+        "title": "Farthest Frontier OST - 05 Raiders",
+        "channel": "Crate Entertainment",
+        "durationSec": 134
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5_mPJvlvLpk",
+        "title": "Die Siedler 2 (Soundtrack) - Heiko Ruttmann",
+        "channel": "BLUE POT Gamble PRODUCTIONS",
+        "durationSec": 1656
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Sj6MHLvUNmo",
+        "title": "Farthest Frontier Soundtrack Ambiance",
+        "channel": "Ethereal Creed",
+        "durationSec": 3242
+      }
+    ]
+  }
+}

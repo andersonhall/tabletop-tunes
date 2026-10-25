@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 9209,
+    "name": "Ticket to Ride",
+    "year": 2004,
+    "slug": "ticket-to-ride"
+  },
+  "playlist": {
+    "id": "ticket-to-ride-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "wfPSV_f5sOI",
+        "title": "Mexican Western",
+        "channel": "Kalypso Media - Topic",
+        "durationSec": 95
+      },
+      {
+        "source": "youtube",
+        "sourceId": "NhM4sIeeHYQ",
+        "title": "Southern Raised Bluegrass Performs \"Orange Blossom Special\"",
+        "channel": "Southern Raised",
+        "durationSec": 331
+      },
+      {
+        "source": "youtube",
+        "sourceId": "q9qQGUveJWw",
+        "title": "RAILWAY EMPIRE OST [Full] OFFICIAL GAME SOUNDTRACK",
+        "channel": "ORDOVIZIUM VIDEOGAME-OST CHANNEL",
+        "durationSec": 3910
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SFMOUAPH9cU",
+        "title": "Saint Louis Ragtime",
+        "channel": "Kalypso Media - Topic",
+        "durationSec": 98
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZNAscUUK9S8",
+        "title": "Honkeytonk Band",
+        "channel": "Kalypso Media - Topic",
+        "durationSec": 85
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qDl_krnNMNY",
+        "title": "Australia - Main Theme",
+        "channel": "Kalypso Media - Topic",
+        "durationSec": 175
+      }
+    ]
+  }
+}

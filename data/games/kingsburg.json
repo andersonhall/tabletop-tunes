@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 27162,
+    "name": "Kingsburg",
+    "year": 2007,
+    "slug": "kingsburg"
+  },
+  "playlist": {
+    "id": "kingsburg-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "IdrfVA4YO2s",
+        "title": "Main Theme - Extended Mix (Age of Empires II: Definitive Edition Soundtrack)",
+        "channel": "Peaches Lamb",
+        "durationSec": 360
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4Cubt2PsisM",
+        "title": "Knights Of Jerusalem",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 322
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TcPMA60kQ88",
+        "title": "Age of Empires II - Complete Soundtrack OST + Tracklist",
+        "channel": "Ultimate Immersion OST",
+        "durationSec": 3704
+      },
+      {
+        "source": "youtube",
+        "sourceId": "av0DjJjehO0",
+        "title": "Charge Of The Knights",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 306
+      },
+      {
+        "source": "youtube",
+        "sourceId": "X7dB8QN8puc",
+        "title": "The Raid",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 188
+      }
+    ]
+  }
+}

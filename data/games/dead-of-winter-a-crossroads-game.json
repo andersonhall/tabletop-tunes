@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 150376,
+    "name": "Dead of Winter: A Crossroads Game",
+    "year": 2014,
+    "slug": "dead-of-winter-a-crossroads-game"
+  },
+  "playlist": {
+    "id": "dead-of-winter-a-crossroads-game-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "Pt1pOY3_W64",
+        "title": "Gustavo Santaolalla - The Last of Us (Main Theme) | The Last of Us (Video Game Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 186
+      },
+      {
+        "source": "youtube",
+        "sourceId": "kQFaMAAdDSE",
+        "title": "Frostpunk Theme",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 187
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_5I3NLky540",
+        "title": "Gustavo Santaolalla - The Last of Us (Video Game Soundtrack) - Full Album Visualizer",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 3336
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ohilL63ff4I",
+        "title": "11. The Still, Cold World (Bonus Track) - Frostpunk Original Soundtrack",
+        "channel": "11 bit studios",
+        "durationSec": 150
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vC4CfQJLhuk",
+        "title": "Gustavo Santaolalla - The Path (A New Beginning) | The Last of Us (Video Game Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 169
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DYc2-Oxi5F4",
+        "title": "The Inevitable",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 247
+      },
+      {
+        "source": "youtube",
+        "sourceId": "35UTD2Sm4NU",
+        "title": "Gustavo Santaolalla - Beyond Desolation | The Last of Us Part II (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 147
+      }
+    ]
+  }
+}

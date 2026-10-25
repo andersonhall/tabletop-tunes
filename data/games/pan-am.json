@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 303057,
+    "name": "Pan Am",
+    "year": 2020,
+    "slug": "pan-am"
+  },
+  "playlist": {
+    "id": "pan-am-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "SJKEvEdPtqw",
+        "title": "Catch Me If You Can (From \"Catch Me If You Can\" Soundtrack)",
+        "channel": "John Williams - Topic",
+        "durationSec": 162
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4eg3wwaIUcs",
+        "title": "1960s Jet Set Lounge Music ✈️ Golden Age of Air Travel – 1 Hour",
+        "channel": "SKY LOUNGE RECORDS",
+        "durationSec": 3777
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_jE_LtJwNPs",
+        "title": "\"Closing In/Intro Sequence\" by John Williams - Catch Me If You Can (Score and Audio)",
+        "channel": "Score and Audio",
+        "durationSec": 160
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LlYRNBXygUc",
+        "title": "John Williams conducts Escapades for Alto Saxophone and Orchestra (Catch Me if you Can)",
+        "channel": "martyprod2",
+        "durationSec": 803
+      }
+    ]
+  }
+}

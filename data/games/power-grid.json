@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 2651,
+    "name": "Power Grid",
+    "year": 2004,
+    "slug": "power-grid"
+  },
+  "playlist": {
+    "id": "power-grid-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "uLF6VFME2jc",
+        "title": "01. Frostpunk Theme - Frostpunk Original Soundtrack",
+        "channel": "11 bit studios",
+        "durationSec": 187
+      },
+      {
+        "source": "youtube",
+        "sourceId": "D-QoQjV0uLI",
+        "title": "04. Streets Of New London - Frostpunk Original Soundtrack",
+        "channel": "11 bit studios",
+        "durationSec": 239
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bPxjrXGDgKM",
+        "title": "Electrical Engineering | Anno 1800 (OST) | Dynamedion",
+        "channel": "Ubisoft Music",
+        "durationSec": 113
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_oRv1FW2Xho",
+        "title": "08. Into The Storm - Frostpunk Original Soundtrack",
+        "channel": "11 bit studios",
+        "durationSec": 275
+      },
+      {
+        "source": "youtube",
+        "sourceId": "uJCs7_u_wh0",
+        "title": "Industrial Accidents | Anno 1800 (OST) | Dynamedion",
+        "channel": "Ubisoft Music",
+        "durationSec": 122
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Jb7mTSlcCfQ",
+        "title": "10. Damned Souls - Frostpunk Original Soundtrack",
+        "channel": "11 bit studios",
+        "durationSec": 279
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TpaFE6_nDJw",
+        "title": "09. The City Must Survive - Frostpunk Original Soundtrack",
+        "channel": "11 bit studios",
+        "durationSec": 251
+      },
+      {
+        "source": "youtube",
+        "sourceId": "926Op2tlYz8",
+        "title": "Robber Baron Suite (From the Anno 1800 Original Game Soundtrack)",
+        "channel": "Dynamedion - Topic",
+        "durationSec": 280
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1bELNQCyBfg",
+        "title": "11. New London Ultimatum - Frostpunk Expansions Original Soundtrack",
+        "channel": "11 bit studios",
+        "durationSec": 249
+      },
+      {
+        "source": "youtube",
+        "sourceId": "kK1WmqTOUNs",
+        "title": "Anger",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 292
+      },
+      {
+        "source": "youtube",
+        "sourceId": "U31l-fkMcqo",
+        "title": "Assassin's Creed Syndicate Soundtrack - The Best of Ambient Music",
+        "channel": "Assassin's Creed Univers",
+        "durationSec": 1136
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YQ7of_IMJIo",
+        "title": "01. The Last Autumn Theme - Frostpunk Expansions Original Soundtrack",
+        "channel": "11 bit studios",
+        "durationSec": 165
+      },
+      {
+        "source": "youtube",
+        "sourceId": "F8p1hor857E",
+        "title": "AC Syndicate OST / Austin Wintory  - Underground",
+        "channel": "Ubisoft Music",
+        "durationSec": 197
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HhgvMSYFu0g",
+        "title": "06. The Inevitable - Frostpunk Expansions Original Soundtrack",
+        "channel": "11 bit studios",
+        "durationSec": 247
+      },
+      {
+        "source": "youtube",
+        "sourceId": "375kpZf81Ac",
+        "title": "Railway Empire Soundtrack - England Main Menu",
+        "channel": "Jake Rutigliano",
+        "durationSec": 159
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ohilL63ff4I",
+        "title": "11. The Still, Cold World (Bonus Track) - Frostpunk Original Soundtrack",
+        "channel": "11 bit studios",
+        "durationSec": 150
+      }
+    ]
+  }
+}

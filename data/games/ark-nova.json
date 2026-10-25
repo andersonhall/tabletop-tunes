@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 342942,
+    "name": "Ark Nova",
+    "year": 2021,
+    "slug": "ark-nova"
+  },
+  "playlist": {
+    "id": "ark-nova-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "lPyd3ujKENw",
+        "title": "Planet Zoo 2 | Official Soundtrack: A Warm Welcome - J.J. Ipsen",
+        "channel": "Planet Zoo 2",
+        "durationSec": 195
+      },
+      {
+        "source": "youtube",
+        "sourceId": "K4wejZWGOJI",
+        "title": "Planet Zoo 2 | Official Soundtrack: You, Me & Sanctuary - J.J. Ipsen",
+        "channel": "Planet Zoo 2",
+        "durationSec": 191
+      },
+      {
+        "source": "youtube",
+        "sourceId": "aGqnjC-M8_4",
+        "title": "You, Me & Other Animals: The Music of Planet Zoo (OST)",
+        "channel": "It's all about Time",
+        "durationSec": 3762
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BB490UmrKCc",
+        "title": "Maputo Marshland (Planet Zoo Africa Biome)",
+        "channel": "J.J. Ipsen - Topic",
+        "durationSec": 165
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mdTkwmT1SKI",
+        "title": "Planet Zoo 2 | Official Soundtrack: Carving Canopies - J.J. Ipsen",
+        "channel": "Planet Zoo 2",
+        "durationSec": 302
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HqYPw4VBKLs",
+        "title": "Northern Lights (Arctic Pack)",
+        "channel": "J.J. Ipsen - Topic",
+        "durationSec": 207
+      }
+    ]
+  }
+}

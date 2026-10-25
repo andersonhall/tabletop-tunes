@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 124742,
+    "name": "Android: Netrunner",
+    "year": 2012,
+    "slug": "android-netrunner"
+  },
+  "playlist": {
+    "id": "android-netrunner-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "FUy87tpfNe4",
+        "title": "Icarus - Main Theme",
+        "channel": "Michael McCann - Topic",
+        "durationSec": 222
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QM6His4dlOo",
+        "title": "Detroit City Ambient, Pt. 1",
+        "channel": "Michael McCann - Topic",
+        "durationSec": 124
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Jo46ws8IxRY",
+        "title": "Detroit Marketplace",
+        "channel": "Michael McCann - Topic",
+        "durationSec": 226
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LWGTXry_bOQ",
+        "title": "Deus Ex: Human Revolution - Full Soundtrack by Michael McCann [OST]",
+        "channel": "Sounds of Video Game Music",
+        "durationSec": 4056
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lbdJBbKwXpA",
+        "title": "First and Last",
+        "channel": "Michael McCann - Topic",
+        "durationSec": 195
+      },
+      {
+        "source": "youtube",
+        "sourceId": "s4_Ky7EQWlg",
+        "title": "The Hive",
+        "channel": "Michael McCann - Topic",
+        "durationSec": 237
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hOHzm1G6eEk",
+        "title": "Main Menu",
+        "channel": "Michael McCann - Topic",
+        "durationSec": 111
+      }
+    ]
+  }
+}

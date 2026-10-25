@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 194879,
+    "name": "Not Alone",
+    "year": 2016,
+    "slug": "not-alone"
+  },
+  "playlist": {
+    "id": "not-alone-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "iHmxR3yHZ2c",
+        "title": "A Planet (From \"Prometheus\" Soundtrack)",
+        "channel": "Marc Streitenfeld - Topic",
+        "durationSec": 158
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OYBC-r3Nj0U",
+        "title": "Life (From \"Prometheus\" Soundtrack)",
+        "channel": "Marc Streitenfeld - Topic",
+        "durationSec": 151
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ODXpYfZ_fHU",
+        "title": "Becoming one of \"The People\" Becoming one with Neytiri",
+        "channel": "James Horner - Topic",
+        "durationSec": 464
+      },
+      {
+        "source": "youtube",
+        "sourceId": "81-RhnX_EGQ",
+        "title": "Going In (From \"Prometheus\" Soundtrack)",
+        "channel": "Marc Streitenfeld - Topic",
+        "durationSec": 124
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jWZ4biepj1U",
+        "title": "Earth (From \"Prometheus\" Soundtrack)",
+        "channel": "Marc Streitenfeld - Topic",
+        "durationSec": 155
+      },
+      {
+        "source": "youtube",
+        "sourceId": "oVzw7Z-OZT4",
+        "title": "Avatar Suite // Danish National Symphony Orchestra (LIVE)",
+        "channel": "DR Koncerthuset",
+        "durationSec": 536
+      },
+      {
+        "source": "youtube",
+        "sourceId": "i1BwcCuEOtM",
+        "title": "James Horner - Avatar Theme Song (Avatar Soundtrack) HQ 1080p",
+        "channel": "JJay13Productionz",
+        "durationSec": 212
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gmxLcOZHTG0",
+        "title": "Engineers (From \"Prometheus\" Soundtrack)",
+        "channel": "Marc Streitenfeld - Topic",
+        "durationSec": 150
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tEzYsaLm7nw",
+        "title": "Into the Unknown",
+        "channel": "Simon Chylinski - Topic",
+        "durationSec": 179
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9NH01l6fD6c",
+        "title": "David (From \"Prometheus\" Soundtrack)",
+        "channel": "Marc Streitenfeld - Topic",
+        "durationSec": 181
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XQfkeiVrJ5Y",
+        "title": "Jake's first flight",
+        "channel": "James Horner - Topic",
+        "durationSec": 290
+      },
+      {
+        "source": "youtube",
+        "sourceId": "i8jmDq-CCeo",
+        "title": "Collision (From \"Prometheus\" Soundtrack)",
+        "channel": "Marc Streitenfeld - Topic",
+        "durationSec": 186
+      },
+      {
+        "source": "youtube",
+        "sourceId": "J23xOwDM9JI",
+        "title": "Too Close (From \"Prometheus\" Soundtrack)",
+        "channel": "Marc Streitenfeld - Topic",
+        "durationSec": 201
+      },
+      {
+        "source": "youtube",
+        "sourceId": "98swTvSBFOc",
+        "title": "AVATAR SUITE LIVE IN CONCERT - ORIGINAL VERSION HD !!! Hollywood in Vienna 2013",
+        "channel": "Film Music Fan",
+        "durationSec": 567
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4xRO0NvQZx8",
+        "title": "Dazed (From \"Prometheus\" Soundtrack)",
+        "channel": "Marc Streitenfeld - Topic",
+        "durationSec": 270
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jsO6JZ0cAvc",
+        "title": "Leviathan",
+        "channel": "Simon Chylinski - Topic",
+        "durationSec": 67
+      },
+      {
+        "source": "youtube",
+        "sourceId": "FISk-Q4_hR0",
+        "title": "Avatar Complete Soundtrack - Quaritch Down",
+        "channel": "BlackAces1983",
+        "durationSec": 310
+      }
+    ]
+  }
+}

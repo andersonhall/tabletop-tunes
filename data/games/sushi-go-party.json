@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 192291,
+    "name": "Sushi Go Party!",
+    "year": 2016,
+    "slug": "sushi-go-party"
+  },
+  "playlist": {
+    "id": "sushi-go-party-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "_bkhhOB2dn8",
+        "title": "Okami Soundtrack - Descent Of The Great Goddess",
+        "channel": "VulgusBangaa",
+        "durationSec": 42
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WHkTJTD2gvU",
+        "title": "Okami Soundtrack - Oni Island",
+        "channel": "VulgusBangaa",
+        "durationSec": 194
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lyieFu7BnHE",
+        "title": "Beautiful Japanese Music | Koto Music & Shakuhachi Music",
+        "channel": "Fantasy & World Music by the Fiechters",
+        "durationSec": 3696
+      },
+      {
+        "source": "youtube",
+        "sourceId": "JDTp_YQizqE",
+        "title": "さくら(Sakura)　25絃箏 (25 strings koto)",
+        "channel": "Kasumi Watanabe",
+        "durationSec": 257
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MlTNNHAa0rk",
+        "title": "Okami Soundtrack - Agata Forest",
+        "channel": "VulgusBangaa",
+        "durationSec": 214
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ya3yxTbkh5s",
+        "title": "Okami Soundtrack - The Sun Rises",
+        "channel": "VulgusBangaa",
+        "durationSec": 342
+      }
+    ]
+  }
+}

@@ -10,7 +10,7 @@
     "id": "le-havre-default",
     "ownerId": "andy",
     "generatedBy": "claude-code",
-    "createdAt": "2026-10-20",
+    "createdAt": "2026-10-25",
     "tracks": [
       {
         "source": "youtube",
@@ -28,6 +28,13 @@
       },
       {
         "source": "youtube",
+        "sourceId": "AhBO5GmLjTk",
+        "title": "AC Syndicate OST / Austin Wintory  - London Is Waiting",
+        "channel": "Ubisoft Music",
+        "durationSec": 166
+      },
+      {
+        "source": "youtube",
         "sourceId": "A2I9T9ePS_E",
         "title": "Royal Meadows",
         "channel": "Dynamedion - Topic",
@@ -39,6 +46,13 @@
         "title": "New World Dawning",
         "channel": "Dynamedion - Topic",
         "durationSec": 105
+      },
+      {
+        "source": "youtube",
+        "sourceId": "pj08BMBn_eE",
+        "title": "AC Syndicate OST / Austin Wintory  - Family",
+        "channel": "Ubisoft Music",
+        "durationSec": 117
       },
       {
         "source": "youtube",
@@ -56,6 +70,13 @@
       },
       {
         "source": "youtube",
+        "sourceId": "Nxnfq3XRMkk",
+        "title": "AC Syndicate OST / Austin Wintory  - Waltzing on Rooftops and Cobblestones",
+        "channel": "Ubisoft Music",
+        "durationSec": 292
+      },
+      {
+        "source": "youtube",
         "sourceId": "ZZTPUvIatDU",
         "title": "The Rains",
         "channel": "Dynamedion - Topic",
@@ -63,17 +84,17 @@
       },
       {
         "source": "youtube",
-        "sourceId": "RfkTixqLPJ4",
-        "title": "Port Royale Anthology  - The Original Soundtrack High Quality",
-        "channel": "VIDEO GAME SOUNDTRACK COLLECTION - OST ROOM",
-        "durationSec": 2747
-      },
-      {
-        "source": "youtube",
         "sourceId": "AwvARrHsR3E",
         "title": "Wanderlust",
         "channel": "Dynamedion - Topic",
         "durationSec": 101
+      },
+      {
+        "source": "youtube",
+        "sourceId": "F8p1hor857E",
+        "title": "AC Syndicate OST / Austin Wintory  - Underground",
+        "channel": "Ubisoft Music",
+        "durationSec": 197
       },
       {
         "source": "youtube",
@@ -91,10 +112,24 @@
       },
       {
         "source": "youtube",
+        "sourceId": "vwmQgJcY4IQ",
+        "title": "AC Syndicate OST / Austin Wintory  - I Would Have Created a Paradise",
+        "channel": "Ubisoft Music",
+        "durationSec": 319
+      },
+      {
+        "source": "youtube",
         "sourceId": "926Op2tlYz8",
         "title": "Robber Baron Suite (From the Anno 1800 Original Game Soundtrack)",
         "channel": "Dynamedion - Topic",
         "durationSec": 280
+      },
+      {
+        "source": "youtube",
+        "sourceId": "375kpZf81Ac",
+        "title": "Railway Empire Soundtrack - England Main Menu",
+        "channel": "Jake Rutigliano",
+        "durationSec": 159
       },
       {
         "source": "youtube",
@@ -105,10 +140,24 @@
       },
       {
         "source": "youtube",
+        "sourceId": "-6WjOKqnszo",
+        "title": "AC Syndicate OST / Austin Wintory  - Bloodlines",
+        "channel": "Ubisoft Music",
+        "durationSec": 114
+      },
+      {
+        "source": "youtube",
         "sourceId": "fN2ZC7yPqas",
         "title": "In the Belly of the Beast",
         "channel": "Dynamedion - Topic",
         "durationSec": 113
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9WxlHh-4Dpo",
+        "title": "AC Syndicate OST / Austin Wintory  - Danza alla Daggers",
+        "channel": "Ubisoft Music",
+        "durationSec": 191
       },
       {
         "source": "youtube",
@@ -123,6 +172,13 @@
         "title": "Streets Aflame | Anno 1800 (OST) | Dynamedion",
         "channel": "Ubisoft Music",
         "durationSec": 66
+      },
+      {
+        "source": "youtube",
+        "sourceId": "U31l-fkMcqo",
+        "title": "Assassin's Creed Syndicate Soundtrack - The Best of Ambient Music",
+        "channel": "Assassin's Creed Univers",
+        "durationSec": 1136
       },
       {
         "source": "youtube",

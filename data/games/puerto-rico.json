@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 3076,
+    "name": "Puerto Rico",
+    "year": 2002,
+    "slug": "puerto-rico"
+  },
+  "playlist": {
+    "id": "puerto-rico-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "nywtDpdOZ6M",
+        "title": "Tropico 2: Pirate Cove - Caribbean Voyage (Official Soundtrack)",
+        "channel": "LMS Records Presents",
+        "durationSec": 251
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EJ2rw1bDZBs",
+        "title": "Tropico OST -  Main Theme-Los Parranderos - Daniel Indart",
+        "channel": "Reggay",
+        "durationSec": 153
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MTYB9ArHYz4",
+        "title": "Tropico 2: Pirate Cove - Pirate Cove (Official Soundtrack)",
+        "channel": "LMS Records Presents",
+        "durationSec": 199
+      },
+      {
+        "source": "youtube",
+        "sourceId": "GczFuvolEB4",
+        "title": "Tropico 2: Pirate Cove - Pirate Siesta (Official Soundtrack)",
+        "channel": "LMS Records Presents",
+        "durationSec": 205
+      },
+      {
+        "source": "youtube",
+        "sourceId": "RfkTixqLPJ4",
+        "title": "Port Royale Anthology  - The Original Soundtrack High Quality",
+        "channel": "VIDEO GAME SOUNDTRACK COLLECTION - OST ROOM",
+        "durationSec": 2747
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HnaqIPKfFjI",
+        "title": "Tropico 2: Pirate Cove - Peg Leg (Official Soundtrack)",
+        "channel": "LMS Records Presents",
+        "durationSec": 221
+      },
+      {
+        "source": "youtube",
+        "sourceId": "rjpp8_Gdo7k",
+        "title": "Tropico 2 Soundtrack \"Pirate Waltz\"",
+        "channel": "HannibalZeGreat",
+        "durationSec": 203
+      },
+      {
+        "source": "youtube",
+        "sourceId": "M2xi0PQZ874",
+        "title": "Tropico 2 Soundtrack \"The Buccaneer\"",
+        "channel": "HannibalZeGreat",
+        "durationSec": 211
+      },
+      {
+        "source": "youtube",
+        "sourceId": "aqjoZ5ypsXU",
+        "title": "Tropico 2 Soundtrack \"Lazy Afternoon\"",
+        "channel": "HannibalZeGreat",
+        "durationSec": 257
+      }
+    ]
+  }
+}

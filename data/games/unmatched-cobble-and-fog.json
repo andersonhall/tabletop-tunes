@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 294484,
+    "name": "Unmatched: Cobble & Fog",
+    "year": 2020,
+    "slug": "unmatched-cobble-and-fog"
+  },
+  "playlist": {
+    "id": "unmatched-cobble-and-fog-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "bOqLmkpr9nw",
+        "title": "Assassin's Creed Syndicate: Jack The Ripper (OST) / Bear McCreary - Cobblestone and Fog",
+        "channel": "Ubisoft Music",
+        "durationSec": 275
+      },
+      {
+        "source": "youtube",
+        "sourceId": "rKsjJPE6ak8",
+        "title": "Wojciech Kilar - BRAM STOKER'S DRACULA - Suite",
+        "channel": "Film Score Suites",
+        "durationSec": 888
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jkCVkjT5sKc",
+        "title": "Assassin's Creed Syndicate: Jack The Ripper (OST) / Bear McCreary - Theme",
+        "channel": "Ubisoft Music",
+        "durationSec": 188
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lsgwLAWBj00",
+        "title": "Sherlock Holmes | Imperial Orchestra | Hans Zimmer's Universe",
+        "channel": "Imperial Orchestra",
+        "durationSec": 271
+      },
+      {
+        "source": "youtube",
+        "sourceId": "e7lH8lBQ0t4",
+        "title": "Wojciech Kilar - Love Remembered | Bram Stoker's Dracula (Original Motion Picture Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 253
+      },
+      {
+        "source": "youtube",
+        "sourceId": "P7HMNEMPds0",
+        "title": "Assassin's Creed Syndicate: Jack The Ripper (OST) / Bear McCreary - Evie Frye",
+        "channel": "Ubisoft Music",
+        "durationSec": 389
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zCmpylsylDU",
+        "title": "Wojciech Kilar - Vampire Hunters | Bram Stoker's Dracula (Original Motion Picture Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 188
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TR1FJcruCXI",
+        "title": "Assassin's Creed Syndicate: Jack The Ripper (OST) / Bear McCreary - Jack the Ripper",
+        "channel": "Ubisoft Music",
+        "durationSec": 437
+      },
+      {
+        "source": "youtube",
+        "sourceId": "kMNmL2B-rrw",
+        "title": "Dracula - The Beginning | Bram Stoker's Dracula (Original Motion Picture Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 405
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vgRVJksQocM",
+        "title": "Sherlock Holmes Movie Soundtrack - Discombobulate",
+        "channel": "Drace",
+        "durationSec": 146
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YA9yls4EbFo",
+        "title": "Assassin's Creed Syndicate: Jack The Ripper (OST) / Bear McCreary - District Activities",
+        "channel": "Ubisoft Music",
+        "durationSec": 147
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1im_r5dPqII",
+        "title": "Wojciech Kilar - The Storm | Bram Stoker's Dracula (Original Motion Picture Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 307
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 148228,
+    "name": "Splendor",
+    "year": 2014,
+    "slug": "splendor"
+  },
+  "playlist": {
+    "id": "splendor-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "uPY5uu4SntI",
+        "title": "Assassin's Creed 2 OST / Jesper Kyd - Tour of Venice (Track 10)",
+        "channel": "Ubisoft Music",
+        "durationSec": 198
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WXkRgUvY6PM",
+        "title": "John Dowland (1563-1626): The Earle of Essex Galiard [a5] - The Royal Wind Music",
+        "channel": "The Royal Wind Music",
+        "durationSec": 135
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ztTjQB89v6U",
+        "title": "Assassin's Creed 2 OST / Jesper Kyd - Home In Florence (Track 05)",
+        "channel": "Ubisoft Music",
+        "durationSec": 272
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jqbwfj99F6U",
+        "title": "Evangelina Mascardi plays Dowland & contemporaries on the Renaissance Lute with Frédéric Zigante",
+        "channel": "Edoardo Lambertenghi",
+        "durationSec": 1171
+      },
+      {
+        "source": "youtube",
+        "sourceId": "FSVHx23ByhM",
+        "title": "Assassin's Creed 2 OST / Jesper Kyd - Ezio's Family (Track 03)",
+        "channel": "Ubisoft Music",
+        "durationSec": 240
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LB9USv8VYvA",
+        "title": "John Dowland - Can She Excuse My Wrongs｜Vivid Consort & David Bergmüller",
+        "channel": "Vivid Consort",
+        "durationSec": 276
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ADMp5nwHBeI",
+        "title": "Assassin's Creed II – Dreams of Venice | Ambient Music | Continuous Mix | 1/2 Hour",
+        "channel": "Tayeh",
+        "durationSec": 1468
+      },
+      {
+        "source": "youtube",
+        "sourceId": "x52-VKWI9hg",
+        "title": "Ascanio Trombetti (1544-1590): Diligam te Domine [a6]",
+        "channel": "The Royal Wind Music",
+        "durationSec": 221
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SBkblz-0XKE",
+        "title": "Assassin's Creed 2 OST / Jesper Kyd - The Plague (Track 30)",
+        "channel": "Ubisoft Music",
+        "durationSec": 212
+      }
+    ]
+  }
+}

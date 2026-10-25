@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 239472,
+    "name": "Abomination: The Heir of Frankenstein",
+    "year": 2019,
+    "slug": "abomination-the-heir-of-frankenstein"
+  },
+  "playlist": {
+    "id": "abomination-the-heir-of-frankenstein-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "IgO30gqTn10",
+        "title": "Patrick Doyle: Mary Shelley's Frankenstein Theme [Extended by Gilles Nuytens]",
+        "channel": "Gilles Nuytens",
+        "durationSec": 700
+      },
+      {
+        "source": "youtube",
+        "sourceId": "146iF-bh-Ds",
+        "title": "Please Wait (From \"Frankenstein\" Soundtrack) (Album Version)",
+        "channel": "Patrick Doyle - Topic",
+        "durationSec": 202
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mYk-D_TNz58",
+        "title": "He Was My Father (From \"Frankenstein\" Soundtrack) (Album Version)",
+        "channel": "Patrick Doyle - Topic",
+        "durationSec": 371
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0zFiBkfwUvo",
+        "title": "Mary Shelley's Frankenstein ~horror cues~ by Patrick Doyle",
+        "channel": "Ty's OSTs",
+        "durationSec": 672
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LGJGT8HryFM",
+        "title": "Elizabeth (From \"Frankenstein\" Soundtrack) (Album Version)",
+        "channel": "Patrick Doyle - Topic",
+        "durationSec": 252
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_1M9W1pvxh0",
+        "title": "The Wedding Night (From \"Frankenstein\" Soundtrack) (Album Version)",
+        "channel": "Patrick Doyle - Topic",
+        "durationSec": 126
+      },
+      {
+        "source": "youtube",
+        "sourceId": "rKsjJPE6ak8",
+        "title": "Wojciech Kilar - BRAM STOKER'S DRACULA - Suite",
+        "channel": "Film Score Suites",
+        "durationSec": 888
+      },
+      {
+        "source": "youtube",
+        "sourceId": "m1lMoGvQoGw",
+        "title": "She's Beautifull (From \"Frankenstein\" Soundtrack) (Album Version)",
+        "channel": "Patrick Doyle - Topic",
+        "durationSec": 216
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gUIF0ooi7NI",
+        "title": "Bride of Frankenstein Theme Suite - Patrick Doyle (from Mary Shelley's Frankenstein 1994)",
+        "channel": "Vendaxel",
+        "durationSec": 501
+      }
+    ]
+  }
+}

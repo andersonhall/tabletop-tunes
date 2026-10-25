@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 230802,
+    "name": "Azul",
+    "year": 2017,
+    "slug": "azul"
+  },
+  "playlist": {
+    "id": "azul-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "pFNz3W6-ZYA",
+        "title": "Carlos Paredes - Canção Verdes Anos [Official Audio]",
+        "channel": "Edições Valentim de Carvalho",
+        "durationSec": 185
+      },
+      {
+        "source": "youtube",
+        "sourceId": "nXNTMKcOHqE",
+        "title": "🎶Traditional Portuguese Guitar👉  1 Hour of Soulful Fado Melodies | Guitarra Portuguesa",
+        "channel": "Fado Channel – Portuguese Blues and Guitar Music",
+        "durationSec": 3664
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9E-fgPyiq00",
+        "title": "Guitarras para Amália",
+        "channel": "Luis Guerreiro Oficial",
+        "durationSec": 466
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wzlZ68ts-IU",
+        "title": "Marta Pereira da Costa: Tiny Desk Concert",
+        "channel": "NPR Music",
+        "durationSec": 1257
+      }
+    ]
+  }
+}

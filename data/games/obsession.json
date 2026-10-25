@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 231733,
+    "name": "Obsession",
+    "year": 2018,
+    "slug": "obsession"
+  },
+  "playlist": {
+    "id": "obsession-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "ZO0SGhkt90s",
+        "title": "Downton Abbey - The Suite",
+        "channel": "John Lunn - Topic",
+        "durationSec": 427
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DHYF1UchYgs",
+        "title": "Marianelli: Dawn (From \"Pride & Prejudice\" Soundtrack)",
+        "channel": "Jean-Yves Thibaudet - Topic",
+        "durationSec": 159
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lWUmxxTq-bs",
+        "title": "Such Good Luck (From “Downton Abbey” Soundtrack)",
+        "channel": "John Lunn - Topic",
+        "durationSec": 173
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gYuk_Moy_4A",
+        "title": "Marianelli: A Postcard to Henry Purcell (From \"Pride & Prejudice\" Soundtrack)",
+        "channel": "Jean-Yves Thibaudet - Topic",
+        "durationSec": 160
+      },
+      {
+        "source": "youtube",
+        "sourceId": "W8T29FiHTZ8",
+        "title": "Life After Death",
+        "channel": "John Lunn - Topic",
+        "durationSec": 377
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tV1QqJzVAaw",
+        "title": "Pride & Prejudice | Soundtrack CUT",
+        "channel": "Soundtrack Cut",
+        "durationSec": 1604
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SjLiiEC7ozg",
+        "title": "Marianelli: Liz On Top Of The World (From \"Pride & Prejudice\" Soundtrack)",
+        "channel": "Jean-Yves Thibaudet - Topic",
+        "durationSec": 83
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IsDuQPdA64A",
+        "title": "FMF 2015: International TV Series Gala: Downton Abbey, Johna Lunna",
+        "channel": "Krakow Film Music Festival",
+        "durationSec": 440
+      },
+      {
+        "source": "youtube",
+        "sourceId": "X6bB0IjFSqM",
+        "title": "Marianelli: Your Hands Are Cold (From \"Pride & Prejudice\" Soundtrack)",
+        "channel": "Jean-Yves Thibaudet - Topic",
+        "durationSec": 323
+      },
+      {
+        "source": "youtube",
+        "sourceId": "7ty7gAMikUQ",
+        "title": "Marianelli: Stars and Butterflies (From \"Pride & Prejudice\" Soundtrack)",
+        "channel": "Jean-Yves Thibaudet - Topic",
+        "durationSec": 119
+      },
+      {
+        "source": "youtube",
+        "sourceId": "l-uAFYi-72A",
+        "title": "Downton Abbey - The Suite (From “Downton Abbey” Soundtrack)",
+        "channel": "The Chamber Orchestra Of London - Topic",
+        "durationSec": 429
+      }
+    ]
+  }
+}

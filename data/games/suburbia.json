@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 123260,
+    "name": "Suburbia",
+    "year": 2012,
+    "slug": "suburbia"
+  },
+  "playlist": {
+    "id": "suburbia-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "3EKA4Gg3TJc",
+        "title": "Main Theme (From Cities: Skylines Original Game Soundtrack)",
+        "channel": "Paradox Interactive - Topic",
+        "durationSec": 146
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HX86maUG2gA",
+        "title": "Cities Skylines - Deep Focus Radio",
+        "channel": "Tom Holy",
+        "durationSec": 3880
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8dHCOJCJ7so",
+        "title": "Cities: Skylines OST - Main Theme [Extended]",
+        "channel": "VGM Vega",
+        "durationSec": 1676
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 31260,
+    "name": "Agricola",
+    "year": 2007,
+    "slug": "agricola"
+  },
+  "playlist": {
+    "id": "agricola-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "XkIMeAiYKE4",
+        "title": "Farthest Frontier OST - 01 Main Theme",
+        "channel": "Crate Entertainment",
+        "durationSec": 71
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LWe6reos-fg",
+        "title": "Farthest Frontier OST - 02 October",
+        "channel": "Crate Entertainment",
+        "durationSec": 336
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hnS3Q8JSizE",
+        "title": "Farthest Frontier OST - 03 Outlook",
+        "channel": "Crate Entertainment",
+        "durationSec": 305
+      },
+      {
+        "source": "youtube",
+        "sourceId": "C0YBWu6nym4",
+        "title": "Banished Full Soundtrack [HD]",
+        "channel": "Ein_EseL",
+        "durationSec": 3079
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wYIFGflIC3U",
+        "title": "Farthest Frontier OST - 06 Recurrence",
+        "channel": "Crate Entertainment",
+        "durationSec": 325
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ptPMBPRmBsE",
+        "title": "Farthest Frontier OST - 11 Wander",
+        "channel": "Crate Entertainment",
+        "durationSec": 319
+      },
+      {
+        "source": "youtube",
+        "sourceId": "NP1hZhtL9Aw",
+        "title": "Manor Lords OST - The Peasants (Soundtrack Preview)",
+        "channel": "Manor Lords",
+        "durationSec": 257
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ugDTpSSlCKQ",
+        "title": "Farthest Frontier OST - 09 Senses",
+        "channel": "Crate Entertainment",
+        "durationSec": 327
+      }
+    ]
+  }
+}

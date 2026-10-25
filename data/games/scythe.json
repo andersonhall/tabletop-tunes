@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 169786,
+    "name": "Scythe",
+    "year": 2016,
+    "slug": "scythe"
+  },
+  "playlist": {
+    "id": "scythe-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "OpQKbZfFixc",
+        "title": "Iron Harvest OST 1. Overture For A New World (Of 1920+)",
+        "channel": "Shaders",
+        "durationSec": 189
+      },
+      {
+        "source": "youtube",
+        "sourceId": "uShUJYRACfY",
+        "title": "Project - Icarus (Original Game Soundtrack)",
+        "channel": "Adam Skorupa, Krzysztof Wierzynkiewicz & Michal Cielecki - Topic",
+        "durationSec": 163
+      },
+      {
+        "source": "youtube",
+        "sourceId": "s3L0_ez0Dg4",
+        "title": "The Witcher 3: Wild Hunt - The Trail - Trailer Music",
+        "channel": "Marcin Przybyłowicz",
+        "durationSec": 169
+      },
+      {
+        "source": "youtube",
+        "sourceId": "RMOIdWd_xGo",
+        "title": "Mother Rusviet (Original Game Soundtrack)",
+        "channel": "Adam Skorupa, Krzysztof Wierzynkiewicz & Michal Cielecki - Topic",
+        "durationSec": 108
+      },
+      {
+        "source": "youtube",
+        "sourceId": "edCHzGSR1Uc",
+        "title": "The Fog of War (Original Game Soundtrack)",
+        "channel": "Adam Skorupa, Krzysztof Wierzynkiewicz & Michal Cielecki - Topic",
+        "durationSec": 126
+      },
+      {
+        "source": "youtube",
+        "sourceId": "nKeq8kKLD0E",
+        "title": "Iron Harvest (OST) - Music Imaginary | Full + Timestamps [Original Game Soundtrack]",
+        "channel": "Kami Gawa",
+        "durationSec": 2592
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PvoIZF0I1BE",
+        "title": "Iron Harvest OST 4. Polania Victrix",
+        "channel": "Shaders",
+        "durationSec": 103
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MVW-pCEqCC4",
+        "title": "Extended - Relief (Original Game Soundtrack)",
+        "channel": "Adam Skorupa, Krzysztof Wierzynkiewicz & Michal Cielecki - Topic",
+        "durationSec": 96
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8UMhLMspr18",
+        "title": "WitcherCon | Marcin Przybyłowicz & Percival | Cloak and Dagger",
+        "channel": "The Witcher",
+        "durationSec": 178
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PRLQRJw0DpU",
+        "title": "Iron Harvest OST - Last Days Of The Tzar",
+        "channel": "Bonedripper",
+        "durationSec": 126
+      },
+      {
+        "source": "youtube",
+        "sourceId": "kQFaMAAdDSE",
+        "title": "Frostpunk Theme",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 187
+      },
+      {
+        "source": "youtube",
+        "sourceId": "aQjwlxKjBKg",
+        "title": "Iron Harvest OST - Operation Eagle - Guns Blazing",
+        "channel": "Bonedripper",
+        "durationSec": 125
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OKA9GaGo6Zs",
+        "title": "Iron Harvest OST - Operation Eagle - Tense infiltration",
+        "channel": "Bonedripper",
+        "durationSec": 128
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jRG0gyVFP60",
+        "title": "Silver For Monsters...",
+        "channel": "Percival Schuttenbach - Topic",
+        "durationSec": 140
+      },
+      {
+        "source": "youtube",
+        "sourceId": "DYc2-Oxi5F4",
+        "title": "The Inevitable",
+        "channel": "Piotr Musiał - Topic",
+        "durationSec": 247
+      },
+      {
+        "source": "youtube",
+        "sourceId": "dvn4vfWxhAc",
+        "title": "Iron Harvest OST - Coda For A New World of 1920 universe",
+        "channel": "Bonedripper",
+        "durationSec": 88
+      }
+    ]
+  }
+}

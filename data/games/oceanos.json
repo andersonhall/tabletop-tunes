@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 192860,
+    "name": "Oceanos",
+    "year": 2016,
+    "slug": "oceanos"
+  },
+  "playlist": {
+    "id": "oceanos-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "FvAc2H8rncs",
+        "title": "Below Zero",
+        "channel": "Ben Prunty - Topic",
+        "durationSec": 162
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mCL0jRV_xb4",
+        "title": "ABZU soundtrack complete OST - Music by Austin Wintory, with text commentary",
+        "channel": "Austin Wintory",
+        "durationSec": 3453
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sG4drWQWYZQ",
+        "title": "Lily Pads",
+        "channel": "Ben Prunty - Topic",
+        "durationSec": 232
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WDb12TfBdcs",
+        "title": "Cathedral | Subnautica Below Zero OST #31",
+        "channel": "Alpha Centauri",
+        "durationSec": 208
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XKWn3NJBdSQ",
+        "title": "Tree Spires - Ben Prunty - Subnautica Below Zero OST",
+        "channel": "Alpha Centauri",
+        "durationSec": 208
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QN0SNDhHTYA",
+        "title": "The Blue Planet",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 198
+      }
+    ]
+  }
+}

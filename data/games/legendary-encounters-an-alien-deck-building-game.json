@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 146652,
+    "name": "Legendary Encounters: An Alien Deck Building Game",
+    "year": 2014,
+    "slug": "legendary-encounters-an-alien-deck-building-game"
+  },
+  "playlist": {
+    "id": "legendary-encounters-an-alien-deck-building-game-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-25",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "-U4u5TzEJo0",
+        "title": "Aliens Suite // Danish National Symphony Orchestra (LIVE)",
+        "channel": "DR Koncerthuset",
+        "durationSec": 383
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ABtv7e9UH7A",
+        "title": "Cinemascores - Aliens (1986) OST",
+        "channel": "Cinemascores",
+        "durationSec": 4544
+      }
+    ]
+  }
+}
