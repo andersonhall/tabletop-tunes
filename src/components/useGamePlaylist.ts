@@ -21,6 +21,8 @@ export interface GamePlaylist {
    */
   status: "loading" | "ready" | "loadFailed";
   tracks: Track[];
+  /** Tracks hidden from all of the user's playlists, as `trackKey()` strings. */
+  hidden: ReadonlySet<string>;
   canEdit: boolean;
   /** The user has their own copy of this game's playlist. */
   hasCopy: boolean;
@@ -35,6 +37,10 @@ export interface GamePlaylist {
   move(from: number, to: number): Promise<void>;
   /** Adds to the end; `unhide` also takes it off the hidden list. Resolves true once saved. */
   add(track: Track, unhide?: boolean): Promise<boolean>;
+  /** Adds a track from a Melodice alternate to the end, with Undo. Already there: no-op. */
+  keep(track: Track): Promise<void>;
+  /** Makes the user's copy exactly these tracks, with Undo. */
+  replaceWith(tracks: readonly Track[]): Promise<void>;
   reset(): Promise<void>;
 }
 
@@ -148,6 +154,7 @@ export function useGamePlaylist(file: GameFile): GamePlaylist {
   return {
     status,
     tracks,
+    hidden: hiddenSet,
     canEdit,
     hasCopy: !!data.saved,
     saving,
@@ -185,6 +192,21 @@ export function useGamePlaylist(file: GameFile): GamePlaylist {
         await saveTracks(appendTrack(tracks, track));
         if (unhide) await saveHidden(data.hidden.filter((k) => k !== key));
       });
+    },
+
+    async keep(track) {
+      if (checkAdd(tracks, hiddenSet, track) === "duplicate") return;
+      setUndo(undefined);
+      const prev = data.saved;
+      const ok = await save(() => saveTracks(appendTrack(tracks, track)));
+      if (ok) setUndo({ message: `Kept “${track.title}”.`, run: () => restoreCopy(prev) });
+    },
+
+    async replaceWith(next) {
+      setUndo(undefined);
+      const prev = data.saved;
+      const ok = await save(() => saveTracks([...next]));
+      if (ok) setUndo({ message: "Replaced your playlist with the Melodice list.", run: () => restoreCopy(prev) });
     },
 
     async undo() {
