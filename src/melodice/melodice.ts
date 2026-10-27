@@ -1,7 +1,6 @@
 // Melodice alternates: pure logic for turning a Melodice game page's list into
 // something the app can play. melodice.org sends no CORS headers, so the ids
-// arrive from Melodice's side (the bookmarklet, or a pasted link), never by
-// fetching. See docs/melodice.md.
+// arrive from Melodice's side (the bookmarklet), never by fetching. See docs/melodice.md.
 
 import type { GameFile } from "../data/schema";
 import { normalize, searchGames } from "../search";

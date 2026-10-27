@@ -29,6 +29,11 @@ export function Layout({ children }: { children: ReactNode }) {
         </div>
       </header>
       <main>{children}</main>
+      <footer className="mt-12 border-t border-stone-800 pt-4 text-xs text-stone-500">
+        <Link to="/melodice" className="hover:text-stone-300">
+          Melodice bookmarklet
+        </Link>
+      </footer>
     </div>
   );
 }

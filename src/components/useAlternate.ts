@@ -21,9 +21,8 @@ export interface AlternateApi {
   tracks: Track[];
   /** Ids still being probed for their title and length. */
   pending: number;
-  /** It was just sent or pasted, so it should start playing once. */
+  /** It was just sent from Melodice, so it should start playing once. */
   fresh: boolean;
-  load(ids: string[]): void;
   setActive(active: boolean): void;
   close(): void;
   /** The full track for `track` (which may be a placeholder), or why it can't play. */
@@ -67,7 +66,7 @@ export function useAlternate(slug: string, hidden: ReadonlySet<string>, resolver
         const r = await resolver.resolve({ source: "youtube", sourceId: id });
         if (cancelled) return;
         const result: Resolved = r.ok ? r.track : { failed: r.reason };
-        // Only into the list it was probed for, not one pasted since.
+        // Only into the list it was probed for, not one sent since.
         update((a) => (a && a.ids === ids ? { ...a, resolved: { ...a.resolved, [id]: result } } : a));
       }
     };
@@ -85,7 +84,6 @@ export function useAlternate(slug: string, hidden: ReadonlySet<string>, resolver
     tracks,
     pending: alt ? pendingIds(alt).length : 0,
     fresh,
-    load: (next) => update(() => newAlternate(next, false)),
     setActive: (active) => update((a) => a && { ...a, active }),
     close: () => update(() => undefined),
     async details(track) {

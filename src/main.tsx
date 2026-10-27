@@ -5,6 +5,7 @@ import "./index.css";
 import { SearchPage } from "./components/SearchPage";
 import { GamePage } from "./components/GamePage";
 import { ImportPage } from "./components/ImportPage";
+import { MelodicePage } from "./components/MelodicePage";
 import { APP_WINDOW_NAME } from "./melodice/bookmarklet";
 import { BackendProvider } from "./backend/BackendProvider";
 import { SettingsProvider } from "./settings/SettingsProvider";
@@ -22,6 +23,7 @@ createRoot(document.getElementById("root")!).render(
             <Route path="/" element={<SearchPage />} />
             <Route path="/game/:slug" element={<GamePage />} />
             <Route path="/import" element={<ImportPage />} />
+            <Route path="/melodice" element={<MelodicePage />} />
             <Route path="*" element={<SearchPage />} />
           </Routes>
         </HashRouter>

@@ -2,12 +2,12 @@
 
 When a game's playlist isn't working mid-game, you can play that game's [Melodice](https://melodice.org) list as a temporary **alternate**. Your own playlist stays as it is. A Melodice track only gets into your playlist when you **Keep** it, or when you choose **Replace mine with this**.
 
-melodice.org doesn't let other sites read its pages, so the app can't fetch Melodice itself. The list gets to the app from Melodice's side, either through the bookmarklet or by pasting a link.
+melodice.org doesn't let other sites read its pages, so the app can't fetch Melodice itself. A bookmarklet you click on the Melodice page sends the list to the app instead.
 
 ## Installing the bookmarklet
 
-1. Open any game in Tabletop Tunes.
-2. Under the track list, drag the **Send to Tabletop Tunes** button to your browser's bookmarks bar.
+1. In Tabletop Tunes, click **Melodice bookmarklet** in the page footer (or go to `#/melodice`).
+2. Drag the **Send to Tabletop Tunes** button to your browser's bookmarks bar. You only need to do this once per browser.
 
 The bookmarklet points at the copy of the app you dragged it from: the live site, or `npm run dev` locally. Drag it again if that copy moves.
 
@@ -20,8 +20,6 @@ The bookmarklet points at the copy of the app you dragged it from: the live site
 3. The game page opens with the Melodice list playing.
    - **The Mine | Melodice toggle** switches which list plays.
    - **Close Melodice list** goes back to yours.
-
-**Paste instead:** on Melodice, right-click **Listen on YouTube**, choose "Copy link address", and paste it into **Try this game's Melodice list instead** on the game page.
 
 ## What plays
 

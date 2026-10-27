@@ -65,8 +65,8 @@ export const alternateStore = createAlternateStore(() =>
   typeof sessionStorage === "undefined" ? undefined : sessionStorage,
 );
 
-export function newAlternate(ids: string[], fresh = true): Alternate {
-  return { ids, resolved: {}, active: true, fresh };
+export function newAlternate(ids: string[]): Alternate {
+  return { ids, resolved: {}, active: true, fresh: true };
 }
 
 /** Title shown for an id whose details haven't come back yet. */

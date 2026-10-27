@@ -9,7 +9,7 @@ import { shouldAutoStart } from "../player/autoPlay";
 import { useAutoPlay, useShuffle } from "../settings/SettingsProvider";
 import { formatDuration } from "../format";
 import { AddTrackForm } from "./AddTrackForm";
-import { AlternateBar, MelodiceImportForm } from "./AlternateBar";
+import { AlternateBar } from "./AlternateBar";
 import { Layout, NoPlaylist } from "./Layout";
 import { TrackList } from "./TrackList";
 import { useAlternate, type AlternateApi } from "./useAlternate";
@@ -37,11 +37,9 @@ function PlaylistPlayer({ file }: { file: GameFile }) {
   const playlist = useGamePlaylist(file);
   const alternate = useAlternate(game.slug, playlist.hidden, youtubeTrackResolver);
   const melodice = alternate.active;
-  // Start the selected list straight away after a switch, a paste, or a send
-  // from Melodice; otherwise the Auto-play setting decides.
+  // Start the selected list straight away after a switch or a send from
+  // Melodice; otherwise the Auto-play setting decides.
   const [startNow, setStartNow] = useState(alternate.fresh);
-  // Bumped by each paste, so a new Melodice list gets a fresh player too.
-  const [loads, setLoads] = useState(0);
   const select = (active: boolean) => {
     if (active === melodice) return;
     setStartNow(true);
@@ -80,16 +78,11 @@ function PlaylistPlayer({ file }: { file: GameFile }) {
       )}
       {/* key: a fresh player per list, so switching never carries queue state over */}
       <PlayerPanel
-        key={melodice ? `melodice-${loads}` : "mine"}
+        key={melodice ? "melodice" : "mine"}
         tracks={tracks}
         playlist={playlist}
         alternate={melodice ? alternate : undefined}
         startNow={startNow}
-        load={(ids) => {
-          setStartNow(true);
-          setLoads((n) => n + 1);
-          alternate.load(ids);
-        }}
       />
     </div>
   );
@@ -101,7 +94,6 @@ function PlayerPanel(props: {
   /** Set while the Melodice alternate is the list playing. */
   alternate?: AlternateApi;
   startNow: boolean;
-  load(ids: string[]): void;
 }) {
   const { tracks, playlist, alternate, startNow } = props;
   const containerRef = useRef<HTMLDivElement>(null);
@@ -246,7 +238,6 @@ function PlayerPanel(props: {
                 <ResetControl playlist={playlist} />
               </>
             )}
-            <MelodiceImportForm load={props.load} />
           </>
         )}
       </div>
