@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 284217,
+    "name": "Rush M.D.",
+    "year": 2020,
+    "slug": "rush-md"
+  },
+  "playlist": {
+    "id": "rush-md-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "9DiZVhDZzGA",
+        "title": "Two Point Hospital OST | Recover & Regain [Puffin Pot]",
+        "channel": "The White Tortoise",
+        "durationSec": 160
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qb9byjWnu30",
+        "title": "Two Point Hospital Soundtrack",
+        "channel": "Freedom meets Awareness",
+        "durationSec": 2959
+      },
+      {
+        "source": "youtube",
+        "sourceId": "g58df8yKZj4",
+        "title": "Two Point Hospital OST | Fish Whispers [Jasmine Odyssey]",
+        "channel": "The White Tortoise",
+        "durationSec": 296
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BU0ny1olm7Y",
+        "title": "Two Point Hospital OST | Bassinets (Meta Map)",
+        "channel": "The White Tortoise",
+        "durationSec": 211
+      },
+      {
+        "source": "youtube",
+        "sourceId": "quUH8TZ29Ng",
+        "title": "Two Point Hospital OST | Remedy Hill [Two with Mustard]",
+        "channel": "The White Tortoise",
+        "durationSec": 248
+      }
+    ]
+  }
+}

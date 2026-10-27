@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 129622,
+    "name": "Love Letter",
+    "year": 2012,
+    "slug": "love-letter"
+  },
+  "playlist": {
+    "id": "love-letter-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "VKg5FfkeyCY",
+        "title": "Wolf Hall",
+        "channel": "Debbie Wiseman - Topic",
+        "durationSec": 199
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jqbwfj99F6U",
+        "title": "Evangelina Mascardi plays Dowland & contemporaries on the Renaissance Lute with Frédéric Zigante",
+        "channel": "Edoardo Lambertenghi",
+        "durationSec": 1171
+      },
+      {
+        "source": "youtube",
+        "sourceId": "brHEXXpKxyA",
+        "title": "Faith and Truth - Wolf Hall soundtrack performance at AIR Studios London",
+        "channel": "Silva Screen Records",
+        "durationSec": 313
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ByOOxgS5Sz4",
+        "title": "Wolf Hall - Original Television Soundtrack - Debbie Wiseman",
+        "channel": "Ahmed ",
+        "durationSec": 3311
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9m-sj_tAhVM",
+        "title": "World Soundtrack Awards 2025 | Debbie Wiseman - Wolf Hall Suite",
+        "channel": "Film Fest Gent // World Soundtrack Awards",
+        "durationSec": 251
+      }
+    ]
+  }
+}

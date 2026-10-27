@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 449185,
+    "name": "FlipToons",
+    "year": 2025,
+    "slug": "fliptoons"
+  },
+  "playlist": {
+    "id": "fliptoons-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "ShRtTavUDi8",
+        "title": "Carnival Kerfuffle",
+        "channel": "Kristofer Maddigan - Topic",
+        "durationSec": 242
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hY1lxHGHK8c",
+        "title": "Cuphead - The Delicious Last Course | Official Soundtrack Complete",
+        "channel": "Studio MDHR",
+        "durationSec": 4471
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2clUY-OsCpY",
+        "title": "Floral Fury",
+        "channel": "Kristofer Maddigan - Topic",
+        "durationSec": 226
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ToR93aj9U7w",
+        "title": "Botanic Panic",
+        "channel": "Kristofer Maddigan - Topic",
+        "durationSec": 242
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 158899,
+    "name": "Colt Express",
+    "year": 2014,
+    "slug": "colt-express"
+  },
+  "playlist": {
+    "id": "colt-express-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "3zYmy-G8jqo",
+        "title": "The Railroad Waits for No One",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QDG4wOLf4uE",
+        "title": "The Lone Ranger - Soundtrack Suite by Hans Zimmer (HQ)",
+        "channel": "The Rare & Great Soundtrack's Channel",
+        "durationSec": 1912
+      },
+      {
+        "source": "youtube",
+        "sourceId": "R82iJ0DoJQU",
+        "title": "Runaway Train | Hans Zimmer",
+        "channel": "TheLoneRangerCS",
+        "durationSec": 321
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6Bek6GjikF8",
+        "title": "Red Dead Redemption 2 - Original Soundtrack - \"Red Dead Redemption\" Orchestral Mix",
+        "channel": "JacksNiperson",
+        "durationSec": 926
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Jxz04sNInFo",
+        "title": "Absurdity",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 299
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ViEsSSDgO-s",
+        "title": "Once Upon a Time in the West • Soundtrack Suite • Ennio Morricone",
+        "channel": "HD Film Tributes",
+        "durationSec": 368
+      },
+      {
+        "source": "youtube",
+        "sourceId": "J1HNRwsUmAs",
+        "title": "For God and for Country",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 294
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gwKAmoP0lZo",
+        "title": "Red Dead Redemption | The Music of Red Dead Redemption 2 OST",
+        "channel": "Original Soundtrack",
+        "durationSec": 252
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_t8MSDh_ICc",
+        "title": "Theme From Lonesome Dove",
+        "channel": "Basil Poledouris - Topic",
+        "durationSec": 318
+      },
+      {
+        "source": "youtube",
+        "sourceId": "uCwf6S-hOXA",
+        "title": "Silver",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 241
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AnNKsk2a0fI",
+        "title": "Finale (William Tell Overture)",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 592
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 271324,
+    "name": "It's a Wonderful World",
+    "year": 2019,
+    "slug": "its-a-wonderful-world"
+  },
+  "playlist": {
+    "id": "its-a-wonderful-world-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "WQYN2P3E06s",
+        "title": "Christopher Tin - Sogno di Volare (\"The Dream of Flight\") (Civilization VI Main Theme)",
+        "channel": "Christopher Tin",
+        "durationSec": 239
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tVGDc9hwnas",
+        "title": "Anno 2070 Tycoon Soundtrack Mix For Building an Industrial Empire",
+        "channel": "Grummo 1305",
+        "durationSec": 1674
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ymfs84eSRok",
+        "title": "What a Glorious View",
+        "channel": "Tilman Sillescu - Topic",
+        "durationSec": 146
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0PGf1hLh18Q",
+        "title": "Project Earth",
+        "channel": "Tilman Sillescu - Topic",
+        "durationSec": 216
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sjeXnsxhuD8",
+        "title": "Anno 2070 Eco Soundtrack For Building a Better Future",
+        "channel": "Grummo 1305",
+        "durationSec": 2299
+      },
+      {
+        "source": "youtube",
+        "sourceId": "o1awfO9XTfI",
+        "title": "Industrial Landscapes",
+        "channel": "Markus Schmidt - Topic",
+        "durationSec": 184
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6q_VutB8xRk",
+        "title": "Closer to God",
+        "channel": "Tilman Sillescu - Topic",
+        "durationSec": 145
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WpChHVrGN_U",
+        "title": "Dominion",
+        "channel": "Markus Schmidt - Topic",
+        "durationSec": 142
+      }
+    ]
+  }
+}

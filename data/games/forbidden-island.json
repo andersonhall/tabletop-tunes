@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 65244,
+    "name": "Forbidden Island",
+    "year": 2010,
+    "slug": "forbidden-island"
+  },
+  "playlist": {
+    "id": "forbidden-island-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "ntXJJwEk1NA",
+        "title": "Indiana Jones • Main Theme • John Williams",
+        "channel": "HD Film Tributes",
+        "durationSec": 146
+      },
+      {
+        "source": "youtube",
+        "sourceId": "rKMiu_7TeiE",
+        "title": "The Mummy (1999) - Ultimate Soundtrack Suite | Jerry Goldsmith",
+        "channel": "SuiteSound Music",
+        "durationSec": 2024
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ryCRcv2vh7Q",
+        "title": "Henry Jackman - The Twelve Towers | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 242
+      },
+      {
+        "source": "youtube",
+        "sourceId": "yCW7cxE7Dho",
+        "title": "Henry Jackman - New Devon | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 246
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5bSPU5xIhnw",
+        "title": "Ark of the Covenant Theme | Indiana Jones | John Williams",
+        "channel": "Darth Plagueis",
+        "durationSec": 521
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WnLBm7n699Q",
+        "title": "Henry Jackman - No Escape | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 234
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BEPRSa9rQ50",
+        "title": "Henry Jackman - Cut to the Chase | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 192
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AaAUNAOJUV4",
+        "title": "Camel Race",
+        "channel": "Jerry Goldsmith - Topic",
+        "durationSec": 204
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Oh6BpnWEYnA",
+        "title": "Henry Jackman - End of the Line | Uncharted: The Lost Legacy (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 202
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hIprw5sNK2o",
+        "title": "In the Idol's Temple (John Williams) | Raiders of the Lost Ark | Isolated Film Score",
+        "channel": "El Rincón de lo Etéreo",
+        "durationSec": 103
+      },
+      {
+        "source": "youtube",
+        "sourceId": "J6ZcwStwQlI",
+        "title": "Henry Jackman - Epilogue | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 200
+      },
+      {
+        "source": "youtube",
+        "sourceId": "yEKLObe3SxQ",
+        "title": "37. End Credits | Atlantis: The Lost Empire (Complete Score)",
+        "channel": "Eyezick F.",
+        "durationSec": 145
+      }
+    ]
+  }
+}

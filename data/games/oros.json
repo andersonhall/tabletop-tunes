@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 313807,
+    "name": "Oros",
+    "year": 2023,
+    "slug": "oros"
+  },
+  "playlist": {
+    "id": "oros-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "C8VGvhuJp_g",
+        "title": "VGM Hall Of Fame: From Dust - Main Theme",
+        "channel": "VGM Hall of Fame",
+        "durationSec": 134
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AAw87rrzBhY",
+        "title": "JOURNEY - Complete score with text commentary",
+        "channel": "Austin Wintory",
+        "durationSec": 3451
+      },
+      {
+        "source": "youtube",
+        "sourceId": "FG1J_WAO2gY",
+        "title": "Hans Zimmer, Jacob Shea, Jasha Klebe - Planet Earth II Suite Official Soundtrack",
+        "channel": "Silva Screen Records",
+        "durationSec": 271
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Q6niREbHhgE",
+        "title": "From Dust - Repelling Water (music)",
+        "channel": "ngsdwa",
+        "durationSec": 205
+      },
+      {
+        "source": "youtube",
+        "sourceId": "igtwOdqboT0",
+        "title": "Dune: Part Two Soundtrack | A Time of Quiet Between the Storms - Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 262
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AgzE2TeXCl0",
+        "title": "Dune Official Soundtrack | Ripples in the Sand – Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 315
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 260605,
+    "name": "Camel Up (Second Edition)",
+    "year": 2018,
+    "slug": "camel-up-second-edition"
+  },
+  "playlist": {
+    "id": "camel-up-second-edition-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "AaAUNAOJUV4",
+        "title": "Camel Race",
+        "channel": "Jerry Goldsmith - Topic",
+        "durationSec": 204
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OnOtSEYulbE",
+        "title": "Assassin's Creed Origins Main Theme",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 196
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jwEpkDArR_s",
+        "title": "The Mummy Missing Score Suite  (1999) | The Music of Jerry Goldsmith Returns",
+        "channel": "WhimSical Music ",
+        "durationSec": 772
+      },
+      {
+        "source": "youtube",
+        "sourceId": "FG03axa3uJQ",
+        "title": "Bayek of Siwa",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 156
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Y6yehpa59VA",
+        "title": "Mirage Theme - Menu Version | Assassin's Creed Mirage (Original Game Soundtrack) | Brendan Angelides",
+        "channel": "Ubisoft Music",
+        "durationSec": 185
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PI-KW1Btn0E",
+        "title": "The Tongueless Land",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 209
+      },
+      {
+        "source": "youtube",
+        "sourceId": "kjcSJIK6q4o",
+        "title": "THE MUMMY - UNIVERSAL PICTURES CENTENNIAL CONCERT - FIMUCITÉ 6",
+        "channel": "FIMUCITÉ",
+        "durationSec": 357
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sijC9skdHu8",
+        "title": "I Walk on Your Water",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 190
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jS-p7BvMRMg",
+        "title": "Mirage Theme | Assassin's Creed Mirage Original Game Soundtrack | Brendan Angelides",
+        "channel": "Ubisoft Music",
+        "durationSec": 217
+      },
+      {
+        "source": "youtube",
+        "sourceId": "efj9MRXPxA4",
+        "title": "Legions of Blood",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 159
+      },
+      {
+        "source": "youtube",
+        "sourceId": "l4OOW_RShbE",
+        "title": "Hans Zimmer: Dune Part Two Theme [Extended by Gilles Nuytens]",
+        "channel": "Gilles Nuytens",
+        "durationSec": 942
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jpilleFmBUc",
+        "title": "The Cracked Wall | Assassin’s Creed Origins (Original Game Soundtrack) | Sarah Schachner",
+        "channel": "Ubisoft Music",
+        "durationSec": 116
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Idq2GYJU3Zw",
+        "title": "A Divided Land | Assassin’s Creed Origins (Original Game Soundtrack) | Sarah Schachner",
+        "channel": "Ubisoft Music",
+        "durationSec": 138
+      },
+      {
+        "source": "youtube",
+        "sourceId": "x-3-twFWqf4",
+        "title": "Ezio's Family - Mirage Version | Assassin's Creed Mirage (OST) | Brendan Angelides / Jesper Kyd",
+        "channel": "Ubisoft Music",
+        "durationSec": 142
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0YsNaJsupwg",
+        "title": "The Order of Ancients",
+        "channel": "Sarah Schachner - Topic",
+        "durationSec": 114
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AgzE2TeXCl0",
+        "title": "Dune Official Soundtrack | Ripples in the Sand – Hans Zimmer | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 315
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fcUDwxhtYwQ",
+        "title": "Pharaoh - Credits (aka \"Egypt\") Underscore (1999)",
+        "channel": "Keith Zizza",
+        "durationSec": 61
+      }
+    ]
+  }
+}

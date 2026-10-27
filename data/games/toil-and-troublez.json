@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 402744,
+    "name": "Toil & Troublez",
+    "year": 2023,
+    "slug": "toil-and-troublez"
+  },
+  "playlist": {
+    "id": "toil-and-troublez-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "HPg_auEBL1Y",
+        "title": "Joe Hisaishi - Kiki's Delivery Service",
+        "channel": "JoeHisaishiVEVO",
+        "durationSec": 273
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VfXViCmH0b0",
+        "title": "Potion Craft OST – 1. Mortar and Pestle",
+        "channel": "Potion Craft",
+        "durationSec": 228
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_pyohkRB1aA",
+        "title": "06 Kiki’s Delivery Service Suite - JOE HISAISHI & WORLD DREAM ORCHESTRA 2019",
+        "channel": "Impression and Symbiosis",
+        "durationSec": 1486
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ESnleiaQXBE",
+        "title": "Potion Craft OST – 2. Alchemist's Tale",
+        "channel": "Potion Craft",
+        "durationSec": 209
+      },
+      {
+        "source": "youtube",
+        "sourceId": "pR4iCWB-VVQ",
+        "title": "Joe Hisaishi - A Town with an Ocean View",
+        "channel": "JoeHisaishiVEVO",
+        "durationSec": 241
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bAliH7Udda8",
+        "title": "Bottled Inspiration",
+        "channel": "Pavel Lipski - Topic",
+        "durationSec": 174
+      },
+      {
+        "source": "youtube",
+        "sourceId": "f-Tr8BG1KU4",
+        "title": "World Map - Ni No Kuni: Wrath of the White Witch Music Extended",
+        "channel": "Silver Espeon",
+        "durationSec": 1801
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sggr_NSVY_4",
+        "title": "Stardew Valley OST - A Glimpse Of The Other World (Wizard's Theme)",
+        "channel": "Lewie G",
+        "durationSec": 109
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gYBsmbJrXQ4",
+        "title": "Joe Hisaishi - Mother’s Broom (from Kiki’s Delivery Service)",
+        "channel": "JoeHisaishiVEVO",
+        "durationSec": 236
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fnApMLCb-4M",
+        "title": "Potion Craft OST – 5. Masters of the Craft",
+        "channel": "Potion Craft",
+        "durationSec": 150
+      }
+    ]
+  }
+}

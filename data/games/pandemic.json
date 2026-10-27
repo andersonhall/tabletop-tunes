@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 30549,
+    "name": "Pandemic",
+    "year": 2008,
+    "slug": "pandemic"
+  },
+  "playlist": {
+    "id": "pandemic-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "81Z_iScvjfI",
+        "title": "Contagion",
+        "channel": "Cliff Martinez - Topic",
+        "durationSec": 218
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LDjlh89ycFw",
+        "title": "Contagion (Complete HQ Soundtrack by Cliff Martinez)",
+        "channel": "CursedWithKnowledge",
+        "durationSec": 2465
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bP97XKdBxMw",
+        "title": "Plague Inc OST - Plague Blossom (Main Theme, Evolved)",
+        "channel": "Plasstyre",
+        "durationSec": 391
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ozNl989YJXg",
+        "title": "Plague inc evolved full soundtrack",
+        "channel": "Pokill99",
+        "durationSec": 2124
+      },
+      {
+        "source": "youtube",
+        "sourceId": "G_kqfQFYBkM",
+        "title": "Plague Inc: Xenolith (Original Game Soundtrack)",
+        "channel": "Ndemic Creations - Topic",
+        "durationSec": 200
+      }
+    ]
+  }
+}

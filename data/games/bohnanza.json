@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 11,
+    "name": "Bohnanza",
+    "year": 1997,
+    "slug": "bohnanza"
+  },
+  "playlist": {
+    "id": "bohnanza-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "kpix_QaCi08",
+        "title": "Story of Seasons [Soundtrack] - Spring Theme",
+        "channel": "CHANNEL 90",
+        "durationSec": 153
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VGLoA7envzo",
+        "title": "Story of Seasons: A Wonderful Life Soundtrack (Complete OST)",
+        "channel": "Hero",
+        "durationSec": 3789
+      },
+      {
+        "source": "youtube",
+        "sourceId": "UUalhmz12nc",
+        "title": "Stardew Valley Soundtrack Highlights",
+        "channel": "ConcernedApe",
+        "durationSec": 898
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Dj635iuyqgU",
+        "title": "Sun Room (Alone with Relaxing Tea)",
+        "channel": "ConcernedApe - Topic",
+        "durationSec": 105
+      }
+    ]
+  }
+}

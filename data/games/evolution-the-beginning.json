@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 201248,
+    "name": "Evolution: The Beginning",
+    "year": 2016,
+    "slug": "evolution-the-beginning"
+  },
+  "playlist": {
+    "id": "evolution-the-beginning-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "o4jYCZWa1fs",
+        "title": "Spore Soundtrack - Build a Better Being",
+        "channel": "SporeUGSMusic - Spore TV",
+        "durationSec": 310
+      },
+      {
+        "source": "youtube",
+        "sourceId": "clNP76OhgVA",
+        "title": "Prehistoric Planet (Season 1) - Ultimate Soundtrack Suite | Hans Zimmer Anže Rozman & Kara Talve",
+        "channel": "SuiteSound Music",
+        "durationSec": 1907
+      },
+      {
+        "source": "youtube",
+        "sourceId": "90HTc64dGq4",
+        "title": "Spore Soundtrack - A Thousand Countless Worlds",
+        "channel": "SporeUGSMusic - Spore TV",
+        "durationSec": 521
+      },
+      {
+        "source": "youtube",
+        "sourceId": "M8n998cOiNM",
+        "title": "Sporepedia - Original Complete Score",
+        "channel": "Saul Stokes",
+        "durationSec": 798
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4cD_vkhn1WU",
+        "title": "Spore Soundtrack - Your Own Personal Universe",
+        "channel": "SporeUGSMusic - Spore TV",
+        "durationSec": 648
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_rh0z3N8KnA",
+        "title": "Spore Soundtrack - Sporepedia Galactica",
+        "channel": "SporeUGSMusic - Spore TV",
+        "durationSec": 795
+      },
+      {
+        "source": "youtube",
+        "sourceId": "d-mPtsKpb14",
+        "title": "Spore Main Menu Full Theme",
+        "channel": "AuberGynn",
+        "durationSec": 652
+      }
+    ]
+  }
+}

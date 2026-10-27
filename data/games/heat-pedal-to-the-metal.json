@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 366013,
+    "name": "Heat: Pedal to the Metal",
+    "year": 2022,
+    "slug": "heat-pedal-to-the-metal"
+  },
+  "playlist": {
+    "id": "heat-pedal-to-the-metal-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "VJUO_l7vNx4",
+        "title": "Rush - Lost but Won (Soundtrack OST HD)",
+        "channel": "rushsoundtrack",
+        "durationSec": 377
+      },
+      {
+        "source": "youtube",
+        "sourceId": "b4ScORlmZ_A",
+        "title": "F1: The Movie: The Symphony of Speed | Hans Zimmer",
+        "channel": "matogolf",
+        "durationSec": 1963
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KDYIqCcRW9w",
+        "title": "Rush - Nürburgring (Soundtrack OST HD)",
+        "channel": "rushsoundtrack",
+        "durationSec": 334
+      },
+      {
+        "source": "youtube",
+        "sourceId": "llIm0KPD2Bk",
+        "title": "RUSH | HANS ZIMMER | Soundtrack Cut",
+        "channel": "Soundtrack Cut",
+        "durationSec": 1039
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IXSb80MIyh4",
+        "title": "Hans Zimmer: F1, The Movie Theme [Extended by Gilles Nuytens]",
+        "channel": "Gilles Nuytens",
+        "durationSec": 634
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SzKrYddC89k",
+        "title": "Rush Ultimate Cut",
+        "channel": "matogolf",
+        "durationSec": 1648
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YxzIwX5g_eY",
+        "title": "Formula 1 — Hans Zimmer (OST F1 Movie) | Live by Imperial Orchestra",
+        "channel": "Imperial Orchestra",
+        "durationSec": 395
+      }
+    ]
+  }
+}

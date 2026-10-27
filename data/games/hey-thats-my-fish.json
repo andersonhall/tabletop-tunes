@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 8203,
+    "name": "Hey, That's My Fish!",
+    "year": 2003,
+    "slug": "hey-thats-my-fish"
+  },
+  "playlist": {
+    "id": "hey-thats-my-fish-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "26rKYkjH3aQ",
+        "title": "The March",
+        "channel": "Alex Wurman - Topic",
+        "durationSec": 323
+      },
+      {
+        "source": "youtube",
+        "sourceId": "CwBO6VM7Ly8",
+        "title": "Frozen Planet (2011) - George Fenton",
+        "channel": "Jasper Bunschoten",
+        "durationSec": 4515
+      },
+      {
+        "source": "youtube",
+        "sourceId": "pJwwI6ra2T4",
+        "title": "The Harshest Place on Earth",
+        "channel": "Alex Wurman - Topic",
+        "durationSec": 237
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wON9DMa0qI8",
+        "title": "🎵 Alex Wurman - Reunited 🎵",
+        "channel": "Shantikeet",
+        "durationSec": 138
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1m6o1J3pcwM",
+        "title": "🎵 Alex Wurman - Arrival At Sea 🎵",
+        "channel": "Shantikeet",
+        "durationSec": 191
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KlslYgJw2Oc",
+        "title": "Walk Through Darkness",
+        "channel": "Alex Wurman - Topic",
+        "durationSec": 380
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 39856,
+    "name": "Dixit",
+    "year": 2008,
+    "slug": "dixit"
+  },
+  "playlist": {
+    "id": "dixit-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "znfYwABeSZ0",
+        "title": "Comptine d'un autre été, l'après-midi",
+        "channel": "Yann Tiersen - Topic",
+        "durationSec": 141
+      },
+      {
+        "source": "youtube",
+        "sourceId": "I6rufOlNyYM",
+        "title": "Gris - Original Game Soundtrack (full ost official video)",
+        "channel": "berlinist",
+        "durationSec": 4769
+      },
+      {
+        "source": "youtube",
+        "sourceId": "07xTvC5a9YQ",
+        "title": "La valse d'Amélie",
+        "channel": "Yann Tiersen - Topic",
+        "durationSec": 136
+      }
+    ]
+  }
+}

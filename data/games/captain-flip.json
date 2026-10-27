@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 393325,
+    "name": "Captain Flip",
+    "year": 2024,
+    "slug": "captain-flip"
+  },
+  "playlist": {
+    "id": "captain-flip-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "rvLs-9SA9i0",
+        "title": "Maiden Voyage (Original Game Soundtrack)",
+        "channel": "Sea of Thieves - Topic",
+        "durationSec": 159
+      },
+      {
+        "source": "youtube",
+        "sourceId": "yiaTqfE_qT4",
+        "title": "\"Suite\" - Pirates of the Caribbean (Klaus Badelt) - Film Symphony Orchestra",
+        "channel": "filmsymphony",
+        "durationSec": 379
+      },
+      {
+        "source": "youtube",
+        "sourceId": "I-p3x84aqak",
+        "title": "A New Dawn (Original Game Soundtrack)",
+        "channel": "Sea of Thieves - Topic",
+        "durationSec": 232
+      },
+      {
+        "source": "youtube",
+        "sourceId": "UNREuwdJCw0",
+        "title": "Assassin's Creed IV Black Flag - Assassin's Creed IV Black Flag Main Theme (Track 01)",
+        "channel": "Ubisoft Music",
+        "durationSec": 136
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Xim7X_VLxlc",
+        "title": "Strongholds of the Sea (Original Game Soundtrack)",
+        "channel": "Sea of Thieves - Topic",
+        "durationSec": 318
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WR4ycge_meQ",
+        "title": "Pirates of the Caribbean (Suite) - Klaus Badelt",
+        "channel": "mikt87",
+        "durationSec": 455
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vzR-mvlf15g",
+        "title": "We Shall Sail Together (Original Game Soundtrack)",
+        "channel": "Sea of Thieves - Topic",
+        "durationSec": 127
+      },
+      {
+        "source": "youtube",
+        "sourceId": "V2NvnaxShtY",
+        "title": "Assassin's Creed IV Black Flag - Pyrates Beware (Track 02)",
+        "channel": "Ubisoft Music",
+        "durationSec": 199
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OvoaI5z040w",
+        "title": "Glory to the Guardians",
+        "channel": "Sea of Thieves - Topic",
+        "durationSec": 192
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YVsF5_H-kXY",
+        "title": "New Pirates of the Caribbean Suite - Klaus Badelt - Hollywood in Vienna 2010",
+        "channel": "sonne1372",
+        "durationSec": 613
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2-ZK1PcYw14",
+        "title": "Becalmed (Original Game Soundtrack)",
+        "channel": "Sea of Thieves - Topic",
+        "durationSec": 165
+      },
+      {
+        "source": "youtube",
+        "sourceId": "dsLHf9X8P8w",
+        "title": "Assassin's Creed IV Black Flag - The High Seas (Track 04)",
+        "channel": "Ubisoft Music",
+        "durationSec": 167
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gx4MZHp5jKA",
+        "title": "Last Ship Standing (Original Game Soundtrack)",
+        "channel": "Sea of Thieves - Topic",
+        "durationSec": 120
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sLQMvpEkUUk",
+        "title": "Assassin's Creed IV: Black Flag - Suite (Live with the Swedish Radio Symphony Orchestra : SCORE)",
+        "channel": "krb",
+        "durationSec": 322
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8EBcM4RL6fg",
+        "title": "Becalmed - Shores of Gold (Original Game Soundtrack)",
+        "channel": "Sea of Thieves - Topic",
+        "durationSec": 194
+      },
+      {
+        "source": "youtube",
+        "sourceId": "rdB13lFexNk",
+        "title": "Main Theme | Pirates of the Caribbean",
+        "channel": "Suite Movie Themes",
+        "durationSec": 422
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Qcw9VBTawtk",
+        "title": "The Risen (Original Game Soundtrack)",
+        "channel": "Sea of Thieves - Topic",
+        "durationSec": 208
+      },
+      {
+        "source": "youtube",
+        "sourceId": "nywtDpdOZ6M",
+        "title": "Tropico 2: Pirate Cove - Caribbean Voyage (Official Soundtrack)",
+        "channel": "LMS Records Presents",
+        "durationSec": 251
+      }
+    ]
+  }
+}

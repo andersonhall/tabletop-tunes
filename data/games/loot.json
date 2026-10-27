@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 770,
+    "name": "Loot",
+    "year": 1992,
+    "slug": "loot"
+  },
+  "playlist": {
+    "id": "loot-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "BuYf0taXoNw",
+        "title": "He's a Pirate",
+        "channel": "Klaus Badelt - Topic",
+        "durationSec": 91
+      },
+      {
+        "source": "youtube",
+        "sourceId": "NrNejxB91bA",
+        "title": "Pirates of the Caribbean EPIC MUSIC - Best of 1 Hour",
+        "channel": "Pierre Trottier",
+        "durationSec": 3609
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4l1U8oTZ7UA",
+        "title": "Assassin's Creed IV Black Flag - The British Empire (Track 21)",
+        "channel": "Ubisoft Music",
+        "durationSec": 191
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MufORSL68v0",
+        "title": "Klaus Badelt-Pirates of the Caribbean-RTS Symphony Orchestra",
+        "channel": "menellin",
+        "durationSec": 370
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AW-dOOrjYhE",
+        "title": "Assassin's Creed IV Black Flag - Take What Is Ours! (Track 14)",
+        "channel": "Ubisoft Music",
+        "durationSec": 197
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HfpR1NWKAFI",
+        "title": "Pirates of the Caribbean - Klaus Badelt - Arr. John Wasson",
+        "channel": "Partituras Banda Sinfonica",
+        "durationSec": 454
+      }
+    ]
+  }
+}

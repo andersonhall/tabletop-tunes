@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 342070,
+    "name": "Thunder Road: Vendetta",
+    "year": 2023,
+    "slug": "thunder-road-vendetta"
+  },
+  "playlist": {
+    "id": "thunder-road-vendetta-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "akggf50-mRI",
+        "title": "Mad Max: Fury Road Soundtrack | Brothers In Arms (Extended)- Tom Holkenborg (Junkie XL) | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 353
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9ir0xswFDSM",
+        "title": "Mad Max: Fury Road - Ultimate Action Suite | Junkie XL",
+        "channel": "SuiteSound Music",
+        "durationSec": 1450
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AG7OEi0QR98",
+        "title": "Mad Max | Full Original Soundtrack",
+        "channel": "ElmostritoOO7",
+        "durationSec": 2273
+      },
+      {
+        "source": "youtube",
+        "sourceId": "P9_Bzfa40Ow",
+        "title": "Mad Max: Fury Road Soundtrack | Storm Is Coming (Extended) - Tom Holkenborg (Junkie XL) | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 377
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bomkjym4HE8",
+        "title": "Polk Salad Annie (Ford V Ferrari Remix)",
+        "channel": "James Burton - Topic",
+        "durationSec": 207
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AGwTrFjStdc",
+        "title": "Mad Max: Fury Road Soundtrack | Chapter Doof - Tom Holkenborg (Junkie XL) | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 410
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MhvPlzelj9I",
+        "title": "Junkie XL - All Guitar Flamethrower Guy Mad Max Fury Road OST Music Mix",
+        "channel": "YourNewSh1tHD",
+        "durationSec": 476
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EFiee12P6Uk",
+        "title": "Mad Max: Fury Road Soundtrack | Walhalla Awaits - Tom Holkenborg (Junkie XL) | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 161
+      }
+    ]
+  }
+}

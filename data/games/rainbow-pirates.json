@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 322522,
+    "name": "Rainbow Pirates",
+    "year": 2020,
+    "slug": "rainbow-pirates"
+  },
+  "playlist": {
+    "id": "rainbow-pirates-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "KQAb4mbyAnw",
+        "title": "High Seas Hi-Jinx",
+        "channel": "Kristofer Maddigan - Topic",
+        "durationSec": 203
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_fj5pIpjS14",
+        "title": "The Secret Of Monkey Island SE OST - Full Official Soundtrack",
+        "channel": "Stan's Previously Owned Soundtracks",
+        "durationSec": 2611
+      },
+      {
+        "source": "youtube",
+        "sourceId": "nywtDpdOZ6M",
+        "title": "Tropico 2: Pirate Cove - Caribbean Voyage (Official Soundtrack)",
+        "channel": "LMS Records Presents",
+        "durationSec": 251
+      },
+      {
+        "source": "youtube",
+        "sourceId": "rjpp8_Gdo7k",
+        "title": "Tropico 2 Soundtrack \"Pirate Waltz\"",
+        "channel": "HannibalZeGreat",
+        "durationSec": 203
+      },
+      {
+        "source": "youtube",
+        "sourceId": "__NobC-7vfs",
+        "title": "Beach Buds (Short Hike)",
+        "channel": "Mark Sparling - Topic",
+        "durationSec": 193
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HnaqIPKfFjI",
+        "title": "Tropico 2: Pirate Cove - Peg Leg (Official Soundtrack)",
+        "channel": "LMS Records Presents",
+        "durationSec": 221
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MTYB9ArHYz4",
+        "title": "Tropico 2: Pirate Cove - Pirate Cove (Official Soundtrack)",
+        "channel": "LMS Records Presents",
+        "durationSec": 199
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-_wmxptB2lc",
+        "title": "Moana Movie Score Suite - Mark Mancina (2026)",
+        "channel": "Lost Movie Music",
+        "durationSec": 358
+      },
+      {
+        "source": "youtube",
+        "sourceId": "GczFuvolEB4",
+        "title": "Tropico 2: Pirate Cove - Pirate Siesta (Official Soundtrack)",
+        "channel": "LMS Records Presents",
+        "durationSec": 205
+      }
+    ]
+  }
+}

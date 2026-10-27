@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 100901,
+    "name": "Flash Point: Fire Rescue",
+    "year": 2011,
+    "slug": "flash-point-fire-rescue"
+  },
+  "playlist": {
+    "id": "flash-point-fire-rescue-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "e24POYz6oZU",
+        "title": "Backdraft (Main Titles)",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 265
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fJMlSYFDIeQ",
+        "title": "BACKDRAFT SUITE - HANS ZIMMER",
+        "channel": "Stéphane Humez",
+        "durationSec": 1603
+      },
+      {
+        "source": "youtube",
+        "sourceId": "x86z_88lMrE",
+        "title": "Granite Mountain",
+        "channel": "Joseph Trapanese - Topic",
+        "durationSec": 326
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qr-pFDICrrs",
+        "title": "Fighting 17th",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 265
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-4Q-6We1PR8",
+        "title": "Juniper Tree",
+        "channel": "Joseph Trapanese - Topic",
+        "durationSec": 256
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ExrWQnQRfN8",
+        "title": "Show Me Your Firetruck",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 214
+      },
+      {
+        "source": "youtube",
+        "sourceId": "UVa7qnJTHjE",
+        "title": "The Bear",
+        "channel": "Joseph Trapanese - Topic",
+        "durationSec": 186
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bR-IAMpcsJw",
+        "title": "Final Moments",
+        "channel": "Joseph Trapanese - Topic",
+        "durationSec": 554
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BNq_c3f3yX8",
+        "title": "Training",
+        "channel": "Joseph Trapanese - Topic",
+        "durationSec": 143
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TOrsdThJZKw",
+        "title": "Hotshots",
+        "channel": "Joseph Trapanese - Topic",
+        "durationSec": 178
+      },
+      {
+        "source": "youtube",
+        "sourceId": "I-bdkQ1SOFs",
+        "title": "Funeral",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 193
+      },
+      {
+        "source": "youtube",
+        "sourceId": "oiTNEWSjDtE",
+        "title": "Tribute",
+        "channel": "Joseph Trapanese - Topic",
+        "durationSec": 146
+      }
+    ]
+  }
+}

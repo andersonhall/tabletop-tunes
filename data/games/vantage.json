@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 420033,
+    "name": "Vantage",
+    "year": 2025,
+    "slug": "vantage"
+  },
+  "playlist": {
+    "id": "vantage-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "JPyaFR7poL4",
+        "title": "Outer Wilds Soundtrack (Andrew Prahlow)",
+        "channel": "chiffmonkey",
+        "durationSec": 4378
+      },
+      {
+        "source": "youtube",
+        "sourceId": "oqTFULNFLGI",
+        "title": "Spore Soundtrack - Among the Stars",
+        "channel": "SporeUGSMusic - Spore TV",
+        "durationSec": 722
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 43570,
+    "name": "Friday",
+    "year": 2011,
+    "slug": "friday"
+  },
+  "playlist": {
+    "id": "friday-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "po8cyDH3Y7w",
+        "title": "Mark Mancina - Prologue (From \"Moana\"/Score/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 148
+      },
+      {
+        "source": "youtube",
+        "sourceId": "UvdI_HeUHSU",
+        "title": "LOST Symphony - A celebtration of Michael Giacchino's score to the TV series \"LOST\"",
+        "channel": "Ems",
+        "durationSec": 1466
+      },
+      {
+        "source": "youtube",
+        "sourceId": "gfVS55zR4Jg",
+        "title": "Don't Starve: Shipwrecked Soundtrack - Main Theme (New)",
+        "channel": "[DST] Uncompromising Mode",
+        "durationSec": 80
+      },
+      {
+        "source": "youtube",
+        "sourceId": "55PzrR3LEUM",
+        "title": "Moving On",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 475
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sm2jX7jvWds",
+        "title": "Don't Starve: Shipwrecked Soundtrack - Working On Island Time (Mild Season Work)",
+        "channel": "[DST] Uncompromising Mode",
+        "durationSec": 114
+      },
+      {
+        "source": "youtube",
+        "sourceId": "yUaSv1nmhdk",
+        "title": "Parting Words",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 332
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8EBcM4RL6fg",
+        "title": "Becalmed - Shores of Gold (Original Game Soundtrack)",
+        "channel": "Sea of Thieves - Topic",
+        "durationSec": 194
+      },
+      {
+        "source": "youtube",
+        "sourceId": "x77vqzkGSgk",
+        "title": "Don't Starve Shipwrecked OST | Monsoon Season Boss Fight Extended",
+        "channel": "Tritrons138",
+        "durationSec": 635
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PWDB-FS0fKU",
+        "title": "Don't Starve: Shipwrecked Soundtrack - Working The Heat (Dry Season Work)",
+        "channel": "[DST] Uncompromising Mode",
+        "durationSec": 109
+      },
+      {
+        "source": "youtube",
+        "sourceId": "llsWZtl9WmY",
+        "title": "There's No Place Like Home (From \"Lost: Season 4\")",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 156
+      },
+      {
+        "source": "youtube",
+        "sourceId": "nclBrP_8y2M",
+        "title": "Don't Starve: Shipwrecked Soundtrack - Work It Like A Hurricane (Hurricane Season Work)",
+        "channel": "[DST] Uncompromising Mode",
+        "durationSec": 84
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mF_MXgc_0iw",
+        "title": "Mark Mancina - Pride vs. Purpose (From \"Moana\"/Audio Only)",
+        "channel": "DisneyMusicVEVO",
+        "durationSec": 139
+      }
+    ]
+  }
+}

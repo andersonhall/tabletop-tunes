@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 40834,
+    "name": "Dominion: Intrigue",
+    "year": 2009,
+    "slug": "dominion-intrigue"
+  },
+  "playlist": {
+    "id": "dominion-intrigue-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "yjoCOKO_uHc",
+        "title": "Crusader Kings 3 OST- The Dynasty (Main Theme)",
+        "channel": "Isengriff McCabbage",
+        "durationSec": 300
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zk0ZQTzjqMc",
+        "title": "Songs of Crusader Kings II - Official Soundtrack",
+        "channel": "Paradox Interactive",
+        "durationSec": 4696
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZQvLyUc8U7c",
+        "title": "Kingdom Come: Deliverance II Official Live Action - Music",
+        "channel": "Warhorse Studios",
+        "durationSec": 653
+      }
+    ]
+  }
+}

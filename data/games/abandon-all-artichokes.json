@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 302260,
+    "name": "Abandon All Artichokes",
+    "year": 2020,
+    "slug": "abandon-all-artichokes"
+  },
+  "playlist": {
+    "id": "abandon-all-artichokes-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "IuA1NZqwedQ",
+        "title": "Stardew Valley 1.5 OST",
+        "channel": "ConcernedApe",
+        "durationSec": 1081
+      },
+      {
+        "source": "youtube",
+        "sourceId": "B3kCiCbd_Jw",
+        "title": "harvest moon/story of seasons/rune factory chill calming relaxing music",
+        "channel": "rae forest",
+        "durationSec": 3603
+      }
+    ]
+  }
+}

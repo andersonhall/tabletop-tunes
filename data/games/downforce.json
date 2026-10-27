@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 215311,
+    "name": "Downforce",
+    "year": 2017,
+    "slug": "downforce"
+  },
+  "playlist": {
+    "id": "downforce-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "Rm8Isn0jP6E",
+        "title": "a gran turismo vibe mix.",
+        "channel": "Volante",
+        "durationSec": 3263
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BZdZWkQIsHc",
+        "title": "Ford v Ferrari - Le Mans '66 (Suite) | Marco Beltrami",
+        "channel": "Tim S. Lucas",
+        "durationSec": 875
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fEHfdAbq8RE",
+        "title": "Marco Beltrami, Buck Sanders - Le Mans 66 (From \"Ford v Ferrari/Official Audio)",
+        "channel": "HollywoodRecordsVEVO",
+        "durationSec": 184
+      },
+      {
+        "source": "youtube",
+        "sourceId": "C2mKK1VJzv0",
+        "title": "The Request/The Car Is Yours/Perfect Lap",
+        "channel": "Marco Beltrami - Topic",
+        "durationSec": 277
+      },
+      {
+        "source": "youtube",
+        "sourceId": "aw9lgt4SY7M",
+        "title": "Chasing Bandini",
+        "channel": "Marco Beltrami - Topic",
+        "durationSec": 195
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4Xgv_bi7iYk",
+        "title": "Daytona | Ford v Ferrari Unreleased Soundtrack",
+        "channel": "Sarib Baig",
+        "durationSec": 255
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9MgjgAjnx6E",
+        "title": "Gran Turismo 3 - Light Velocity",
+        "channel": "nitrous36",
+        "durationSec": 284
+      },
+      {
+        "source": "youtube",
+        "sourceId": "KDYIqCcRW9w",
+        "title": "Rush - Nürburgring (Soundtrack OST HD)",
+        "channel": "rushsoundtrack",
+        "durationSec": 334
+      }
+    ]
+  }
+}

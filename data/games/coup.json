@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 131357,
+    "name": "Coup",
+    "year": 2012,
+    "slug": "coup"
+  },
+  "playlist": {
+    "id": "coup-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "FSVHx23ByhM",
+        "title": "Assassin's Creed 2 OST / Jesper Kyd - Ezio's Family (Track 03)",
+        "channel": "Ubisoft Music",
+        "durationSec": 240
+      },
+      {
+        "source": "youtube",
+        "sourceId": "2UVi5Pzjjs0",
+        "title": "Assassin's Creed 2 OST / Jesper Kyd - Dreams of Venice (Track 13)",
+        "channel": "Ubisoft Music",
+        "durationSec": 266
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tePi0WGhznY",
+        "title": "Assassin's Creed Unity OST \"Lined with Treason\"",
+        "channel": "Tridyrium X",
+        "durationSec": 148
+      },
+      {
+        "source": "youtube",
+        "sourceId": "X2QjMpTdkQE",
+        "title": "Assassin's Creed 2 OST / Jesper Kyd - Venice Escape (Track 17)",
+        "channel": "Ubisoft Music",
+        "durationSec": 209
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wstAVxjlt9A",
+        "title": "Assassin's Creed II: Venice Carnival [Ambience / Music]",
+        "channel": "Pharysz",
+        "durationSec": 1709
+      },
+      {
+        "source": "youtube",
+        "sourceId": "fXXopuGFOXY",
+        "title": "Assassin's Creed 2 OST / Jesper Kyd - Stealth (Track 25)",
+        "channel": "Ubisoft Music",
+        "durationSec": 144
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ztTjQB89v6U",
+        "title": "Assassin's Creed 2 OST / Jesper Kyd - Home In Florence (Track 05)",
+        "channel": "Ubisoft Music",
+        "durationSec": 272
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YuyAdaMCmYk",
+        "title": "Assassin's Creed 2 OST / Jesper Kyd - Night Mission In Venice (Track 28)",
+        "channel": "Ubisoft Music",
+        "durationSec": 134
+      },
+      {
+        "source": "youtube",
+        "sourceId": "i__lH_-YuuQ",
+        "title": "The Smallest Compliment",
+        "channel": "Debbie Wiseman - Topic",
+        "durationSec": 172
+      },
+      {
+        "source": "youtube",
+        "sourceId": "uPY5uu4SntI",
+        "title": "Assassin's Creed 2 OST / Jesper Kyd - Tour of Venice (Track 10)",
+        "channel": "Ubisoft Music",
+        "durationSec": 198
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zhjyS_tgB7A",
+        "title": "Assassin's Creed 2 OST / Jesper Kyd - Flight Over Venice 2 (Track 22)",
+        "channel": "Ubisoft Music",
+        "durationSec": 322
+      },
+      {
+        "source": "youtube",
+        "sourceId": "g2FLd42mx6I",
+        "title": "Assassin's Creed Unity OST Vol.1 - Church and Destroy (Track 09)",
+        "channel": "Ubisoft Music",
+        "durationSec": 150
+      },
+      {
+        "source": "youtube",
+        "sourceId": "SBkblz-0XKE",
+        "title": "Assassin's Creed 2 OST / Jesper Kyd - The Plague (Track 30)",
+        "channel": "Ubisoft Music",
+        "durationSec": 212
+      },
+      {
+        "source": "youtube",
+        "sourceId": "UHpX879qVBI",
+        "title": "The Mirror and the Light",
+        "channel": "Debbie Wiseman - Topic",
+        "durationSec": 301
+      }
+    ]
+  }
+}

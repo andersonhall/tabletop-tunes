@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 160499,
+    "name": "King of New York",
+    "year": 2014,
+    "slug": "king-of-new-york"
+  },
+  "playlist": {
+    "id": "king-of-new-york-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "1vU7XqToZso",
+        "title": "Pacific Rim OST Soundtrack - 01 -  MAIN THEME by Ramin Djawadi",
+        "channel": "MonsieurActualites",
+        "durationSec": 295
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8MiZu6M3T94",
+        "title": "Pacific Rim Suite - Ver 2 | Pacific Rim (Original Soundtrack) by Ramin Djawadi",
+        "channel": "azc0na",
+        "durationSec": 2151
+      },
+      {
+        "source": "youtube",
+        "sourceId": "NsDRdUbQO3I",
+        "title": "Pacific Rim Soundtrack | Go Big Or Go Extinct - Ramin Djawadi feat. Tom Morello | WaterTower Music",
+        "channel": "WaterTower Music",
+        "durationSec": 146
+      },
+      {
+        "source": "youtube",
+        "sourceId": "j2iUQ6sta_c",
+        "title": "Godzilla's Theme (King of the Monsters Suite)",
+        "channel": "Star Wars Jibaro",
+        "durationSec": 330
+      },
+      {
+        "source": "youtube",
+        "sourceId": "x28lRmRKD70",
+        "title": "12. 1m9 Pentecost Recruits (Pacific Rim Complete Score)",
+        "channel": "OfficialMovieSoundtrack",
+        "durationSec": 188
+      },
+      {
+        "source": "youtube",
+        "sourceId": "d6FvFfVmngs",
+        "title": "Godzilla: King Of The Monsters Official Soundtrack | Rebirth - Bear McCreary | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 124
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_uJaChObIys",
+        "title": "Godzilla-1.0 Godzilla Suite III | Godzilla Minus One (Original Motion Picture Soundtrack)",
+        "channel": "Milan Records USA",
+        "durationSec": 108
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ECoIGvDT36Q",
+        "title": "Man of Steel Soundtrack | What Are You Going to Do When You Are Not Saving the World? - Hans Zimmer",
+        "channel": "WaterTower Music",
+        "durationSec": 328
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XHOX1Ivyz7k",
+        "title": "Godzilla: King Of The Monsters Official Soundtrack | Mothra’s Song - Bear McCreary | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 131
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9D-YwTdJMZI",
+        "title": "Godzilla-1.0 Resolution (reprise)",
+        "channel": "Naoki Sato - Topic",
+        "durationSec": 314
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tlNj8mwZ1-g",
+        "title": "Pacific Rim Soundtrack | We Are The Resistance - Ramin Djawadi | WaterTower Music",
+        "channel": "WaterTower Music",
+        "durationSec": 110
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9YDBCZbmdLA",
+        "title": "Godzilla-1.0 Last",
+        "channel": "Naoki Sato - Topic",
+        "durationSec": 154
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hUKvfbzehUY",
+        "title": "Pacific Rim (2013) 80 - End Credits (Part 1)",
+        "channel": "Sugoi Ghost",
+        "durationSec": 147
+      }
+    ]
+  }
+}

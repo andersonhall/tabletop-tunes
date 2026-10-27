@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 117959,
+    "name": "Las Vegas",
+    "year": 2012,
+    "slug": "las-vegas"
+  },
+  "playlist": {
+    "id": "las-vegas-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "llRmyRgmshM",
+        "title": "Ocean's Eleven Main Title Theme",
+        "channel": "fallingup90",
+        "durationSec": 125
+      },
+      {
+        "source": "youtube",
+        "sourceId": "GezwQfggBJ0",
+        "title": "Rodney Yates",
+        "channel": "David Holmes - Topic",
+        "durationSec": 385
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Q2XVXqYWEMA",
+        "title": "$160 Million Chinese Man",
+        "channel": "David Holmes - Topic",
+        "durationSec": 250
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BbLWUnZfJ-U",
+        "title": "Snake Eyes",
+        "channel": "David Holmes - Topic",
+        "durationSec": 178
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9mSyS3YXsf4",
+        "title": "7-29-04 The Day Of",
+        "channel": "David Holmes - Topic",
+        "durationSec": 192
+      },
+      {
+        "source": "youtube",
+        "sourceId": "p4u22QWZmOI",
+        "title": "🎷 Vintage Vegas Club | 1960s Cocktail Jazz & Big Band Swing Lounge Background Music",
+        "channel": "Cocktail Hour Companion",
+        "durationSec": 3734
+      },
+      {
+        "source": "youtube",
+        "sourceId": "B28kwBx97eA",
+        "title": "Tess",
+        "channel": "David Holmes - Topic",
+        "durationSec": 202
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9VUV6bqP7iw",
+        "title": "David Holmes - 69 Police",
+        "channel": "mrleephd",
+        "durationSec": 285
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qM_wMjqmzgI",
+        "title": "11, 12 & 13",
+        "channel": "David Holmes - Topic",
+        "durationSec": 118
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QtS1uVBQurw",
+        "title": "Ocean's Eleven Soundtrack - David Holmes-Gritty Shaker",
+        "channel": "3434aaaa",
+        "durationSec": 208
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IdcKhGCThI0",
+        "title": "All Sewn Up",
+        "channel": "David Holmes - Topic",
+        "durationSec": 195
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sdSai09_jzc",
+        "title": "Oceans Eleven Soundtrack - Swat Team Exit",
+        "channel": "StairwayToAude",
+        "durationSec": 233
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HKWxx6tmHDk",
+        "title": "S***! S***! S***!",
+        "channel": "David Holmes - Topic",
+        "durationSec": 123
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZDDvRV9rjog",
+        "title": "David Holmes - Oceans Eleven - 06. Chicago, IL",
+        "channel": "charliecrews38",
+        "durationSec": 80
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QKKUU9a8Hwg",
+        "title": "Not Their Fight",
+        "channel": "David Holmes - Topic",
+        "durationSec": 78
+      }
+    ]
+  }
+}

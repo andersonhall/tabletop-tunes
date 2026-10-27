@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 36218,
+    "name": "Dominion",
+    "year": 2008,
+    "slug": "dominion"
+  },
+  "playlist": {
+    "id": "dominion-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "uyL37Ox5Qxs",
+        "title": "The Dynasty",
+        "channel": "Andreas Waldetoft - Topic",
+        "durationSec": 313
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bvNZeh6f8vE",
+        "title": "Reverse Dance. Medieval Dance. Hurdy-Gurdy, Organ & Drum",
+        "channel": "Andrey Vinogradov",
+        "durationSec": 219
+      },
+      {
+        "source": "youtube",
+        "sourceId": "YLiOAHNtMI8",
+        "title": "Crusader Kings 3 Songs of the Realm - Full OST (with Timestamps)",
+        "channel": "Sir Ruben - 🎧 Historical Music",
+        "durationSec": 2665
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EKk075jTkLk",
+        "title": "Rattay Feasts",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 94
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6aZEgrV2m9w",
+        "title": "Apollonia Theme",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 140
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TT2ZR3UVY9Q",
+        "title": "Kuttenberg Market",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 169
+      },
+      {
+        "source": "youtube",
+        "sourceId": "MUaulN5sYgQ",
+        "title": "Saint Barbara Theme",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 148
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wwyznoWJDHI",
+        "title": "Aequilibrium. Medieval Tune. Hurdy-Gurdy With Organ",
+        "channel": "Andrey Vinogradov",
+        "durationSec": 183
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ur-zcJDyM8E",
+        "title": "Nebakov March",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 90
+      },
+      {
+        "source": "youtube",
+        "sourceId": "7PQntqNYmF4",
+        "title": "Kingdom Come: Deliverance 2 - Saint Barbara (Jan Valta) - Filmová filharmonie (FILMharmonie)",
+        "channel": "Filmová filharmonie",
+        "durationSec": 198
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HS_VM1BT9n0",
+        "title": "Burgher, Commoner and Lord",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 99
+      },
+      {
+        "source": "youtube",
+        "sourceId": "U706r43sQwg",
+        "title": "Fist Fight",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 166
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BgKX2k6snZ8",
+        "title": "Till Our Heads Turn White",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 69
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ivvEDZw79dA",
+        "title": "Poverty and Famine",
+        "channel": "Jan Valta - Topic",
+        "durationSec": 71
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XNPu7PZecuE",
+        "title": "The Tavern Music you're probably looking for - Kingdom Come: Deliverance 2",
+        "channel": "Stone Edge Gaming",
+        "durationSec": 122
+      }
+    ]
+  }
+}

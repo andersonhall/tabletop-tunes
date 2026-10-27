@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 50,
+    "name": "Lost Cities",
+    "year": 1999,
+    "slug": "lost-cities"
+  },
+  "playlist": {
+    "id": "lost-cities-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "bC77czRbjd0",
+        "title": "Raiders March",
+        "channel": "John Williams - Topic",
+        "durationSec": 306
+      },
+      {
+        "source": "youtube",
+        "sourceId": "B3AYReN5WKo",
+        "title": "Filmscore Fantastic Presents: The Mummy the Suite composed by Jerry Goldsmith",
+        "channel": "Filmscore Fantastic",
+        "durationSec": 2182
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HuxdSeQexVY",
+        "title": "John Williams & Saito Kinen Orchestra  - \"Raiders March\" from \"Raiders of the Lost Ark\"",
+        "channel": "Deutsche Grammophon - DG",
+        "durationSec": 355
+      },
+      {
+        "source": "youtube",
+        "sourceId": "E7QwbBd-vWU",
+        "title": "Henry Jackman - For Better or Worse | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 127
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zNdp7Bn73Bc",
+        "title": "John Williams - Indiana Jones Orchestral Medley, conducted by Andrzej Kucybała",
+        "channel": "Akademia Filmu i Telewizji",
+        "durationSec": 564
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VPkFEHnaNvs",
+        "title": "Henry Jackman - The Brothers Drake | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 117
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0Agal9z9Mro",
+        "title": "The Mummy",
+        "channel": "Jerry Goldsmith - Topic",
+        "durationSec": 376
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LWly0yvaY5M",
+        "title": "Imhotep",
+        "channel": "Jerry Goldsmith - Topic",
+        "durationSec": 257
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9eVVBh44kdI",
+        "title": "JOURNEY - I Was Born For This - As Noted",
+        "channel": "Austin Wintory",
+        "durationSec": 287
+      },
+      {
+        "source": "youtube",
+        "sourceId": "hyVfs0CnfPo",
+        "title": "Henry Jackman - A Thief's End | Uncharted 4: A Thief's End (Original Soundtrack)",
+        "channel": "SonySoundtracksVEVO",
+        "durationSec": 117
+      }
+    ]
+  }
+}

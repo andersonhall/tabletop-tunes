@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 396989,
+    "name": "Evenfall",
+    "year": 2023,
+    "slug": "evenfall"
+  },
+  "playlist": {
+    "id": "evenfall-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "mwrIvHe6Yvo",
+        "title": "Ori, Embracing the Light",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 232
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ad_9Iz_5x0c",
+        "title": "Sanctuary in the Glades",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 166
+      },
+      {
+        "source": "youtube",
+        "sourceId": "I7830FvhQi4",
+        "title": "Ori and the Will of the Wisps - Relaxing Soundtrack (1 Hour Mix)",
+        "channel": "Icelandic Overgrowth & Ambience",
+        "durationSec": 3673
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ClCW2A1355A",
+        "title": "Shriek and Ori",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 370
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AVChO2jMQM4",
+        "title": "Mora the Spider",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 358
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ddhdi-kIr_c",
+        "title": "Escaping a Foul Presence",
+        "channel": "Gareth Coker - Topic",
+        "durationSec": 126
+      }
+    ]
+  }
+}

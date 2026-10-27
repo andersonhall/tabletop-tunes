@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 263918,
+    "name": "Cartographers",
+    "year": 2019,
+    "slug": "cartographers"
+  },
+  "playlist": {
+    "id": "cartographers-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "s3L0_ez0Dg4",
+        "title": "The Witcher 3: Wild Hunt - The Trail - Trailer Music",
+        "channel": "Marcin Przybyłowicz",
+        "durationSec": 169
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lqZsRqOjmMM",
+        "title": "1 Hour of Relaxing Zelda: Breath of the Wild Music",
+        "channel": "Charles D. Hummell",
+        "durationSec": 3794
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZarbRbkV4ak",
+        "title": "Far Horizons",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 332
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sx3aFAfQrZA",
+        "title": "Tundra",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 230
+      },
+      {
+        "source": "youtube",
+        "sourceId": "mNwz8f3oYKU",
+        "title": "Wind Guide You",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 546
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ys21nMW2oyc",
+        "title": "Ancient Stones",
+        "channel": "Jeremy Soule - Topic",
+        "durationSec": 286
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 434654,
+    "name": "Toy Battle",
+    "year": 2025,
+    "slug": "toy-battle"
+  },
+  "playlist": {
+    "id": "toy-battle-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "-7R1YjjsTJg",
+        "title": "Small Soldiers - Main Titles HD",
+        "channel": "Ciné OST",
+        "durationSec": 130
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wKf3azy2a0c",
+        "title": "The Nutcracker Suite, Op. 71a: No. 2a, March of the Toy Soldiers",
+        "channel": "Metamorphose String Orchestra - Topic",
+        "durationSec": 149
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5KRuic2rzTo",
+        "title": "Jerry Goldsmith - Small Soldiers Suite",
+        "channel": "COSMORICO",
+        "durationSec": 787
+      },
+      {
+        "source": "youtube",
+        "sourceId": "GyeNVtr7GVI",
+        "title": "Assembly Line",
+        "channel": "Jerry Goldsmith - Topic",
+        "durationSec": 216
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zhqMfAKLjuE",
+        "title": "Murine Corps",
+        "channel": "Kristofer Maddigan - Topic",
+        "durationSec": 250
+      },
+      {
+        "source": "youtube",
+        "sourceId": "HteGkU3ZNuc",
+        "title": "Act I: The Battle",
+        "channel": "Release - Topic",
+        "durationSec": 209
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9d4s7VTMKoc",
+        "title": "Buzzs",
+        "channel": "Randy Newman - Topic",
+        "durationSec": 155
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VDQ8Su-1FdI",
+        "title": "Roll Call",
+        "channel": "Jerry Goldsmith - Topic",
+        "durationSec": 292
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-UgvEDYXjLo",
+        "title": "Jerry Goldsmith: Small Soldiers Theme [Extended by Gilles Nuytens]",
+        "channel": "Gilles Nuytens",
+        "durationSec": 569
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Xph2vDRWbv4",
+        "title": "George Balanchine's The Nutcracker - Act I: March (Official Audio)",
+        "channel": "RHINO",
+        "durationSec": 152
+      },
+      {
+        "source": "youtube",
+        "sourceId": "bJU7ZbI7rAc",
+        "title": "Highlights from Toy Story 4 by Randy Newman/arr. Johnnie Vinson",
+        "channel": "Hal Leonard Concert Band",
+        "durationSec": 291
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-6OGt3jOUxA",
+        "title": "Threatenin' Zeppelin",
+        "channel": "Kristofer Maddigan - Topic",
+        "durationSec": 209
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8UPbKSv23U0",
+        "title": "Jerry Goldsmith-Small Soldiers",
+        "channel": "aerial01",
+        "durationSec": 274
+      },
+      {
+        "source": "youtube",
+        "sourceId": "At7LF4F3m8c",
+        "title": "Small Soldiers - Commando Elite/Chip Hazard  Theme",
+        "channel": "DOMINVS·IMPERATVM",
+        "durationSec": 208
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Rusl58vZb2Y",
+        "title": "The Assembly Line",
+        "channel": "Jerry Goldsmith - Topic",
+        "durationSec": 164
+      }
+    ]
+  }
+}

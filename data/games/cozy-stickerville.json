@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 456440,
+    "name": "Cozy Stickerville",
+    "year": 2026,
+    "slug": "cozy-stickerville"
+  },
+  "playlist": {
+    "id": "cozy-stickerville-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "R8p2YMww4WU",
+        "title": "Somewhere in the Woods (Short Hike)",
+        "channel": "Mark Sparling - Topic",
+        "durationSec": 224
+      },
+      {
+        "source": "youtube",
+        "sourceId": "VLKZbZfsLG4",
+        "title": "ANIMAL CROSSING New Horizons | Fall Vibes Mix | Relaxing Music From the OST",
+        "channel": "Slow Walkthroughs",
+        "durationSec": 3600
+      },
+      {
+        "source": "youtube",
+        "sourceId": "16raNPNRbMw",
+        "title": "Ginger Island",
+        "channel": "ConcernedApe - Topic",
+        "durationSec": 160
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Dc30Pk_Ib1w",
+        "title": "Boat Buds",
+        "channel": "Mark Sparling - Topic",
+        "durationSec": 419
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1cVWwtJQHZE",
+        "title": "Night Market",
+        "channel": "ConcernedApe - Topic",
+        "durationSec": 132
+      },
+      {
+        "source": "youtube",
+        "sourceId": "U4OE_Ip_tnQ",
+        "title": "Somewhere in the Woods (Long Hike)",
+        "channel": "Mark Sparling - Topic",
+        "durationSec": 613
+      }
+    ]
+  }
+}

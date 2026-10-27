@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 70323,
+    "name": "King of Tokyo",
+    "year": 2011,
+    "slug": "king-of-tokyo"
+  },
+  "playlist": {
+    "id": "king-of-tokyo-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "cD0FeOrK6rk",
+        "title": "Godzilla: King Of The Monsters Official Soundtrack | Main Title - Bear McCreary | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 155
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qkIJidLfHjk",
+        "title": "Godzilla-1.0 Godzilla Suite II | Godzilla Minus One (Original Motion Picture Soundtrack)",
+        "channel": "Milan Records USA",
+        "durationSec": 289
+      },
+      {
+        "source": "youtube",
+        "sourceId": "WiONUl3B9po",
+        "title": "Persecution Of The Masses (1172)",
+        "channel": "Shiro Sagisu - Topic",
+        "durationSec": 267
+      },
+      {
+        "source": "youtube",
+        "sourceId": "p_ygvX0xarw",
+        "title": "Pacific Rim Soundtrack | Pacific Rim - Ramin Djawadi feat. Tom Morello | WaterTower Music",
+        "channel": "WaterTower Music",
+        "durationSec": 296
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5i5Yp6EfGqg",
+        "title": "Minus One Suite | Godzilla Minus One (Original Soundtrack) by Naoki Sato",
+        "channel": "azc0na",
+        "durationSec": 971
+      },
+      {
+        "source": "youtube",
+        "sourceId": "jTdu8Dv8s1c",
+        "title": "Defeat Is No Option (1197)",
+        "channel": "Shiro Sagisu - Topic",
+        "durationSec": 231
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1vAZmIzc-1s",
+        "title": "Pacific Rim Soundtrack | Gipsy Danger - Ramin Djawadi | WaterTower Music",
+        "channel": "WaterTower Music",
+        "durationSec": 200
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PPP4ZV8rTII",
+        "title": "Godzilla Suite | Godzilla: King of the Monsters (Original Soundtrack) by Bear McCreary",
+        "channel": "azc0na",
+        "durationSec": 822
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6V176cLBu5I",
+        "title": "Naoki Sato - Godzilla-1.0 Divine | Godzilla Minus One (Original Motion Picture Soundtrack)",
+        "channel": "Milan Records USA",
+        "durationSec": 133
+      },
+      {
+        "source": "youtube",
+        "sourceId": "GpJqb29ulCM",
+        "title": "Pacific Rim Soundtrack | Canceling The Apocalypse - Ramin Djawadi | WaterTower Music",
+        "channel": "WaterTower Music",
+        "durationSec": 220
+      },
+      {
+        "source": "youtube",
+        "sourceId": "GY19iSr0PbM",
+        "title": "Who Will Know Mix | Shin Godzilla (Original Soundtrack) by Shiro Sagisu",
+        "channel": "azc0na",
+        "durationSec": 536
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lOO8Um_jmLI",
+        "title": "Godzilla: King Of The Monsters Official Soundtrack | Godzilla (feat. Serj Tankian) | WaterTower",
+        "channel": "WaterTower Music",
+        "durationSec": 191
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Nx7rbC7CQKk",
+        "title": "Godzilla-1.0 Elegy",
+        "channel": "Naoki Sato - Topic",
+        "durationSec": 155
+      },
+      {
+        "source": "youtube",
+        "sourceId": "eBqCDuwZsCs",
+        "title": "Who Will Know (24 Bigslow)",
+        "channel": "Shiro Sagisu - Topic",
+        "durationSec": 187
+      },
+      {
+        "source": "youtube",
+        "sourceId": "0N_V7xdN7DI",
+        "title": "Godzilla-1.0 Resolution",
+        "channel": "Naoki Sato - Topic",
+        "durationSec": 309
+      }
+    ]
+  }
+}

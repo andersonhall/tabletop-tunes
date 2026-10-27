@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 413246,
+    "name": "Bomb Busters",
+    "year": 2024,
+    "slug": "bomb-busters"
+  },
+  "playlist": {
+    "id": "bomb-busters-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "oJLM4qhbGUU",
+        "title": "Keep Talking and Nobody Explodes Intense Music",
+        "channel": "MajorMason",
+        "durationSec": 267
+      },
+      {
+        "source": "youtube",
+        "sourceId": "-SPvjlidxNM",
+        "title": "Keep Talking and Nobody Explodes OST - DRAGON",
+        "channel": "Moon",
+        "durationSec": 214
+      },
+      {
+        "source": "youtube",
+        "sourceId": "PccEq4nzzYE",
+        "title": "Mission: Impossible - Fallout - Ultimate Soundtrack Suite | Lorne Balfe",
+        "channel": "SuiteSound Music",
+        "durationSec": 2062
+      },
+      {
+        "source": "youtube",
+        "sourceId": "L-WfVpi9YbE",
+        "title": "Keep Talking and Nobody Explodes OST - HOLLOWSTAR (Extended Mix)",
+        "channel": "00Spion",
+        "durationSec": 614
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4cwGFInqneM",
+        "title": "Keep Talking and Nobody Explodes OST - PITCHFORK",
+        "channel": "Moon",
+        "durationSec": 243
+      },
+      {
+        "source": "youtube",
+        "sourceId": "3PnyRgs5lzM",
+        "title": "The Exchange",
+        "channel": "Lorne Balfe - Topic",
+        "durationSec": 355
+      },
+      {
+        "source": "youtube",
+        "sourceId": "BVVZwkfFMsE",
+        "title": "Keep Talking and Nobody Explodes OST - MELTEDTHREE",
+        "channel": "Moon",
+        "durationSec": 278
+      },
+      {
+        "source": "youtube",
+        "sourceId": "EBFeMcUsVs0",
+        "title": "Keep Talking and Nobody Explodes OST - PARAGRAPH",
+        "channel": "Moon",
+        "durationSec": 173
+      },
+      {
+        "source": "youtube",
+        "sourceId": "zvSUVUB3ClI",
+        "title": "Fallout",
+        "channel": "Lorne Balfe - Topic",
+        "durationSec": 91
+      },
+      {
+        "source": "youtube",
+        "sourceId": "1LDFH-xj8eU",
+        "title": "Keep Talking and Nobody Explodes Easy Lvl Music",
+        "channel": "MajorMason",
+        "durationSec": 309
+      }
+    ]
+  }
+}

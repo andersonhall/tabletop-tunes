@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 194880,
+    "name": "Dream Home",
+    "year": 2016,
+    "slug": "dream-home"
+  },
+  "playlist": {
+    "id": "dream-home-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "JnqqO3aZC9s",
+        "title": "Unpacking Theme - Unpacking (Original Soundtrack) - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 129
+      },
+      {
+        "source": "youtube",
+        "sourceId": "34tLhYb1qxI",
+        "title": "Going Solo - Unpacking (Original Soundtrack) - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 303
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ijecaZD4eKs",
+        "title": "A New Day - Upbeat & Motivational Animal Crossing OST",
+        "channel": "Zedozedo",
+        "durationSec": 3545
+      },
+      {
+        "source": "youtube",
+        "sourceId": "5Y1PpD2Vc_0",
+        "title": "Child's Play - Unpacking (Original Soundtrack) - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 364
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Ska3NTtMSLI",
+        "title": "Game On - Unpacking (Original Soundtrack) - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 93
+      },
+      {
+        "source": "youtube",
+        "sourceId": "iinyV19_YFQ",
+        "title": "Own Two Feet - Unpacking (Original Soundtrack) - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 352
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4c35YClam84",
+        "title": "Sunset - Unpacking (Original Soundtrack) - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 438
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 377061,
+    "name": "Coffee Rush",
+    "year": 2023,
+    "slug": "coffee-rush"
+  },
+  "playlist": {
+    "id": "coffee-rush-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "Dj635iuyqgU",
+        "title": "Sun Room (Alone with Relaxing Tea)",
+        "channel": "ConcernedApe - Topic",
+        "durationSec": 105
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Z-vy9Jpj4q0",
+        "title": "Coffee Talk - Music & Ambience - 1 Hour Version",
+        "channel": "Toge Productions",
+        "durationSec": 3615
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_tCkdr0-Yjk",
+        "title": "Coffee Shop Music – Relaxing Jazz Cafe Bass Instrumental",
+        "channel": "Jazz Instrumental Relax - Topic",
+        "durationSec": 2891
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 2653,
+    "name": "Survive: Escape from Atlantis!",
+    "year": 1982,
+    "slug": "survive-escape-from-atlantis"
+  },
+  "playlist": {
+    "id": "survive-escape-from-atlantis-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "0Zk2OeochMI",
+        "title": "Atlantis (From \"Atlantis: The Lost Empire\"/Score)",
+        "channel": "James Newton Howard - Topic",
+        "durationSec": 121
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ZGOToiJewAU",
+        "title": "The Submarine (From \"Atlantis: The Lost Empire\"/Score)",
+        "channel": "James Newton Howard - Topic",
+        "durationSec": 201
+      },
+      {
+        "source": "youtube",
+        "sourceId": "Mstobyo4_6Y",
+        "title": "Moana Theme Suite | Moana (Original Soundtrack) By Mark Mancina ",
+        "channel": "The World of Multiverse",
+        "durationSec": 2090
+      },
+      {
+        "source": "youtube",
+        "sourceId": "qJqgXNCfwu4",
+        "title": "The Crystal Chamber (From \"Atlantis: The Lost Empire\"/Score)",
+        "channel": "James Newton Howard - Topic",
+        "durationSec": 226
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AerfAqrw7qY",
+        "title": "Blue Planet II - Epic themes & Suite. Hans Zimmer, Jacob Shea & David Fleming.",
+        "channel": "FilmscoreJunkie",
+        "durationSec": 836
+      },
+      {
+        "source": "youtube",
+        "sourceId": "8Wg_8lUZFE8",
+        "title": "The Journey (From \"Atlantis: The Lost Empire\"/Score)",
+        "channel": "James Newton Howard - Topic",
+        "durationSec": 202
+      },
+      {
+        "source": "youtube",
+        "sourceId": "eTu7t2wVXrw",
+        "title": "Ocean's Hungry Grasp",
+        "channel": "Jean-Marc Giffin - Topic",
+        "durationSec": 388
+      },
+      {
+        "source": "youtube",
+        "sourceId": "wZx_6h0OQLc",
+        "title": "Touring The City (From \"Atlantis: The Lost Empire\"/Score)",
+        "channel": "James Newton Howard - Topic",
+        "durationSec": 172
+      },
+      {
+        "source": "youtube",
+        "sourceId": "InC_T2FjvL0",
+        "title": "Life And Death",
+        "channel": "Michael Giacchino - Topic",
+        "durationSec": 222
+      },
+      {
+        "source": "youtube",
+        "sourceId": "dgyQ2FcSTmE",
+        "title": "Milo And Kida's Questions (From \"Atlantis: The Lost Empire\"/Score)",
+        "channel": "James Newton Howard - Topic",
+        "durationSec": 180
+      }
+    ]
+  }
+}

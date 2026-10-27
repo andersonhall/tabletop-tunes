@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 143741,
+    "name": "BANG! The Dice Game",
+    "year": 2013,
+    "slug": "bang-the-dice-game"
+  },
+  "playlist": {
+    "id": "bang-the-dice-game-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "5iGoLmFK8jw",
+        "title": "Red Dead Redemption",
+        "channel": "Woody Jackson - Topic",
+        "durationSec": 218
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QLnW6IBGINI",
+        "title": "Ennio Morricone - Once Upon a Time in the West (C'Era Una Volta Il West) 1968 Official Soundtrack",
+        "channel": "Musica e Oltre Srl",
+        "durationSec": 3900
+      },
+      {
+        "source": "youtube",
+        "sourceId": "R0DI3k_Y_GU",
+        "title": "Blessed Are The Peacemakers",
+        "channel": "Woody Jackson - Topic",
+        "durationSec": 222
+      },
+      {
+        "source": "youtube",
+        "sourceId": "AF22vaGLziM",
+        "title": "American Venom",
+        "channel": "Woody Jackson - Topic",
+        "durationSec": 173
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ICvl8JmdgDU",
+        "title": "Blood Feuds, Ancient And Modern",
+        "channel": "Woody Jackson - Topic",
+        "durationSec": 436
+      },
+      {
+        "source": "youtube",
+        "sourceId": "S3YFu3yIGXk",
+        "title": "Woody Jackson - A Fisher Of Men (Red Dead Redemption 2 Full Original Score)",
+        "channel": "Seraphatum",
+        "durationSec": 855
+      }
+    ]
+  }
+}

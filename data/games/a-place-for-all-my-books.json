@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 431481,
+    "name": "A Place for All My Books",
+    "year": 2025,
+    "slug": "a-place-for-all-my-books"
+  },
+  "playlist": {
+    "id": "a-place-for-all-my-books-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-10-27",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "LBvQQ-1T1hI",
+        "title": "Lost and Found - Unpacking (Original Soundtrack) - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 343
+      },
+      {
+        "source": "youtube",
+        "sourceId": "igXoCz9yZZQ",
+        "title": "Pretentious - Unpacking (Original Soundtrack) - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 86
+      },
+      {
+        "source": "youtube",
+        "sourceId": "kxCrrMQ41Gk",
+        "title": "A Short Hike Original Soundtrack",
+        "channel": "VG Soundtrack",
+        "durationSec": 4128
+      },
+      {
+        "source": "youtube",
+        "sourceId": "LzzG8_TNfyI",
+        "title": "Infatuation - Unpacking (Original Soundtrack) - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 294
+      },
+      {
+        "source": "youtube",
+        "sourceId": "iaoE96btfn4",
+        "title": "Friends For Life - Unpacking (Original Soundtrack) - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 311
+      },
+      {
+        "source": "youtube",
+        "sourceId": "_vouLEnk9iA",
+        "title": "City Girl - Unpacking (Original Soundtrack) - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 108
+      },
+      {
+        "source": "youtube",
+        "sourceId": "S36-UT9K-4g",
+        "title": "I Like Water - Unpacking (Original Soundtrack) - Jeff van Dyck",
+        "channel": "Jeff van Dyck (Music)",
+        "durationSec": 67
+      }
+    ]
+  }
+}
