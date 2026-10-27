@@ -53,4 +53,6 @@ It exits with code 1 if any track fails, and 0 if everything plays. It only repo
 
 ## Changing a playlist
 
-For now, edit the game's file under `data/games/` by hand, or regenerate it with `--force`. The app picks up whatever is on `master`. In-app editing is a later story.
+To change the generated playlist everyone starts from, edit the game's file under `data/games/` by hand, or regenerate it with `--force`. The app picks up whatever is on `master`.
+
+To change just your own playlist for a game, sign in and edit it in the app: reorder, remove, hide, or add tracks. Your copy is saved to your account (see [backend.md](backend.md)). You can also try the game's Melodice list and keep the tracks you like (see [melodice.md](melodice.md)).

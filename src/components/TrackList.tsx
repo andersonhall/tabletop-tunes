@@ -11,9 +11,19 @@ interface Editing {
   hide(track: Track): void;
 }
 
-/** The playlist's tracks. With `editing`, each row can also be moved, dragged, removed, or hidden. */
-export function TrackList(props: { tracks: readonly Track[]; player: PlayerApi; editing?: Editing }) {
-  const { tracks, player, editing } = props;
+/** For a Melodice alternate: each row can be kept into the user's own playlist. */
+interface Keeping {
+  disabled: boolean;
+  isKept(track: Track): boolean;
+  keep(track: Track): void;
+}
+
+/**
+ * The playlist's tracks. With `editing`, each row can also be moved, dragged,
+ * removed, or hidden; with `keeping`, kept.
+ */
+export function TrackList(props: { tracks: readonly Track[]; player: PlayerApi; editing?: Editing; keeping?: Keeping }) {
+  const { tracks, player, editing, keeping } = props;
   const [dragFrom, setDragFrom] = useState<number>();
   const [dragOver, setDragOver] = useState<number>();
   const canDrag = !!editing && !editing.disabled;
@@ -79,7 +89,7 @@ export function TrackList(props: { tracks: readonly Track[]; player: PlayerApi; 
                 {t.title}
                 <span className="block text-xs text-stone-500">{t.channel}</span>
               </span>
-              <span className="shrink-0 text-stone-500">{formatDuration(t.durationSec)}</span>
+              <span className="shrink-0 text-stone-500">{t.durationSec > 0 && formatDuration(t.durationSec)}</span>
             </button>
             {editing && (
               <span className="flex shrink-0 items-center gap-0.5 pr-1.5 opacity-60 group-hover:opacity-100 focus-within:opacity-100">
@@ -107,6 +117,23 @@ export function TrackList(props: { tracks: readonly Track[]; player: PlayerApi; 
                 <RowButton label="Hide from all my playlists" disabled={editing.disabled} onClick={() => editing.hide(t)}>
                   <EyeOffIcon />
                 </RowButton>
+              </span>
+            )}
+            {keeping && (
+              <span className="flex shrink-0 items-center pr-2">
+                {keeping.isKept(t) ? (
+                  <span className="text-xs text-stone-500">Kept</span>
+                ) : (
+                  <button
+                    type="button"
+                    title="Add to my playlist for this game"
+                    disabled={keeping.disabled}
+                    onClick={() => keeping.keep(t)}
+                    className="rounded px-1.5 py-0.5 text-xs font-medium text-amber-400 opacity-70 hover:bg-stone-800 hover:text-amber-300 group-hover:opacity-100 focus:opacity-100 disabled:opacity-30"
+                  >
+                    Keep
+                  </button>
+                )}
               </span>
             )}
           </li>

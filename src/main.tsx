@@ -4,8 +4,13 @@ import { HashRouter, Route, Routes } from "react-router-dom";
 import "./index.css";
 import { SearchPage } from "./components/SearchPage";
 import { GamePage } from "./components/GamePage";
+import { ImportPage } from "./components/ImportPage";
+import { APP_WINDOW_NAME } from "./melodice/bookmarklet";
 import { BackendProvider } from "./backend/BackendProvider";
 import { SettingsProvider } from "./settings/SettingsProvider";
+
+// Named so the Melodice bookmarklet can send to this tab instead of opening another.
+window.name = APP_WINDOW_NAME;
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
@@ -16,6 +21,7 @@ createRoot(document.getElementById("root")!).render(
           <Routes>
             <Route path="/" element={<SearchPage />} />
             <Route path="/game/:slug" element={<GamePage />} />
+            <Route path="/import" element={<ImportPage />} />
             <Route path="*" element={<SearchPage />} />
           </Routes>
         </HashRouter>
