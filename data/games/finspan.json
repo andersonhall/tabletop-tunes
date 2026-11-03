@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "bggId": 436126,
+    "name": "Finspan",
+    "year": 2025,
+    "slug": "finspan"
+  },
+  "playlist": {
+    "id": "finspan-default",
+    "ownerId": "andy",
+    "generatedBy": "claude-code",
+    "createdAt": "2026-11-03",
+    "tracks": [
+      {
+        "source": "youtube",
+        "sourceId": "wEwj7TgrKxM",
+        "title": "The Blue Planet",
+        "channel": "George Fenton - Topic",
+        "durationSec": 169
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tEzYsaLm7nw",
+        "title": "Into the Unknown",
+        "channel": "Simon Chylinski - Topic",
+        "durationSec": 179
+      },
+      {
+        "source": "youtube",
+        "sourceId": "9bJP371Dsi0",
+        "title": "Spinning Dolphins",
+        "channel": "George Fenton - Topic",
+        "durationSec": 159
+      },
+      {
+        "source": "youtube",
+        "sourceId": "tewBsrO06vg",
+        "title": "ABZU - Delphinus Delphis - As Noted",
+        "channel": "Austin Wintory",
+        "durationSec": 314
+      },
+      {
+        "source": "youtube",
+        "sourceId": "6b_7AqwaDGI",
+        "title": "Tropical Eden",
+        "channel": "Simon Chylinski - Topic",
+        "durationSec": 103
+      },
+      {
+        "source": "youtube",
+        "sourceId": "lfzNs_RLisg",
+        "title": "Wow",
+        "channel": "Thomas Newman - Topic",
+        "durationSec": 152
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sKljOD5B71k",
+        "title": "Nemo Egg (Main Title)",
+        "channel": "Thomas Newman - Topic",
+        "durationSec": 77
+      },
+      {
+        "source": "youtube",
+        "sourceId": "timUhxznDhQ",
+        "title": "Sardine Run",
+        "channel": "George Fenton - Topic",
+        "durationSec": 210
+      },
+      {
+        "source": "youtube",
+        "sourceId": "IcHGNOFATfE",
+        "title": "Beyond Blue Original Theme",
+        "channel": "Mahuia Bridgman-Cooper - Topic",
+        "durationSec": 287
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sqQEiTy7WjU",
+        "title": "Endless Ocean (Original Video Game Soundtrack) - Ayako Saso (2007)",
+        "channel": "GnC Films",
+        "durationSec": 1042
+      },
+      {
+        "source": "youtube",
+        "sourceId": "JaH4eIFDf3c",
+        "title": "Baitball",
+        "channel": "George Fenton - Topic",
+        "durationSec": 267
+      },
+      {
+        "source": "youtube",
+        "sourceId": "QN0SNDhHTYA",
+        "title": "The Blue Planet",
+        "channel": "Hans Zimmer - Topic",
+        "durationSec": 198
+      },
+      {
+        "source": "youtube",
+        "sourceId": "sG4drWQWYZQ",
+        "title": "Lily Pads",
+        "channel": "Ben Prunty - Topic",
+        "durationSec": 232
+      },
+      {
+        "source": "youtube",
+        "sourceId": "yhNTRHZ8Xco",
+        "title": "Blue Whale",
+        "channel": "George Fenton - Topic",
+        "durationSec": 286
+      },
+      {
+        "source": "youtube",
+        "sourceId": "teb2c7AWOE8",
+        "title": "ABZÛ - Balaenoptera musculus - As Noted",
+        "channel": "Austin Wintory",
+        "durationSec": 262
+      },
+      {
+        "source": "youtube",
+        "sourceId": "FvAc2H8rncs",
+        "title": "Below Zero",
+        "channel": "Ben Prunty - Topic",
+        "durationSec": 162
+      },
+      {
+        "source": "youtube",
+        "sourceId": "TFolqgdQz-g",
+        "title": "And the Earth Did Not yet Bear a Name",
+        "channel": "Austin Wintory - Topic",
+        "durationSec": 172
+      },
+      {
+        "source": "youtube",
+        "sourceId": "ipR2CvUTwXQ",
+        "title": "ABZÛ - Elasmosaurus platyurus / Ichthyosaurus communis - As Noted",
+        "channel": "Austin Wintory",
+        "durationSec": 348
+      },
+      {
+        "source": "youtube",
+        "sourceId": "OYL-CPIJNHk",
+        "title": "Exosuit",
+        "channel": "Simon Chylinski - Topic",
+        "durationSec": 125
+      },
+      {
+        "source": "youtube",
+        "sourceId": "XoeXoTNdMEI",
+        "title": "Cycle of Life",
+        "channel": "Simon Chylinski - Topic",
+        "durationSec": 79
+      },
+      {
+        "source": "youtube",
+        "sourceId": "4DjokyaqUgA",
+        "title": "ABZU - Then were created the gods in the midst of heaven - As Noted",
+        "channel": "Austin Wintory",
+        "durationSec": 244
+      },
+      {
+        "source": "youtube",
+        "sourceId": "vPTZ-XSoMf0",
+        "title": "ABZU - Their Waters Were Mingled Together - As Noted",
+        "channel": "Austin Wintory",
+        "durationSec": 539
+      },
+      {
+        "source": "youtube",
+        "sourceId": "7XVG92t8BzA",
+        "title": "ABZU - To Know, Water - As Noted",
+        "channel": "Austin Wintory",
+        "durationSec": 132
+      }
+    ]
+  }
+}
