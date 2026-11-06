@@ -22,7 +22,8 @@ export interface Track {
 }
 
 export interface Game {
-  bggId: number;
+  /** Always set in data/games/ files; null for a game added on the website without a BGG link. */
+  bggId: number | null;
   name: string;
   year: number | null;
   slug: string;

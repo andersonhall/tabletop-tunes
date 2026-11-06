@@ -33,6 +33,14 @@ export interface SavedPlaylist {
   tracks: Track[];
 }
 
+/** A game the user added on the website (users/{uid}/games/{slug}), not a data/games/ file. */
+export interface AddedGame {
+  slug: string;
+  name: string;
+  year: number | null;
+  bggId: number | null;
+}
+
 /** Per-user saved data. Every call goes to the server, or throws. Nothing is queued offline. */
 export interface UserDataStore {
   getPlaylist(slug: string): Promise<SavedPlaylist | undefined>;
@@ -44,6 +52,12 @@ export interface UserDataStore {
   /** Undefined if the user has never changed it. */
   getSetting(name: SettingName): Promise<boolean | undefined>;
   setSetting(name: SettingName, on: boolean): Promise<void>;
+  /** Games the user added on the website. */
+  listGames(): Promise<AddedGame[]>;
+  /** Creates or updates an added game (keyed by slug). */
+  saveGame(game: AddedGame): Promise<void>;
+  /** Deletes an added game and its saved playlist together. */
+  deleteGame(slug: string): Promise<void>;
 }
 
 /** On/off settings kept on `users/{uid}` (the header toggles). */

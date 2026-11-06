@@ -2,7 +2,8 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { trackKey, type SavedPlaylist } from "../backend/Backend";
 import { useBackend } from "../backend/BackendProvider";
 import { appendTrack, basedOnId, checkAdd, moveTrack, removeTrack, visibleTracks } from "../data/curation";
-import type { GameFile, Track } from "../data/schema";
+import type { CatalogGame } from "../data/addedGames";
+import type { Track } from "../data/schema";
 import type { TrackRef } from "../music/MusicSource";
 
 /** How long the Undo offer stays up after a remove or hide. */
@@ -56,9 +57,10 @@ const EMPTY: UserData = { hidden: [] };
  * saved before it's shown; if the save fails, nothing changes and `error` says
  * why. Model: docs/backend.md.
  */
-export function useGamePlaylist(file: GameFile): GamePlaylist {
+export function useGamePlaylist(file: CatalogGame): GamePlaylist {
   const { auth, backend } = useBackend();
-  const slug = file.game.slug;
+  // Where the user's copy is saved: usually the game's own slug.
+  const slug = file.copySlug ?? file.game.slug;
   const uid = auth.status === "signedIn" ? auth.user.uid : undefined;
   const writer = auth.status === "signedIn" && auth.access === "write";
   const userData = uid ? backend?.userData : undefined;

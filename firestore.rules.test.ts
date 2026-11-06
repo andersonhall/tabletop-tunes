@@ -8,7 +8,7 @@ import {
   initializeTestEnvironment,
   type RulesTestEnvironment,
 } from "@firebase/rules-unit-testing";
-import { deleteDoc, doc, getDoc, setDoc } from "firebase/firestore";
+import { collection, deleteDoc, doc, getDoc, getDocs, setDoc, writeBatch } from "firebase/firestore";
 import { afterAll, beforeAll, beforeEach, describe, it } from "vitest";
 
 let env: RulesTestEnvironment;
@@ -104,5 +104,32 @@ describe("anything outside users/ and writers/", () => {
   it("is denied", async () => {
     await assertFails(getDoc(doc(as("andy"), "other/x")));
     await assertFails(setDoc(doc(as("andy"), "other/x"), { a: 1 }));
+  });
+});
+
+describe("games added on the website (users/{uid}/games)", () => {
+  const game = { name: "Finspan", year: 2024, bggId: null };
+
+  it("an allowlisted user can list, add, edit, and delete their own, with the playlist in one batch", async () => {
+    const db = as("andy");
+    await assertSucceeds(setDoc(doc(db, "users/andy/games/finspan"), game));
+    await assertSucceeds(getDocs(collection(db, "users/andy/games")));
+    await assertSucceeds(setDoc(doc(db, "users/andy/games/finspan"), { ...game, year: 2025 }));
+    const batch = writeBatch(db);
+    batch.delete(doc(db, "users/andy/games/finspan"));
+    batch.delete(doc(db, "users/andy/playlists/finspan"));
+    await assertSucceeds(batch.commit());
+  });
+
+  it("a user who isn't allowlisted can list theirs but not add one", async () => {
+    const db = as("guest");
+    await assertSucceeds(getDocs(collection(db, "users/guest/games")));
+    await assertFails(setDoc(doc(db, "users/guest/games/finspan"), game));
+  });
+
+  it("nobody can see or change another user's games", async () => {
+    await assertFails(getDocs(collection(as("guest"), "users/andy/games")));
+    await assertFails(setDoc(doc(as("andy"), "users/guest/games/finspan"), game));
+    await assertFails(getDocs(collection(anon(), "users/andy/games")));
   });
 });

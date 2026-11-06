@@ -19,7 +19,7 @@ export function normalize(s: string): string {
  * Games whose name contains every word of the query (in any order).
  * Names that start with the query rank first, then alphabetical.
  */
-export function searchGames(games: readonly GameFile[], query: string): GameFile[] {
+export function searchGames<T extends GameFile>(games: readonly T[], query: string): T[] {
   const q = normalize(query);
   if (!q) return [];
   const words = q.split(" ");

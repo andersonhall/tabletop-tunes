@@ -12,15 +12,18 @@ import {
   type User as FbUser,
 } from "firebase/auth";
 import {
+  collection,
   deleteDoc,
   doc,
   getDocFromServer,
+  getDocsFromServer,
   getFirestore,
   serverTimestamp,
   setDoc,
+  writeBatch,
 } from "firebase/firestore";
 import { firebaseConfig } from "./firebaseConfig";
-import { NotSignedInError, type AuthState, type Backend, type SavedPlaylist, type User } from "./Backend";
+import { NotSignedInError, type AddedGame, type AuthState, type Backend, type SavedPlaylist, type User } from "./Backend";
 import { toBackendError } from "./firebaseErrors";
 import { withTimeout } from "./withTimeout";
 
@@ -128,6 +131,31 @@ export function createFirebaseBackend(): Backend {
       async setSetting(name, on) {
         const data = { [name]: on, updatedAt: serverTimestamp() };
         await call(() => setDoc(doc(db, "users", uid()), data, { merge: true }));
+      },
+
+      async listGames() {
+        const snap = await call(() => getDocsFromServer(collection(db, "users", uid(), "games")));
+        return snap.docs.map((d): AddedGame => {
+          const { name, year, bggId } = d.data() as Partial<AddedGame>;
+          return {
+            slug: d.id,
+            name: typeof name === "string" ? name : d.id,
+            year: typeof year === "number" ? year : null,
+            bggId: typeof bggId === "number" ? bggId : null,
+          };
+        });
+      },
+
+      async saveGame(g) {
+        const data = { name: g.name, year: g.year, bggId: g.bggId, updatedAt: serverTimestamp() };
+        await call(() => setDoc(doc(db, "users", uid(), "games", g.slug), data));
+      },
+
+      async deleteGame(slug) {
+        const batch = writeBatch(db);
+        batch.delete(doc(db, "users", uid(), "games", slug));
+        batch.delete(doc(db, "users", uid(), "playlists", slug));
+        await call(() => batch.commit());
       },
     },
   };
