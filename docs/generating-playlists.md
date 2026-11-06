@@ -4,6 +4,8 @@ Playlists are generated ahead of time in Claude Code (under Andy's subscription,
 
 The short version: open Claude Code in this repo and say **"generate a playlist for _<game>_"**. The project skill [`.claude/skills/generate-playlist`](../.claude/skills/generate-playlist/SKILL.md) holds the full procedure. This document covers setup and what happens at each step.
 
+**No Claude Code session handy?** Signed in with an account that can save, you can add a game on the website instead: search for it, choose **Add "…"**, and build its playlist from YouTube links or the [Melodice bookmarklet](melodice.md). That game is saved to your account, not to `data/games/` (see [backend.md](backend.md#games-added-on-the-website)). If you generate a playlist for it here later, the app shows the generated game in its place and keeps your tracks.
+
 ## One-time setup
 
 1. `npm install`

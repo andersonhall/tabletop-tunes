@@ -56,14 +56,17 @@ export function parseImportQuery(search: string): MelodiceImport {
   };
 }
 
-export type GameMatch = { kind: "match"; game: GameFile } | { kind: "choose"; candidates: GameFile[] };
+export type GameMatch<T extends GameFile = GameFile> = { kind: "match"; game: T } | { kind: "choose"; candidates: T[] };
 
 /**
  * The app game a Melodice page is for: exactly one game with the same name and
  * year, or whose slug + year is Melodice's slug. Anything less certain is left
  * to the user to choose, with name-search candidates.
  */
-export function matchGame(games: readonly GameFile[], i: Pick<MelodiceImport, "name" | "melodiceSlug">): GameMatch {
+export function matchGame<T extends GameFile>(
+  games: readonly T[],
+  i: Pick<MelodiceImport, "name" | "melodiceSlug">,
+): GameMatch<T> {
   const year = slugYear(i.melodiceSlug);
   const name = normalize(i.name);
   const exact = games.filter(

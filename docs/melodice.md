@@ -16,7 +16,7 @@ The bookmarklet points at the copy of the app you dragged it from: the live site
 1. On melodice.org, open the game's page (e.g. `melodice.org/playlist/agricola-2007/`).
 2. Click **Send to Tabletop Tunes**.
    - **Which tab opens:** the bookmarklet tries to reuse a tab where the app is already open. Some browsers don't allow that, and a new tab opens instead. Close the old one so two players don't run at once.
-   - **Matching the game:** the app matches Melodice's game on its name and year. If that isn't a single clear match, it asks you which game the list is for, or tells you the game isn't in the app yet.
+   - **Matching the game:** the app matches Melodice's game on its name and year. If that isn't a single clear match, it asks you which game the list is for. If the game isn't in the app yet, an account that can save can choose **Add "…" as a new game**: the form opens with Melodice's name and year filled in, and once the game is added, its Melodice list loads there as usual.
 3. The game page opens with the Melodice list playing.
    - **The Mine | Melodice toggle** switches which list plays.
    - **Close Melodice list** goes back to yours.

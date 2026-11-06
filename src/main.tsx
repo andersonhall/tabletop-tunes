@@ -6,6 +6,8 @@ import { SearchPage } from "./components/SearchPage";
 import { GamePage } from "./components/GamePage";
 import { ImportPage } from "./components/ImportPage";
 import { MelodicePage } from "./components/MelodicePage";
+import { AddGamePage } from "./components/AddGamePage";
+import { GamesProvider } from "./data/GamesProvider";
 import { APP_WINDOW_NAME } from "./melodice/bookmarklet";
 import { BackendProvider } from "./backend/BackendProvider";
 import { SettingsProvider } from "./settings/SettingsProvider";
@@ -17,16 +19,19 @@ createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <BackendProvider>
       <SettingsProvider>
-        {/* Hash routing so deep links work on GitHub Pages without a 404 fallback. */}
-        <HashRouter>
-          <Routes>
-            <Route path="/" element={<SearchPage />} />
-            <Route path="/game/:slug" element={<GamePage />} />
-            <Route path="/import" element={<ImportPage />} />
-            <Route path="/melodice" element={<MelodicePage />} />
-            <Route path="*" element={<SearchPage />} />
-          </Routes>
-        </HashRouter>
+        <GamesProvider>
+          {/* Hash routing so deep links work on GitHub Pages without a 404 fallback. */}
+          <HashRouter>
+            <Routes>
+              <Route path="/" element={<SearchPage />} />
+              <Route path="/game/:slug" element={<GamePage />} />
+              <Route path="/add" element={<AddGamePage />} />
+              <Route path="/import" element={<ImportPage />} />
+              <Route path="/melodice" element={<MelodicePage />} />
+              <Route path="*" element={<SearchPage />} />
+            </Routes>
+          </HashRouter>
+        </GamesProvider>
       </SettingsProvider>
     </BackendProvider>
   </StrictMode>,

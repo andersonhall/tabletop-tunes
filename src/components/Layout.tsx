@@ -123,8 +123,9 @@ export function NoPlaylist({ name }: { name: string }) {
         No playlist for “{name}” yet.
       </p>
       <p className="mt-1 text-sm text-stone-400">
-        Playlists are generated ahead of time. Open Claude Code in the tabletop-tunes repo and ask it to
-        generate a playlist for this game (see <code className="text-stone-300">docs/generating-playlists.md</code>).
+        Signed in with an account that can save, you can add the game here and build its playlist yourself. Or
+        open Claude Code in the tabletop-tunes repo and ask it to generate a playlist for this game (see{" "}
+        <code className="text-stone-300">docs/generating-playlists.md</code>).
       </p>
     </div>
   );

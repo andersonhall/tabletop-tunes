@@ -1,9 +1,9 @@
 import { useEffect, useMemo, useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
-import { playlistStore } from "../data/store";
 import type { GameFile } from "../data/schema";
+import { useGames } from "../data/GamesProvider";
 import { alternateStore, newAlternate } from "../melodice/alternateStore";
-import { matchGame, parseImportQuery } from "../melodice/melodice";
+import { matchGame, parseImportQuery, slugYear } from "../melodice/melodice";
 import { searchGames } from "../search";
 import { Layout } from "./Layout";
 
@@ -16,7 +16,10 @@ export function ImportPage() {
   const { search } = useLocation();
   const navigate = useNavigate();
   const sent = useMemo(() => parseImportQuery(search), [search]);
-  const match = useMemo(() => matchGame(playlistStore.listGames(), sent), [sent]);
+  const { games, status, canAdd } = useGames();
+  const match = useMemo(() => matchGame(games, sent), [games, sent]);
+  // Until the user's added games load, a game they added could still match.
+  const loading = status === "loading";
   const [query, setQuery] = useState(sent.name);
 
   function attach(game: GameFile) {
@@ -25,12 +28,18 @@ export function ImportPage() {
   }
 
   useEffect(() => {
-    if (sent.ids.length > 0 && match.kind === "match") attach(match.game);
-  }, [sent, match]);
+    if (!loading && sent.ids.length > 0 && match.kind === "match") attach(match.game);
+  }, [loading, sent, match]);
 
   // Until the user searches, the candidates matchGame found.
   const searched = query.trim() !== sent.name;
-  const results = !searched && match.kind === "choose" ? match.candidates : searchGames(playlistStore.listGames(), query);
+  const results = !searched && match.kind === "choose" ? match.candidates : searchGames(games, query);
+  const year = slugYear(sent.melodiceSlug);
+  const addLink = `/add?${new URLSearchParams({
+    name: sent.name,
+    ...(year ? { year: String(year) } : {}),
+    ids: sent.ids.join(","),
+  })}`;
 
   return (
     <Layout>
@@ -42,6 +51,8 @@ export function ImportPage() {
           <p className="rounded-lg border border-stone-700 bg-stone-900 p-5 text-red-400">
             That Melodice link didn't have any YouTube videos in it.
           </p>
+        ) : loading ? (
+          <p className="text-stone-500">Loading…</p>
         ) : match.kind === "match" ? (
           <p className="text-stone-500">Opening {match.game.game.name}…</p>
         ) : (
@@ -74,6 +85,14 @@ export function ImportPage() {
               ))}
               {results.length === 0 && <li className="px-4 py-2 text-sm text-stone-500">No games match.</li>}
             </ul>
+            {canAdd && (
+              <p className="mt-4 text-sm text-stone-400">
+                Not listed?{" "}
+                <Link to={addLink} className="font-medium text-amber-400 hover:text-amber-300">
+                  Add “{sent.name || sent.melodiceSlug}” as a new game
+                </Link>
+              </p>
+            )}
           </div>
         )}
       </div>

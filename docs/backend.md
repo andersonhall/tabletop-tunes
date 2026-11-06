@@ -17,11 +17,25 @@ Signing in is optional. Anyone can search and play generated playlists without i
 writers/{uid}                  {}   allowlist of accounts that may save (created by hand)
 users/{uid}                    { hiddenTracks: string[], autoPlay?: boolean, shuffle?: boolean, updatedAt }
 users/{uid}/playlists/{slug}   { gameSlug, basedOn, tracks: Track[], updatedAt }
+users/{uid}/games/{slug}       { name, year: number | null, bggId: number | null, updatedAt }
 ```
 
 - **`writers/{uid}`**: an empty doc whose existence means "this account can save". Only the account itself can read it, and no one can write it from the app, so it's managed in the Firebase console. Keeping the allowlist here rather than in the rules keeps account ids out of the public repo.
 - **`users/{uid}`**: the user's settings. `hiddenTracks` holds the tracks hidden from all their playlists, as `"<source>:<sourceId>"` keys, e.g. `"youtube:dQw4w9WgXcQ"`. `autoPlay` is the header's Auto-play toggle, absent until the user changes it (the default is on). Signed out, or with an account that can't save, the toggle is kept in this browser's localStorage (`tabletopTunes.autoPlay`) instead. Once an account that can save has its own value, that value wins. `shuffle` is the header's Shuffle toggle and works the same way (default off; localStorage key `tabletopTunes.shuffle`).
 - **`users/{uid}/playlists/{slug}`**: the user's own copy of one game's playlist. It's created the first time they edit that game. Generated playlists stay static files in `data/games/` and act as a cookie cutter: a game without a copy shows the current generated playlist, minus hidden tracks. Once a copy exists, it's what the user gets, and later regenerations don't change it. `basedOn` records which generated playlist the copy started from (`<playlist id>@<createdAt>`). `tracks` uses the `Track` shape from [`src/data/schema.ts`](../src/data/schema.ts).
+- **`users/{uid}/games/{slug}`**: a game the user added on the website (see [below](#games-added-on-the-website)). Its tracks are the user's copy in `playlists/{slug}`.
+
+## Games added on the website
+
+An account that can save can add a game that has no generated file: from a search with no results, or from the Melodice bookmarklet's "which game?" page. The site can't call BoardGameGeek (its API needs an app token, and a static site can't keep one secret), so the form takes a name, an optional year, and an optional BGG link. The only thing the link gives is the BGG id.
+
+- **Catalog:** [`GamesProvider`](../src/data/GamesProvider.tsx) merges the generated games with the signed-in user's added games, using [`mergeCatalog`](../src/data/addedGames.ts). An added game is an entry with an empty generated playlist, so its tracks are always the user's copy. Signed out, only generated games show.
+- **Slug:** made from the name when the game is added (`<name>`, then `<name>-<year>`, then `-2`, `-3` if taken). It stays the same when the name is edited, so links and the saved copy keep working.
+- **Duplicates:** a game is already present if it has the same BGG id, or the same name and year. Adding it again opens the existing game.
+- **Later generation:** if a `data/games/` file for the same game is deployed later, the added game drops out of the catalog in its favor. If the slugs differ, the generated game reads the user's copy from the added game's slug (`copySlug`), so the user's tracks are kept.
+- **Delete** removes the game and its saved copy in one batch write.
+
+These docs sit under `users/{uid}/`, so the existing rules already cover them. Adding them didn't need a rules change or deploy.
 
 ## Security rules
 
